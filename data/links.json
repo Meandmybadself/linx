@@ -8,7 +8,12 @@
       "channelName": "general",
       "timestamp": "1773406293.459399",
       "collectedAt": "2026-03-13T13:00:19.351Z",
-      "messageText": "Let's find out.  <https://webrung.com>"
+      "messageText": "Let's find out.  <https://webrung.com>",
+      "meta": {
+        "title": "Webrung",
+        "description": null,
+        "favicon": "https://webrung.com/favicon.ico"
+      }
     },
     {
       "url": "https://mnncrpls.meandmybadself.com",
@@ -18,7 +23,12 @@
       "channelName": "general",
       "timestamp": "1773405475.855259",
       "collectedAt": "2026-03-13T13:00:19.351Z",
-      "messageText": "I made something I think people will enjoy – <https://mnncrpls.meandmybadself.com>\nIt is an opt-in link aggregator for this Slack.\nYou opt in with `/linx-optin` (and afterwards can opt out with `/linx-optout`)\nIt collects links once an hour from any channel the bot (<@U0AL8EPAQG5"
+      "messageText": "I made something I think people will enjoy – <https://mnncrpls.meandmybadself.com>\nIt is an opt-in link aggregator for this Slack.\nYou opt in with `/linx-optin` (and afterwards can opt out with `/linx-optout`)\nIt collects links once an hour from any channel the bot (<@U0AL8EPAQG5",
+      "meta": {
+        "title": "MNNCRPLS Linx",
+        "description": null,
+        "favicon": "https://mnncrpls.meandmybadself.com/data:image/svg+xml,<svg xmlns="
+      }
     },
     {
       "url": "https://www.minnetonkamn.gov/our-city/recreation/sauna-in-the-parks",
@@ -28,7 +38,8 @@
       "channelName": "general",
       "timestamp": "1773367905.502919",
       "collectedAt": "2026-03-13T13:00:19.351Z",
-      "messageText": "This shit is wonderful &amp; cheap – <https://www.minnetonkamn.gov/our-city/recreation/sauna-in-the-parks>"
+      "messageText": "This shit is wonderful &amp; cheap – <https://www.minnetonkamn.gov/our-city/recreation/sauna-in-the-parks>",
+      "meta": null
     },
     {
       "url": "https://www.youtube.com/watch?v=hTnCjI8f0So",
@@ -38,7 +49,12 @@
       "channelName": "general",
       "timestamp": "1773261749.639919",
       "collectedAt": "2026-03-13T13:00:19.351Z",
-      "messageText": "stick with it...stellar 311 reference inside\n\n<https://www.youtube.com/watch?v=hTnCjI8f0So>"
+      "messageText": "stick with it...stellar 311 reference inside\n\n<https://www.youtube.com/watch?v=hTnCjI8f0So>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/5a20cf88/img/favicon_32x32.png"
+      }
     },
     {
       "url": "https://meandmybadself.com",
@@ -48,7 +64,13 @@
       "channelName": "general",
       "timestamp": "1773244069.043149",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https",
+      "meta": {
+        "title": "Me & My Bad Self",
+        "description": "The miscellaneous efforts of Jeffery Bennett",
+        "favicon": "https://meandmybadself.com/favicon.ico",
+        "image": "https://meandmybadself.com/images/thumb-whodini.jpeg"
+      }
     },
     {
       "url": "https://github.com/Meandmybadself/webrung/edit/main/sites.json",
@@ -58,7 +80,13 @@
       "channelName": "general",
       "timestamp": "1773244069.043149",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https",
+      "meta": {
+        "title": "Build software better, together",
+        "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png"
+      }
     },
     {
       "url": "https://webrung.com/webrung.js",
@@ -68,7 +96,8 @@
       "channelName": "general",
       "timestamp": "1773244069.043149",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https",
+      "meta": null
     },
     {
       "url": "https://github.com/Meandmybadself/webrung",
@@ -78,7 +107,13 @@
       "channelName": "general",
       "timestamp": "1773244069.043149",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https",
+      "meta": {
+        "title": "GitHub - Meandmybadself/webrung: A modern-day, easy-to-implement webring.",
+        "description": "A modern-day, easy-to-implement webring. Contribute to Meandmybadself/webrung development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/6426dd7639e10e7a6f69f6d7acc727cf4297700e3ba4b60f34a75037b40aa9a1/Meandmybadself/webrung"
+      }
     },
     {
       "url": "https://webrung.com/",
@@ -88,7 +123,12 @@
       "channelName": "general",
       "timestamp": "1773237077.771309",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "BOOM <https://webrung.com/>"
+      "messageText": "BOOM <https://webrung.com/>",
+      "meta": {
+        "title": "Webrung",
+        "description": null,
+        "favicon": "https://webrung.com/favicon.ico"
+      }
     },
     {
       "url": "https://www.towergamesmn.com/",
@@ -98,7 +138,13 @@
       "channelName": "general",
       "timestamp": "1773145336.485269",
       "collectedAt": "2026-03-13T13:00:19.352Z",
-      "messageText": "It's looking like I'm going to spending most Tuesday nights from 5-9 at <https://www.towergamesmn.com/|40th & Nicollet>.\nLearned last week that everything up there closes around 6.\nBesides bars, does anyone know where the cool kids hang out in that neck of the woods after 6?"
+      "messageText": "It's looking like I'm going to spending most Tuesday nights from 5-9 at <https://www.towergamesmn.com/|40th & Nicollet>.\nLearned last week that everything up there closes around 6.\nBesides bars, does anyone know where the cool kids hang out in that neck of the woods after 6?",
+      "meta": {
+        "title": "Tower Games - Minneapolis - Tabletop Games",
+        "description": null,
+        "favicon": "https://static.wixstatic.com/media/0a6867_cbe4982edb6c47c9a7a102de822aa319%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/0a6867_cbe4982edb6c47c9a7a102de822aa319%7Emv2.png",
+        "image": "https://static.wixstatic.com/media/d1dded_fe543c3658bd432f8cbc5ae50340a8d8%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/d1dded_fe543c3658bd432f8cbc5ae50340a8d8%7Emv2.jpeg"
+      }
     },
     {
       "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
@@ -108,7 +154,8 @@
       "channelName": "food",
       "timestamp": "1773059055.420809",
       "collectedAt": "2026-03-13T13:00:21.172Z",
-      "messageText": "<https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/>"
+      "messageText": "<https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/>",
+      "meta": null
     },
     {
       "url": "https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378",
@@ -118,7 +165,13 @@
       "channelName": "politics",
       "timestamp": "1772833254.777059",
       "collectedAt": "2026-03-13T13:00:21.488Z",
-      "messageText": "of course they are...but let's not stop now...this is the green light to engulf everyone! :disappointed:\n\n<https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378>"
+      "messageText": "of course they are...but let's not stop now...this is the green light to engulf everyone! :disappointed:\n\n<https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378>",
+      "meta": {
+        "title": "Russia has provided Iran with information that can help Tehran strike US military, AP sources say",
+        "description": "Russia has provided Iran with information that could help Tehran strike American warships, aircraft and other assets in the region.",
+        "favicon": "https://apnews.com/favicon-32x32.png",
+        "image": "https://dims.apnews.com/dims4/default/9d1119f/2147483647/strip/true/crop/4918x3277+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2Faf%2Fd45e93579e92b9fd442b51d654e6%2Fa6bbbca2b9a143d49b81c28b7504f0db"
+      }
     },
     {
       "url": "https://www.metmuseum.org/press-releases/3-d-models-announcement-2026",
@@ -128,7 +181,13 @@
       "channelName": "3d-printing",
       "timestamp": "1773345126.854429",
       "collectedAt": "2026-03-13T13:00:21.981Z",
-      "messageText": "<https://www.metmuseum.org/press-releases/3-d-models-announcement-2026>"
+      "messageText": "<https://www.metmuseum.org/press-releases/3-d-models-announcement-2026>",
+      "meta": {
+        "title": "The Metropolitan Museum of Art to Publish Over 100 Three-Dimensional Models of Iconic Works from Across Its Collection - The Metropolitan Museum of Art",
+        "description": "The Met releases 100+ high‑res 3D models for interactive online viewing, with many available as free Open Access downloads",
+        "favicon": "https://www.metmuseum.org/icon?61438e203065314d",
+        "image": "https://cdn.sanity.io/images/cctd4ker/production/16b5962817050737cd8bbe4284c8e4f71a81bfa9-5120x2880.jpg?w=600&amp;q=75&amp;auto=format"
+      }
     },
     {
       "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
@@ -138,7 +197,13 @@
       "channelName": "ai",
       "timestamp": "1773163283.709769",
       "collectedAt": "2026-03-13T13:00:22.512Z",
-      "messageText": "<https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/>"
+      "messageText": "<https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/>",
+      "meta": {
+        "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts | TechCrunch",
+        "description": "Meta says that Moltbook&#039;s approach to &quot;connecting agents through an always-on-directory&quot; is novel.",
+        "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1485567434.jpg?resize=1200,827"
+      }
     },
     {
       "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
@@ -148,7 +213,8 @@
       "channelName": "shopping-sickness",
       "timestamp": "1773238775.977479",
       "collectedAt": "2026-03-13T13:00:22.697Z",
-      "messageText": "<@U03AYQUQ0> - <https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/>"
+      "messageText": "<@U03AYQUQ0> - <https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/>",
+      "meta": null
     },
     {
       "url": "https://hopkinsdispensary.com/",
@@ -158,7 +224,13 @@
       "channelName": "drugs",
       "timestamp": "1773345461.683859",
       "collectedAt": "2026-03-13T13:00:22.792Z",
-      "messageText": "Excited to spend some cash at <https://hopkinsdispensary.com/> tonight!"
+      "messageText": "Excited to spend some cash at <https://hopkinsdispensary.com/> tonight!",
+      "meta": {
+        "title": "Hopkins Dispensary | Premier Cannabis Destination MN",
+        "description": "Hopkins Dispensary — Hopkins, MN’s top cannabis shop with high‑quality flower, edibles, vapes, daily discounts &amp; expert one‑on‑one guidance.",
+        "favicon": "https://hopkinsdispensary.com/wp-content/uploads/2025/09/cropped-Minnesota-Dispensary-LOgo-1-32x32.png",
+        "image": "https://hopkinsdispensary.com/wp-content/uploads/2025/10/cropped-Monticello-Altitude-Dispensary-Logo-blk.png"
+      }
     },
     {
       "url": "https://claude.ai/referral/G1HkIzWNYw",
@@ -168,7 +240,8 @@
       "channelName": "claude",
       "timestamp": "1773334136.947039",
       "collectedAt": "2026-03-13T13:00:23.348Z",
-      "messageText": "Also, I have one Claude code pass for one week left to share if someone wants it.\n<https://claude.ai/referral/G1HkIzWNYw>"
+      "messageText": "Also, I have one Claude code pass for one week left to share if someone wants it.\n<https://claude.ai/referral/G1HkIzWNYw>",
+      "meta": null
     },
     {
       "url": "https://www.youtube.com/watch?v=nDHXLnwlIaY",
@@ -178,7 +251,12 @@
       "channelName": "claude",
       "timestamp": "1773325562.260839",
       "collectedAt": "2026-03-13T13:00:23.348Z",
-      "messageText": "This is solid: <https://www.youtube.com/watch?v=nDHXLnwlIaY>"
+      "messageText": "This is solid: <https://www.youtube.com/watch?v=nDHXLnwlIaY>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/5a20cf88/img/favicon_32x32.png"
+      }
     }
   ]
 }
