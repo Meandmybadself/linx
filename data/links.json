@@ -257,6 +257,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/5a20cf88/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://channelsurfer.tv/?ch=19",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773422278.109709",
+      "collectedAt": "2026-03-13T18:18:00.164Z",
+      "messageText": "This is wonderful: <https://channelsurfer.tv/?ch=19>",
+      "meta": {
+        "title": "Channel Surfer - Watch YouTube Like It&#x27;s Cable TV",
+        "description": "Turn your YouTube subscriptions into a 2000s cable TV guide. Flip channels, watch what&#x27;s on, and relive the golden age of channel surfing.",
+        "favicon": "https://channelsurfer.tv/favicon.svg",
+        "image": "https://channelsurfer.tv/og-image.png"
+      }
     }
   ]
 }
