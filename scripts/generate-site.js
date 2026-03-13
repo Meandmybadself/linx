@@ -324,6 +324,7 @@ ${
       <a href="https://join.slack.com/t/minnecrapolis/shared_invite/zt-c5egggfa-jbm1ep8dCF_5AFCK6F7muw">Join minnecrapolis</a> &middot; <a href="https://github.com/Meandmybadself/linx">Source</a> &middot; Updated hourly
     </footer>
   </div>
+  <script src="https://webrung.com/webrung.js"></script>
 </body>
 </html>
 `;
