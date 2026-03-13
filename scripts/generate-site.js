@@ -292,11 +292,6 @@ function buildHtml(grouped, totalCount) {
       <h1>MNNCRPLS <span>Linx</span></h1>
       <p class="subtitle">${totalCount} link${totalCount !== 1 ? "s" : ""} collected from Slack</p>
     </header>
-    <section class="how-to">
-      <h2>How to participate</h2>
-      <p>Type <code>/linx-optin</code> in any Slack channel to start having your links collected.</p>
-      <p>Type <code>/linx-optout</code> to stop at any time.</p>
-    </section>
     <main>
 ${
   dates.length > 0
@@ -304,6 +299,11 @@ ${
     : '      <div class="empty"><p>No links collected yet. Opt in with /linx-optin in Slack.</p></div>'
 }
     </main>
+    <section class="how-to">
+      <h2>How to participate</h2>
+      <p>Type <code>/linx-optin</code> in any Slack channel to start having your links collected.</p>
+      <p>Type <code>/linx-optout</code> to stop at any time.</p>
+    </section>
     <footer>
       <a href="https://join.slack.com/t/minnecrapolis/shared_invite/zt-c5egggfa-jbm1ep8dCF_5AFCK6F7muw">Join minnecrapolis</a> &middot; <a href="https://github.com/Meandmybadself/linx">Source</a> &middot; Updated hourly
     </footer>
