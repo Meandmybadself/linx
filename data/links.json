@@ -273,6 +273,54 @@
         "favicon": "https://channelsurfer.tv/favicon.svg",
         "image": "https://channelsurfer.tv/og-image.png"
       }
+    },
+    {
+      "url": "https://github.com/github/spec-kit",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1773427457.451849",
+      "collectedAt": "2026-03-13T19:17:52.975Z",
+      "messageText": "Also checking out spec-kit:\n<https://github.com/github/spec-kit>",
+      "meta": {
+        "title": "GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development - github/spec-kit",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/338dfc502eca546710f39dda19d816930dd5c79e420498413574ae8e47aca9b1/github/spec-kit"
+      }
+    },
+    {
+      "url": "https://github.com/humanlayer/humanlayer",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1773427446.538119",
+      "collectedAt": "2026-03-13T19:17:52.975Z",
+      "messageText": "Being told by our agent guru this is great:\n<https://github.com/humanlayer/humanlayer>",
+      "meta": {
+        "title": "GitHub - humanlayer/humanlayer: The best way to get AI coding agents to solve hard problems in complex codebases.",
+        "description": "The best way to get AI coding agents to solve hard problems in complex codebases. - humanlayer/humanlayer",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/cf182eef9f36ef643a8f371fc953283cbc9f8bbb48cd29ff560c9794bb779f8b/humanlayer/humanlayer"
+      }
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1773426546.598649",
+      "collectedAt": "2026-03-13T19:17:52.975Z",
+      "messageText": "This is working well for me (been trying it since this morning – it's what built Linx)\n<https://github.com/obra/superpowers>",
+      "meta": {
+        "title": "GitHub - obra/superpowers: An agentic skills framework &amp; software development methodology that works.",
+        "description": "An agentic skills framework &amp; software development methodology that works. - obra/superpowers",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/014957f3a58c713efa9d473a47b19a843c1c745ae04d70cfa8213c5360cc78d0/obra/superpowers"
+      }
     }
   ]
 }
