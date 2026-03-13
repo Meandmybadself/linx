@@ -1,3 +1,184 @@
 {
-  "links": []
+  "links": [
+    {
+      "url": "https://webrung.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773406293.459399",
+      "collectedAt": "2026-03-13T13:00:19.351Z",
+      "messageText": "Let's find out.  <https://webrung.com>"
+    },
+    {
+      "url": "https://mnncrpls.meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773405475.855259",
+      "collectedAt": "2026-03-13T13:00:19.351Z",
+      "messageText": "I made something I think people will enjoy – <https://mnncrpls.meandmybadself.com>\nIt is an opt-in link aggregator for this Slack.\nYou opt in with `/linx-optin` (and afterwards can opt out with `/linx-optout`)\nIt collects links once an hour from any channel the bot (<@U0AL8EPAQG5"
+    },
+    {
+      "url": "https://www.minnetonkamn.gov/our-city/recreation/sauna-in-the-parks",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773367905.502919",
+      "collectedAt": "2026-03-13T13:00:19.351Z",
+      "messageText": "This shit is wonderful &amp; cheap – <https://www.minnetonkamn.gov/our-city/recreation/sauna-in-the-parks>"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hTnCjI8f0So",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773261749.639919",
+      "collectedAt": "2026-03-13T13:00:19.351Z",
+      "messageText": "stick with it...stellar 311 reference inside\n\n<https://www.youtube.com/watch?v=hTnCjI8f0So>"
+    },
+    {
+      "url": "https://meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773244069.043149",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+    },
+    {
+      "url": "https://github.com/Meandmybadself/webrung/edit/main/sites.json",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773244069.043149",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+    },
+    {
+      "url": "https://webrung.com/webrung.js",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773244069.043149",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+    },
+    {
+      "url": "https://github.com/Meandmybadself/webrung",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773244069.043149",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "Footer added to <https://meandmybadself.com>\n\nYou can add your site here: <https://github.com/Meandmybadself/webrung/edit/main/sites.json>\n(Please add the `<script src=\"<https://webrung.com/webrung.js>\"></script>` tag to your site before opening a PR (<@U055B7NREBT>).\n\nThe <https"
+    },
+    {
+      "url": "https://webrung.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773237077.771309",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "BOOM <https://webrung.com/>"
+    },
+    {
+      "url": "https://www.towergamesmn.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773145336.485269",
+      "collectedAt": "2026-03-13T13:00:19.352Z",
+      "messageText": "It's looking like I'm going to spending most Tuesday nights from 5-9 at <https://www.towergamesmn.com/|40th & Nicollet>.\nLearned last week that everything up there closes around 6.\nBesides bars, does anyone know where the cool kids hang out in that neck of the woods after 6?"
+    },
+    {
+      "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1773059055.420809",
+      "collectedAt": "2026-03-13T13:00:21.172Z",
+      "messageText": "<https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/>"
+    },
+    {
+      "url": "https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1772833254.777059",
+      "collectedAt": "2026-03-13T13:00:21.488Z",
+      "messageText": "of course they are...but let's not stop now...this is the green light to engulf everyone! :disappointed:\n\n<https://apnews.com/article/trump-iran-russia-intelligence-35afae34198408d670941f971d383378>"
+    },
+    {
+      "url": "https://www.metmuseum.org/press-releases/3-d-models-announcement-2026",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1773345126.854429",
+      "collectedAt": "2026-03-13T13:00:21.981Z",
+      "messageText": "<https://www.metmuseum.org/press-releases/3-d-models-announcement-2026>"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1773163283.709769",
+      "collectedAt": "2026-03-13T13:00:22.512Z",
+      "messageText": "<https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/>"
+    },
+    {
+      "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1773238775.977479",
+      "collectedAt": "2026-03-13T13:00:22.697Z",
+      "messageText": "<@U03AYQUQ0> - <https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/>"
+    },
+    {
+      "url": "https://hopkinsdispensary.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01PC6QC60P",
+      "channelName": "drugs",
+      "timestamp": "1773345461.683859",
+      "collectedAt": "2026-03-13T13:00:22.792Z",
+      "messageText": "Excited to spend some cash at <https://hopkinsdispensary.com/> tonight!"
+    },
+    {
+      "url": "https://claude.ai/referral/G1HkIzWNYw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1773334136.947039",
+      "collectedAt": "2026-03-13T13:00:23.348Z",
+      "messageText": "Also, I have one Claude code pass for one week left to share if someone wants it.\n<https://claude.ai/referral/G1HkIzWNYw>"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nDHXLnwlIaY",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1773325562.260839",
+      "collectedAt": "2026-03-13T13:00:23.348Z",
+      "messageText": "This is solid: <https://www.youtube.com/watch?v=nDHXLnwlIaY>"
+    }
+  ]
 }
