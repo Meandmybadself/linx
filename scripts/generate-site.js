@@ -222,6 +222,36 @@ function buildHtml(grouped, totalCount) {
       font-size: 0.7rem;
     }
 
+    .how-to {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 2rem;
+      font-size: 0.8rem;
+    }
+
+    .how-to h2 {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+
+    .how-to p {
+      color: var(--text-dim);
+      margin-bottom: 0.4rem;
+    }
+
+    .how-to code {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 0.15rem 0.4rem;
+      color: var(--text);
+      font-size: 0.8rem;
+    }
+
     footer a {
       color: var(--accent);
       text-decoration: none;
@@ -239,6 +269,11 @@ function buildHtml(grouped, totalCount) {
       <h1>MNNCRPLS <span>Linx</span></h1>
       <p class="subtitle">${totalCount} link${totalCount !== 1 ? "s" : ""} collected from Slack</p>
     </header>
+    <section class="how-to">
+      <h2>How to participate</h2>
+      <p>Type <code>/linx-optin</code> in any Slack channel to start having your links collected.</p>
+      <p>Type <code>/linx-optout</code> to stop at any time.</p>
+    </section>
     <main>
 ${
   dates.length > 0

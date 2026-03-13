@@ -1,5 +1,7 @@
 # MNNCRPLS Linx
 
+<img src="icon.jpg" alt="MNNCRPLS Linx" width="128">
+
 Collects links shared by opted-in users in Slack and publishes them to a static site at [mnncrpls.meandmybadself.com](https://mnncrpls.meandmybadself.com).
 
 ## How it works
