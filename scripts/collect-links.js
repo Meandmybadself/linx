@@ -56,8 +56,9 @@ async function main() {
       const userName = optedIn.users[msg.user]?.name || msg.user;
 
       for (const url of urls) {
-        // Deduplicate - skip if this exact URL is already collected
-        const exists = linksData.links.some((l) => l.url === url && l.channelId === channel.id);
+        // Deduplicate globally by URL
+        const exists = linksData.links.some((l) => l.url === url) ||
+                       newLinks.some((l) => l.url === url);
         if (exists) continue;
 
         newLinks.push({

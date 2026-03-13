@@ -16,10 +16,18 @@ function main() {
 
   mkdirSync(OUT_DIR, { recursive: true });
 
-  // Group links by date
-  const grouped = groupByDate(linksData.links);
+  // Deduplicate by URL, keeping the earliest occurrence
+  const seen = new Set();
+  const uniqueLinks = linksData.links.filter((l) => {
+    if (seen.has(l.url)) return false;
+    seen.add(l.url);
+    return true;
+  });
 
-  const html = buildHtml(grouped, linksData.links.length);
+  // Group links by date
+  const grouped = groupByDate(uniqueLinks);
+
+  const html = buildHtml(grouped, uniqueLinks.length);
 
   writeFileSync(join(OUT_DIR, "index.html"), html);
   writeFileSync(join(OUT_DIR, "CNAME"), "mnncrpls.meandmybadself.com\n");
@@ -102,6 +110,14 @@ function buildHtml(grouped, totalCount) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔗</text></svg>">
   <title>MNNCRPLS Linx</title>
+  <meta property="og:title" content="MNNCRPLS Linx">
+  <meta property="og:description" content="${totalCount} link${totalCount !== 1 ? "s" : ""} collected from the minnecrapolis Slack">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mnncrpls.meandmybadself.com">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="MNNCRPLS Linx">
+  <meta name="twitter:description" content="${totalCount} link${totalCount !== 1 ? "s" : ""} collected from the minnecrapolis Slack">
+  <meta name="description" content="Links shared by opted-in users in the minnecrapolis Slack, updated hourly.">
   <style>
     :root {
       --bg: #0a0a0f;
