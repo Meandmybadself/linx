@@ -321,6 +321,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/014957f3a58c713efa9d473a47b19a843c1c745ae04d70cfa8213c5360cc78d0/obra/superpowers"
       }
+    },
+    {
+      "url": "https://www.parseword.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1773430769.474069",
+      "collectedAt": "2026-03-13T20:14:04.020Z",
+      "messageText": "From the creator of Wordle: <https://www.parseword.com/>",
+      "meta": {
+        "title": "Parseword - A tricky wordplay game",
+        "description": "Transform phrases through wordplay to solve cryptic crossword puzzles.",
+        "favicon": "https://www.parseword.com/parseword-icon.png",
+        "image": "/apple-touch-icon.png"
+      }
     }
   ]
 }
