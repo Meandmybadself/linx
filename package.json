@@ -1,0 +1,16 @@
+{
+  "name": "minnecrapolis-linx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Slack link collector - collects links from opted-in users and publishes to a static site",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect-links.js",
+    "generate": "node scripts/generate-site.js",
+    "build": "npm run collect && npm run generate"
+  },
+  "dependencies": {
+    "@slack/web-api": "^7.0.0",
+    "@octokit/rest": "^21.0.0"
+  }
+}
