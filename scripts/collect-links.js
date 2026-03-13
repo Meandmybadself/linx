@@ -76,7 +76,22 @@ async function main() {
 
   console.log(`Found ${newLinks.length} new link(s)`);
 
+  // Fetch metadata for new links
+  for (const link of newLinks) {
+    link.meta = await fetchMeta(link.url);
+  }
+
   linksData.links.push(...newLinks);
+
+  // Backfill metadata for existing links missing it
+  const backfill = linksData.links.filter((l) => !l.meta);
+  if (backfill.length > 0) {
+    console.log(`Backfilling metadata for ${backfill.length} link(s)...`);
+    for (const link of backfill) {
+      link.meta = await fetchMeta(link.url);
+    }
+  }
+
   writeFileSync(join(DATA_DIR, "links.json"), JSON.stringify(linksData, null, 2) + "\n");
 
   updateState(state);
@@ -133,6 +148,83 @@ async function getChannelMessages(channelId, oldest) {
   } while (cursor);
 
   return messages;
+}
+
+async function fetchMeta(url) {
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: { "User-Agent": "MNNCRPLS-Linx/1.0 (link preview bot)" },
+      redirect: "follow",
+    });
+    clearTimeout(timeout);
+
+    if (!res.ok) return null;
+
+    const contentType = res.headers.get("content-type") || "";
+    if (!contentType.includes("text/html")) return null;
+
+    const html = await res.text();
+
+    const title = html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.trim() || null;
+
+    const ogTitle = extractMetaContent(html, 'property="og:title"') ||
+                    extractMetaContent(html, "property='og:title'");
+    const ogDesc = extractMetaContent(html, 'property="og:description"') ||
+                   extractMetaContent(html, "property='og:description'") ||
+                   extractMetaContent(html, 'name="description"') ||
+                   extractMetaContent(html, "name='description'");
+    const ogImage = extractMetaContent(html, 'property="og:image"') ||
+                    extractMetaContent(html, "property='og:image'");
+
+    // Favicon: check <link rel="icon">, fall back to /favicon.ico
+    let favicon = extractLinkHref(html, 'rel="icon"') ||
+                  extractLinkHref(html, "rel='icon'") ||
+                  extractLinkHref(html, 'rel="shortcut icon"') ||
+                  extractLinkHref(html, "rel='shortcut icon'");
+
+    const origin = new URL(url).origin;
+    if (favicon && !favicon.startsWith("http")) {
+      favicon = favicon.startsWith("/") ? origin + favicon : origin + "/" + favicon;
+    }
+    if (!favicon) {
+      favicon = origin + "/favicon.ico";
+    }
+
+    const meta = {
+      title: ogTitle || title || null,
+      description: ogDesc?.slice(0, 300) || null,
+      favicon,
+    };
+
+    if (ogImage) meta.image = ogImage;
+
+    console.log(`  ✓ ${url} → ${meta.title || "(no title)"}`);
+    return meta;
+  } catch (err) {
+    console.log(`  ✗ ${url} → ${err.message}`);
+    return null;
+  }
+}
+
+function extractMetaContent(html, attrMatch) {
+  const regex = new RegExp(`<meta[^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*content=["']([^"']*)["'][^>]*/?>`, "i");
+  const match = html.match(regex);
+  if (match) return match[1];
+  // Try reversed order (content before property)
+  const regex2 = new RegExp(`<meta[^>]*content=["']([^"']*)["'][^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*/?>`, "i");
+  return html.match(regex2)?.[1] || null;
+}
+
+function extractLinkHref(html, attrMatch) {
+  const regex = new RegExp(`<link[^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*href=["']([^"']*)["'][^>]*/?>`, "i");
+  const match = html.match(regex);
+  if (match) return match[1];
+  const regex2 = new RegExp(`<link[^>]*href=["']([^"']*)["'][^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*/?>`, "i");
+  return html.match(regex2)?.[1] || null;
 }
 
 function extractUrls(text) {

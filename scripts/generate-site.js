@@ -74,8 +74,14 @@ function buildHtml(grouped, totalCount) {
           const channel = escapeHtml(link.channelName || "unknown");
           const user = escapeHtml(link.userName || "anonymous");
 
+          const meta = link.meta || {};
+          const title = meta.title ? escapeHtml(meta.title) : escapeHtml(displayUrl);
+          const desc = meta.description ? `\n          <span class="desc">${escapeHtml(meta.description)}</span>` : "";
+          const favicon = meta.favicon ? `<img class="favicon" src="${escapeHtml(meta.favicon)}" alt="" onerror="this.style.display='none'"> ` : "";
+
           return `        <li class="link-item">
-          <a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(displayUrl)}</a>
+          ${favicon}<a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">${title}</a>${desc}
+          <span class="meta">${escapeHtml(displayUrl)}</span>
           <span class="meta">shared by <strong>${user}</strong> in <strong>#${channel}</strong></span>
         </li>`;
         })
@@ -202,6 +208,22 @@ function buildHtml(grouped, totalCount) {
     .meta strong {
       color: var(--text);
       font-weight: 500;
+    }
+
+    .favicon {
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+      margin-right: 0.35rem;
+      border-radius: 2px;
+    }
+
+    .desc {
+      display: block;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      margin-top: 0.2rem;
+      line-height: 1.4;
     }
 
     .empty {
