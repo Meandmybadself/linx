@@ -221,6 +221,16 @@ function buildHtml(grouped, totalCount) {
       color: var(--text-dim);
       font-size: 0.7rem;
     }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent-hover);
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -237,7 +247,7 @@ ${
 }
     </main>
     <footer>
-      Updated hourly &middot; minnecrapolis linx
+      <a href="https://join.slack.com/t/minnecrapolis/shared_invite/zt-c5egggfa-jbm1ep8dCF_5AFCK6F7muw">Join minnecrapolis</a> &middot; <a href="https://github.com/Meandmybadself/linx">Source</a> &middot; Updated hourly
     </footer>
   </div>
 </body>
