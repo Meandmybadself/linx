@@ -358,6 +358,17 @@
         "favicon": "https://xcancel.com/favicon-32x32.png",
         "image": "https://pbs.twimg.com/media/HDV8u7aaMAAz2Ix.png"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/3Dprinting/comments/1rtkq82/pvb_is_just_cheating/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1773515682.034299",
+      "collectedAt": "2026-03-14T20:10:28.557Z",
+      "messageText": "<https://www.reddit.com/r/3Dprinting/comments/1rtkq82/pvb_is_just_cheating/>",
+      "meta": null
     }
   ]
 }
