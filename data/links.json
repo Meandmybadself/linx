@@ -342,6 +342,22 @@
         "favicon": "https://www.parseword.com/parseword-icon.png",
         "image": "/apple-touch-icon.png"
       }
+    },
+    {
+      "url": "https://xcancel.com/paulhuttnerwx/status/2032668205907386787#m",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1773512195.993419",
+      "collectedAt": "2026-03-14T19:13:35.628Z",
+      "messageText": "<https://xcancel.com/paulhuttnerwx/status/2032668205907386787#m|https://xcancel.com/paulhuttnerwx/status/2032668205907386787#m>",
+      "meta": {
+        "title": "Paul Huttner weather (@paulhuttnerwx)",
+        "description": "Just throwing this out there...\nNot saying MSP will crack this list but many locations could by Sunday night.\n#mnwx",
+        "favicon": "https://xcancel.com/favicon-32x32.png",
+        "image": "https://pbs.twimg.com/media/HDV8u7aaMAAz2Ix.png"
+      }
     }
   ]
 }
