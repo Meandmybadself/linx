@@ -241,7 +241,12 @@
       "timestamp": "1773334136.947039",
       "collectedAt": "2026-03-13T13:00:23.348Z",
       "messageText": "Also, I have one Claude code pass for one week left to share if someone wants it.\n<https://claude.ai/referral/G1HkIzWNYw>",
-      "meta": null
+      "meta": {
+        "title": "Join Claude!",
+        "description": "You",
+        "favicon": "https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cd02a42d9-Vq_H3mgS.svg",
+        "image": "https://claude.ai/images/referral_preview.png"
+      }
     },
     {
       "url": "https://www.youtube.com/watch?v=nDHXLnwlIaY",
