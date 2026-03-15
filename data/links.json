@@ -414,6 +414,22 @@
         "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
         "favicon": "https://rawdog.meandmybadself.com/favicon.svg"
       }
+    },
+    {
+      "url": "https://make-a-beat.com/tool/melody-generator/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1773605706.144119",
+      "collectedAt": "2026-03-15T21:12:01.513Z",
+      "messageText": "This is fun – <https://make-a-beat.com/tool/melody-generator/>",
+      "meta": {
+        "title": "Free Online Melody Generator — MIDI Editor & Piano Roll",
+        "description": "Free online melody generator and MIDI piano roll. Create musical melodies, write chords, and export your loop as WAV or MIDI right from your browser.",
+        "favicon": "https://make-a-beat.com/favicon.png",
+        "image": "https://make-a-beat.com/melody-generator.webp"
+      }
     }
   ]
 }
