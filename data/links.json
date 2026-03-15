@@ -384,6 +384,36 @@
         "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
         "favicon": "https://rawdog.meandmybadself.com/favicon.svg"
       }
+    },
+    {
+      "url": "https://photos.meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1773587075.275429",
+      "collectedAt": "2026-03-15T15:12:22.628Z",
+      "messageText": "Made some things weekend:\n• A personal replacement for Instagram: <https://photos.meandmybadself.com>\n• Raw Dog: A browser-based RAW photo editor: <https://rawdog.meandmybadself.com>",
+      "meta": {
+        "title": "Photos",
+        "description": null,
+        "favicon": "https://photos.meandmybadself.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://rawdog.meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1773587075.275429",
+      "collectedAt": "2026-03-15T15:12:22.628Z",
+      "messageText": "Made some things weekend:\n• A personal replacement for Instagram: <https://photos.meandmybadself.com>\n• Raw Dog: A browser-based RAW photo editor: <https://rawdog.meandmybadself.com>",
+      "meta": {
+        "title": "Raw Dog - Browser-Based RAW Photo Editor",
+        "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
+        "favicon": "https://rawdog.meandmybadself.com/favicon.svg"
+      }
     }
   ]
 }
