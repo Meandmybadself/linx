@@ -369,6 +369,21 @@
       "collectedAt": "2026-03-14T20:10:28.557Z",
       "messageText": "<https://www.reddit.com/r/3Dprinting/comments/1rtkq82/pvb_is_just_cheating/>",
       "meta": null
+    },
+    {
+      "url": "https://rawdog.meandmybadself.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1773542638.115699",
+      "collectedAt": "2026-03-15T03:12:16.484Z",
+      "messageText": "<https://rawdog.meandmybadself.com/>",
+      "meta": {
+        "title": "Raw Dog - Browser-Based RAW Photo Editor",
+        "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
+        "favicon": "https://rawdog.meandmybadself.com/favicon.svg"
+      }
     }
   ]
 }
