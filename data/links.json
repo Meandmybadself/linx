@@ -446,6 +446,21 @@
         "favicon": "https://kotaku.com/favicon.svg",
         "image": "https://kotaku.com/app/uploads/2026/03/conan-2-1200x675.jpg"
       }
+    },
+    {
+      "url": "https://rawesome.meandmybadself.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1773688984.280179",
+      "collectedAt": "2026-03-16T19:28:16.590Z",
+      "messageText": "<https://rawesome.meandmybadself.com/>",
+      "meta": {
+        "title": "Rawesome - Browser-Based RAW Photo Editor",
+        "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
+        "favicon": "https://rawesome.meandmybadself.com/favicon.svg"
+      }
     }
   ]
 }
