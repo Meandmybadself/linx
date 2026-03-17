@@ -488,6 +488,22 @@
       "collectedAt": "2026-03-17T13:38:24.617Z",
       "messageText": "_The Fugitive_ is a St. Patrick's Day movie.\n<https://www.patreon.com/posts/fugitive-34964980>",
       "meta": null
+    },
+    {
+      "url": "https://brianmoore.com/fontsmuggler/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1773771809.203809",
+      "collectedAt": "2026-03-17T18:28:07.721Z",
+      "messageText": "Use brand fonts in Google Docs\n<https://brianmoore.com/fontsmuggler/>",
+      "meta": {
+        "title": "Font Smuggler",
+        "description": "Copy and paste hidden brand fonts for Google Slides and Docs. Fonts from Google, YouTube, Meta, Netflix, OpenAI, and more.",
+        "favicon": "https://brianmoore.com/svg/logo.svg",
+        "image": "https://brianmoore.com/fontsmuggler/shareimage.webp"
+      }
     }
   ]
 }
