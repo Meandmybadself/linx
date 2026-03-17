@@ -461,6 +461,22 @@
         "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
         "favicon": "https://rawesome.meandmybadself.com/favicon.svg"
       }
+    },
+    {
+      "url": "https://twokangaroo.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1773707149.265399",
+      "collectedAt": "2026-03-17T00:41:31.194Z",
+      "messageText": "<https://twokangaroo.com/>",
+      "meta": {
+        "title": "Authentic Aussie Tucker | TwoKangaroo - Authentic Aussie Pies",
+        "description": "Order authentic Australian meat pies in Minneapolis. Choose from Chunky Steak, Beef Bacon Cheese, Beef Curry &#38; Korean Chicken pies, Sausage Rolls, and ANZAC biscuits.",
+        "favicon": "https://twokangaroo.com/favicon.svg",
+        "image": "https://twokangaroo.com/images/og-image.png"
+      }
     }
   ]
 }
