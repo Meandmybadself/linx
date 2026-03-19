@@ -534,6 +534,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/c376667c/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1773923944.314389",
+      "collectedAt": "2026-03-19T13:36:34.876Z",
+      "messageText": "<https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/>",
+      "meta": {
+        "title": "Val Kilmer Resurrected by AI to Star in ‘As Deep as the Grave’ Movie — First Look (EXCLUSIVE)",
+        "description": "First look at Val Kilmer in his new film &quot;As Deep As the Grave.&quot; His performance was AI generated.",
+        "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/favicon.png",
+        "image": "https://variety.com/wp-content/uploads/2026/03/Val-Kilmer-AS-DEEP-AS-THE-GRAVE-1-.png?w=1000&#038;h=563&#038;crop=1"
+      }
     }
   ]
 }
