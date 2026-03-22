@@ -550,6 +550,21 @@
         "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/favicon.png",
         "image": "https://variety.com/wp-content/uploads/2026/03/Val-Kilmer-AS-DEEP-AS-THE-GRAVE-1-.png?w=1000&#038;h=563&#038;crop=1"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XCQrFb3Qh2A",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1774197607.818999",
+      "collectedAt": "2026-03-22T17:10:26.036Z",
+      "messageText": "<https://www.youtube.com/watch?v=XCQrFb3Qh2A>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/1dd30f43/img/favicon_32x32.png"
+      }
     }
   ]
 }
