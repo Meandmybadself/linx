@@ -629,6 +629,32 @@
         "favicon": "https://kotaku.com/favicon.svg",
         "image": "https://kotaku.com/app/uploads/2024/07/47bff5cfdbf86dda7ec6680a99284602-1200x675.jpg"
       }
+    },
+    {
+      "url": "https://easterbunny.c",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1774403563.430889",
+      "collectedAt": "2026-03-25T03:10:44.166Z",
+      "messageText": "Made something fun.  Looking for more ideas on how to make it better.\n\nIt's the official Easter Bunny website.\nIt allows you &amp; your family to track &amp; contact the Easter Bunny.\n\nStill debating the domain.\n<https://easterbunny.c|https://easterbunny,meandmybadself.com>\n\nYou ",
+      "meta": null
+    },
+    {
+      "url": "https://easterbunny.meandmybadself.com/administration/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1774403563.430889",
+      "collectedAt": "2026-03-25T03:10:44.167Z",
+      "messageText": "Made something fun.  Looking for more ideas on how to make it better.\n\nIt's the official Easter Bunny website.\nIt allows you &amp; your family to track &amp; contact the Easter Bunny.\n\nStill debating the domain.\n<https://easterbunny.c|https://easterbunny,meandmybadself.com>\n\nYou ",
+      "meta": {
+        "title": "Easter Bunny Corp. — Official Registry",
+        "description": "Official visitor registration and administrative portal for Easter Bunny Corporation. Established 4 B.C.",
+        "favicon": "https://easterbunny.meandmybadself.com/favicon.ico?favicon.0x3dzn~oxb6tn.ico"
+      }
     }
   ]
 }
