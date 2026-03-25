@@ -655,6 +655,21 @@
         "description": "Official visitor registration and administrative portal for Easter Bunny Corporation. Established 4 B.C.",
         "favicon": "https://easterbunny.meandmybadself.com/favicon.ico?favicon.0x3dzn~oxb6tn.ico"
       }
+    },
+    {
+      "url": "https://rawesome.meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1774465572.514929",
+      "collectedAt": "2026-03-25T19:22:16.673Z",
+      "messageText": "I mean <https://rawesome.meandmybadself.com>",
+      "meta": {
+        "title": "Rawesome - Browser-Based RAW Photo Editor",
+        "description": "Edit RAW photos directly in your browser. Real-time WebGL adjustments, non-destructive editing, no uploads required.",
+        "favicon": "https://rawesome.meandmybadself.com/favicon.svg"
+      }
     }
   ]
 }
