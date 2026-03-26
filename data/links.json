@@ -680,7 +680,12 @@
       "timestamp": "1774480790.187789",
       "collectedAt": "2026-03-26T00:47:34.519Z",
       "messageText": "Mr. Doob still @ it.\n<https://codepen.io/mrdoob_/full/NPRwLZd>",
-      "meta": null
+      "meta": {
+        "title": "Ball Pool",
+        "description": "...",
+        "favicon": "https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico",
+        "image": "https://shots.codepen.io/username/pen/NPRwLZd-800.jpg?version=1774506564"
+      }
     },
     {
       "url": "https://www.instagram.com/reels/DSqGEEjDCRj/",
