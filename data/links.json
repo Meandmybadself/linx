@@ -733,6 +733,21 @@
         "description": null,
         "favicon": "http://charactersheet.meandmybadself.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.eod.com/blog/2026/02/lose-myself/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8AN87HEY",
+      "channelName": "complaints",
+      "timestamp": "1774637508.115369",
+      "collectedAt": "2026-03-27T19:21:30.598Z",
+      "messageText": "<https://www.eod.com/blog/2026/02/lose-myself/>",
+      "meta": {
+        "title": "Lose Myself",
+        "description": null,
+        "favicon": "https://www.eod.com/favicon.ico"
+      }
     }
   ]
 }
