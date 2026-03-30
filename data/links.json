@@ -779,6 +779,21 @@
         "description": null,
         "favicon": "https://alwayssaturdaymorning.com/favicon.ico"
       }
+    },
+    {
+      "url": "http://Weather.com",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1774900174.872039",
+      "collectedAt": "2026-03-30T20:19:59.010Z",
+      "messageText": "more weather terrorism on the horizon (allegedly)\n\nApple Weather app has us getting dumped on starting late Wednesday night thru Saturday night to the tune of 12\" in accumulation\n\n<http://Weather.com|Weather.com> scoffs! Maybe an inch?\n\nc'mon Kalshi — let us short one of these so",
+      "meta": {
+        "title": "National and Local Weather Radar, Daily Forecast and News from The Weather Channel",
+        "description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage",
+        "favicon": "http://weather.com/_next/static/media/favicon-16x16.357a9709.png"
+      }
     }
   ]
 }
