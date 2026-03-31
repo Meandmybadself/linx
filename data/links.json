@@ -830,6 +830,22 @@
         "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/media/HEvUJpmaQAATb2e.jpg:large"
       }
+    },
+    {
+      "url": "https://github.com/alex000kim/claude-code/blob/main/src/utils/userPromptKeywords.ts#L7-L8",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1774988393.793969",
+      "collectedAt": "2026-03-31T21:18:42.097Z",
+      "messageText": "<@U345PQDK8> <https://github.com/alex000kim/claude-code/blob/main/src/utils/userPromptKeywords.ts#L7-L8>",
+      "meta": {
+        "title": "claude-code/src/utils/userPromptKeywords.ts at main · alex000kim/claude-code",
+        "description": "Contribute to alex000kim/claude-code development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/0184138f87be9ecd63f142af083f29980b80068363fe447f2f0b86db0fb88807/alex000kim/claude-code"
+      }
     }
   ]
 }
