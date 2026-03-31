@@ -794,6 +794,21 @@
         "description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage",
         "favicon": "http://weather.com/_next/static/media/favicon-16x16.357a9709.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kxOXPoPreFQ",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1774966131.918249",
+      "collectedAt": "2026-03-31T14:39:03.505Z",
+      "messageText": "We're in an era of AI-generated garbage SEO on YouTube\n<https://www.youtube.com/watch?v=kxOXPoPreFQ>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/7cf77294/img/favicon_32x32.png"
+      }
     }
   ]
 }
