@@ -214,7 +214,12 @@
       "timestamp": "1773238775.977479",
       "collectedAt": "2026-03-13T13:00:22.697Z",
       "messageText": "<@U03AYQUQ0> - <https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/>",
-      "meta": null
+      "meta": {
+        "title": "LEGO&#039;s 0.002mm Specification and It&#039;s Implications for Manufacturing",
+        "description": "A 2x4 LEGO brick manufactured in 1958 will snap perfectly onto a brick molded this morning in Denmark, China, Hungary, Mexico, or the Czech Republic. The 66-year-old brick will have the exact same interference fit, the same clutch power, the same 4.8mm stud diameter. This is the result of maintai...",
+        "favicon": "https://www.thewave.engineer//media.invisioncic.com/e326999/monthly_2023_06/1018457455_ICONTHEWAVE32pxColor.png",
+        "image": "https://media.invisioncic.com/e326999/monthly_2025_10/il_fullxfull.1954634228_ev7g.jpg.e2c53316e33bea1d3053123781f83676.jpg"
+      }
     },
     {
       "url": "https://hopkinsdispensary.com/",
