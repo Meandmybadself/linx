@@ -809,6 +809,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/7cf77294/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://x.com/thekitze/status/2038956521942577557?s=46&t=IJHLV-Wzshlm2J3E2yO_Kw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1774968108.977989",
+      "collectedAt": "2026-03-31T15:33:48.332Z",
+      "messageText": "<https://x.com/thekitze/status/2038956521942577557?s=46&t=IJHLV-Wzshlm2J3E2yO_Kw>",
+      "meta": {
+        "title": "kitze 🛠️ tinkerer.club (@thekitze) on X",
+        "description": "🚨 BREAKING: GPT 5.4 rates the Claude Code codebase 6.5/10 💀\n\n&quot;This is not junior spaghetti. This is staff-engineer spaghetti: performance-aware, feature-flagged, telemetry-instrumented, surgically optimized spaghetti&quot; 😭",
+        "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
+        "image": "https://pbs.twimg.com/media/HEvUJpmaQAATb2e.jpg:large"
+      }
     }
   ]
 }
