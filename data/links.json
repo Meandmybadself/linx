@@ -846,6 +846,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/0184138f87be9ecd63f142af083f29980b80068363fe447f2f0b86db0fb88807/alex000kim/claude-code"
       }
+    },
+    {
+      "url": "https://github.com/emdash-cms/emdash",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1775063842.003539",
+      "collectedAt": "2026-04-01T17:25:26.427Z",
+      "messageText": "This is cool.  Cloudflare created an open source alternative to Wordpress with Claude Code called Emdash.\n<https://github.com/emdash-cms/emdash>",
+      "meta": {
+        "title": "GitHub - emdash-cms/emdash",
+        "description": "Contribute to emdash-cms/emdash development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://repository-images.githubusercontent.com/1198246700/81f7c898-4db5-44ee-aff0-983d8fb5c20d"
+      }
     }
   ]
 }
