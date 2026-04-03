@@ -862,6 +862,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://repository-images.githubusercontent.com/1198246700/81f7c898-4db5-44ee-aff0-983d8fb5c20d"
       }
+    },
+    {
+      "url": "https://soundcloud.com/dimi_5/bluey-x-the-spark",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C15SGV5RA",
+      "channelName": "parents",
+      "timestamp": "1775182239.443189",
+      "collectedAt": "2026-04-03T03:12:44.008Z",
+      "messageText": "<https://soundcloud.com/dimi_5/bluey-x-the-spark>",
+      "meta": {
+        "title": "Bluey x The Spark",
+        "description": "Listen to Bluey x The Spark by Dimi #np on #SoundCloud",
+        "favicon": "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+        "image": "https://i1.sndcdn.com/avatars-qETmuYITM4StvjJq-zkCGNw-t500x500.jpg"
+      }
     }
   ]
 }
