@@ -905,6 +905,22 @@
       "collectedAt": "2026-04-04T00:44:17.059Z",
       "messageText": "<https://www.nytimes.com/2026/04/03/us/trump-alcatraz-funding.html>",
       "meta": null
+    },
+    {
+      "url": "https://www.opentools.studio/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1775270515.458409",
+      "collectedAt": "2026-04-04T03:09:03.139Z",
+      "messageText": "<https://www.opentools.studio/>",
+      "meta": {
+        "title": "OpenTools / OpenPrinter",
+        "description": "This is the homepage of the website",
+        "favicon": "https://www.opentools.studio/web/image/website/1/favicon?unique=bb7c115",
+        "image": "https://www.opentools.studio/web/image/1096-6c03f418/Open-printer_2_black-prints.webp"
+      }
     }
   ]
 }
