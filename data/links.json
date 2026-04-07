@@ -1115,6 +1115,17 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/0203efec/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/tech/comments/1seumt9/nih_scientists_discover_powerful_new_opioid_that/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "CLK42F0LA",
+      "channelName": "health",
+      "timestamp": "1775597714.981259",
+      "collectedAt": "2026-04-07T22:18:45.369Z",
+      "messageText": "Sure they did. Just like the last time they discovered an opioid without dangerous side effects\n<https://www.reddit.com/r/tech/comments/1seumt9/nih_scientists_discover_powerful_new_opioid_that/>",
+      "meta": null
     }
   ]
 }
