@@ -1025,6 +1025,22 @@
         "description": "66 links collected from the minnecrapolis Slack",
         "favicon": "http://mnncrpls.meandmybadself.com/data:image/svg+xml,<svg xmlns="
       }
+    },
+    {
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-it-considering-using-nuclear-weapons-iran",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1775580816.785759",
+      "collectedAt": "2026-04-07T17:27:18.058Z",
+      "messageText": "I have to imagine the US started this rumor in the first place, with Trump helping it along with the \"whole civilization will die\" post.\n<https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-it-considering-using-nuclear-weapons-iran>",
+      "meta": {
+        "title": "White House denies it is considering using nuclear weapons in Iran",
+        "description": null,
+        "favicon": "https://www.middleeasteye.net/sites/default/files/MEE%20Purple.png",
+        "image": "https://www.middleeasteye.net/sites/default/files/2026-04/iran%20university%20bomb%20reuters.jpg"
+      }
     }
   ]
 }
