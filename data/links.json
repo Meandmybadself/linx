@@ -1100,6 +1100,21 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://repository-images.githubusercontent.com/1203991695/57f759e3-06f8-4681-8e4b-09d3f4157d91"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1775593931.515419",
+      "collectedAt": "2026-04-07T21:21:45.029Z",
+      "messageText": "If you listen to the <https://www.youtube.com/watch?v=YFjfBk8HI5o|OpenClaw / Peter Steinberger interview>, he would have several browsers open to change the name of OpenClaw, and by the time he made it to the third tab, someone else had already secured the namespace.",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/0203efec/img/favicon_32x32.png"
+      }
     }
   ]
 }
