@@ -994,6 +994,37 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/ye/r/lEu8iVizmNW.ico",
         "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/658791225_2204793970350606_4790948493325776287_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Tq1WRc9ArkYQ7kNvwFJA5DR&amp;_nc_oc=AdqpEQDDr4pf1NuPa6P72yuxQm9TeEjJBQz7UnpJ6yOvxbSrMMctf17YBcg9zlsLhcc&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=EIyweClwGn5GUhxK2KfIaA&amp;_nc_ss=7a389&amp;oh=00_Af1p61JgFcCa0wsK4Rs5lHMTYZdImflqhJXLXokDRPXJhw&amp;oe=69D9FD18"
       }
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1i2FfBy2HpJ_vSFXqiJ6m63E7FPnSH1S6FlVBo4wZ5dw/edit?gid=0#gid=0",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1775574665.533269",
+      "collectedAt": "2026-04-07T15:37:16.365Z",
+      "messageText": "General announcements:\n1. Let's get another mixer scheduled.  If you're interested in participating, <https://docs.google.com/spreadsheets/d/1i2FfBy2HpJ_vSFXqiJ6m63E7FPnSH1S6FlVBo4wZ5dw/edit?gid=0#gid=0|add yourself to this document along with your availability by tomorrow EOD>.\n",
+      "meta": {
+        "title": "Minnecrapolis - Spring Mixer",
+        "description": null,
+        "favicon": "https://docs.google.com//ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico",
+        "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyLp2v5cOUkRL-XRkAY7ZxY3IeY8ENNfT2M_oOro_8Kb8BJV_VaM8zfePmPr6Q0rl-I64CCSsmQBUyIdYrT3Ri-1oeGAWrVN9TnG6-9WdCxVfpkmYRs=w1200-h630-p"
+      }
+    },
+    {
+      "url": "http://mnncrpls.meandmybadself.com",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1775574665.533269",
+      "collectedAt": "2026-04-07T15:37:16.365Z",
+      "messageText": "General announcements:\n1. Let's get another mixer scheduled.  If you're interested in participating, <https://docs.google.com/spreadsheets/d/1i2FfBy2HpJ_vSFXqiJ6m63E7FPnSH1S6FlVBo4wZ5dw/edit?gid=0#gid=0|add yourself to this document along with your availability by tomorrow EOD>.\n",
+      "meta": {
+        "title": "MNNCRPLS Linx",
+        "description": "66 links collected from the minnecrapolis Slack",
+        "favicon": "http://mnncrpls.meandmybadself.com/data:image/svg+xml,<svg xmlns="
+      }
     }
   ]
 }
