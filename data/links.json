@@ -1084,6 +1084,22 @@
         "favicon": "https://www.anthropic.com/images/icons/favicon-32x32.png",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg"
       }
+    },
+    {
+      "url": "https://github.com/mempalace/mempalace",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1775592117.717839",
+      "collectedAt": "2026-04-07T20:18:51.172Z",
+      "messageText": "<https://github.com/mempalace/mempalace>?",
+      "meta": {
+        "title": "GitHub - mempalace/mempalace: One-click lightweight installer for mempalace. highest-scoring AI memory system ever benchmarked. And it&#39;s free.",
+        "description": "One-click lightweight installer for mempalace. highest-scoring AI memory system ever benchmarked. And it&#39;s free. - mempalace/mempalace",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://repository-images.githubusercontent.com/1203991695/57f759e3-06f8-4681-8e4b-09d3f4157d91"
+      }
     }
   ]
 }
