@@ -1158,6 +1158,38 @@
         "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260401-100641-27b89b8af6-2.44.0-3/favicon-32x32.png",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7e52/live/dd7a72e0-32f2-11f1-99b6-23f4623af7b4.jpg"
       }
+    },
+    {
+      "url": "https://www.fox9.com/news/michelin-guide-coming-minneapolis-part-american-great-lakes-region-expansion",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1775664592.363829",
+      "collectedAt": "2026-04-08T16:34:17.102Z",
+      "messageText": "Oh shit, we might be getting Michelin star restaurants here! (With probably increased prices to go with them) <https://www.fox9.com/news/michelin-guide-coming-minneapolis-part-american-great-lakes-region-expansion|https://www.fox9.com/news/michelin-guide-coming-minneapolis-part-a",
+      "meta": {
+        "title": "Michelin Guide coming to Minneapolis as part of Great Lakes region expansion",
+        "description": "Minneapolis will join the Michelin Guide as part of a newly announced American Great Lakes region, marking a major milestone for the city’s dining scene.",
+        "favicon": "https://www.fox9.com/favicons/kmsp/favicon.ico",
+        "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2023/03/1200/630/3_17_23-CORIN-9P-HERE-IS-MPLS-PKG-SW_00.01.10.40.jpg?ve=1&amp;tl=1"
+      }
+    },
+    {
+      "url": "https://meh.com/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1775663270.906919",
+      "collectedAt": "2026-04-08T16:34:18.352Z",
+      "messageText": "I didn't know Black &amp; Decker made stuff like this. <https://meh.com/>",
+      "meta": {
+        "title": "Black &amp; Decker Jr 287-Piece Constructor Racer Set",
+        "description": "Junior Builders",
+        "favicon": "https://meh.com/favicon.ico",
+        "image": "http://d2b8wt72ktn9a2.cloudfront.net/mediocre/image/upload/c_pad,f_auto,h_600,q_auto,w_600/voiw2lzxjxy6zp8drphc.png"
+      }
     }
   ]
 }
