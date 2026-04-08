@@ -1142,6 +1142,22 @@
         "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/profile_images/2033464084700766208/lp1X6XQY_200x200.jpg"
       }
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c8r40erdj6mo",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1775616812.353329",
+      "collectedAt": "2026-04-08T03:13:06.754Z",
+      "messageText": "Ugh. <https://www.bbc.com/news/articles/c8r40erdj6mo|https://www.bbc.com/news/articles/c8r40erdj6mo>",
+      "meta": {
+        "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+        "description": "He will serve out the rest of Marjorie Taylor Greene&#x27;s term, which ends in January 2027.",
+        "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260401-100641-27b89b8af6-2.44.0-3/favicon-32x32.png",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7e52/live/dd7a72e0-32f2-11f1-99b6-23f4623af7b4.jpg"
+      }
     }
   ]
 }
