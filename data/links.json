@@ -1126,6 +1126,22 @@
       "collectedAt": "2026-04-07T22:18:45.369Z",
       "messageText": "Sure they did. Just like the last time they discovered an opioid without dangerous side effects\n<https://www.reddit.com/r/tech/comments/1seumt9/nih_scientists_discover_powerful_new_opioid_that/>",
       "meta": null
+    },
+    {
+      "url": "https://x.com/bubbleboi/status/2041622123861700848?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1775611826.739439",
+      "collectedAt": "2026-04-08T01:41:26.566Z",
+      "messageText": "<https://x.com/bubbleboi/status/2041622123861700848?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw|https://x.com/bubbleboi/status/2041622123861700848?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw> ",
+      "meta": {
+        "title": "bubble boi (@bubbleboi) on X",
+        "description": "Just got access to Claude Mythos… &amp;amp; ughhhhhhhhh this is AGI. \n\nIt was the first time a model one shotted a 10/25G Ethernet MAC/PCS, it even knew to select the right line rate and data width for lower latency. This alone is something that would take a really skilled digital",
+        "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
+        "image": "https://pbs.twimg.com/profile_images/2033464084700766208/lp1X6XQY_200x200.jpg"
+      }
     }
   ]
 }
