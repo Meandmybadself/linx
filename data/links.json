@@ -1232,6 +1232,22 @@
         "description": null,
         "favicon": "https://www.remotion.dev/favicon.ico"
       }
+    },
+    {
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1775833786.334339",
+      "collectedAt": "2026-04-10T15:24:20.058Z",
+      "messageText": "I haven't set it up yet.  Using the bare OpenClaw on a network-isolated Pi.\nIs supposed to just make things more secure / safe.\n<https://github.com/NVIDIA/NemoClaw>",
+      "meta": {
+        "title": "GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+        "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - NVIDIA/NemoClaw",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/a94671d8c4c9ed3239750adf5fe4c5bd1d137718ac22144d993c3daff8001c53/NVIDIA/NemoClaw"
+      }
     }
   ]
 }
