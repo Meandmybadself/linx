@@ -1248,6 +1248,21 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/a94671d8c4c9ed3239750adf5fe4c5bd1d137718ac22144d993c3daff8001c53/NVIDIA/NemoClaw"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nfhDuOHMp0A",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1775864219.710979",
+      "collectedAt": "2026-04-11T00:47:23.385Z",
+      "messageText": "<https://www.youtube.com/watch?v=nfhDuOHMp0A|Artemis II re-entry>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png"
+      }
     }
   ]
 }
