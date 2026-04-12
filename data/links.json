@@ -1263,6 +1263,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/live/NlrpPqb0vwo?si=T-Fm0I1UrONBUxBB",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1775963394.768139",
+      "collectedAt": "2026-04-12T03:13:43.948Z",
+      "messageText": "Nine Inch Noize is live now. The album comes out next week. <https://www.youtube.com/live/NlrpPqb0vwo?si=T-Fm0I1UrONBUxBB|https://www.youtube.com/live/NlrpPqb0vwo?si=T-Fm0I1UrONBUxBB> ",
+      "meta": {
+        "title": "Sahara - Live from Coachella 2026",
+        "description": "Welcome to Day 2 of the official Coachella Valley Music and Arts Festival! Live only on YouTube.Discover new artists and watch your favorites live at home on...",
+        "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png",
+        "image": "https://i.ytimg.com/vi/NlrpPqb0vwo/maxresdefault.jpg?v=69c69717"
+      }
     }
   ]
 }
