@@ -1279,6 +1279,22 @@
         "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png",
         "image": "https://i.ytimg.com/vi/NlrpPqb0vwo/maxresdefault.jpg?v=69c69717"
       }
+    },
+    {
+      "url": "https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1776032047.006659",
+      "collectedAt": "2026-04-12T23:15:48.316Z",
+      "messageText": "\"Open up the fucking strait\"\n...\n\"We're going to close the strait cause you're making money from it and we want a cut!\"\n<https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran/|https://www.cbsnews.com/news/trump-strait-of-hormuz-blockade-iran/>",
+      "meta": {
+        "title": "Trump says U.S. will blockade Strait of Hormuz and intercept ships that paid tolls to Iran",
+        "description": "President Trump said the U.S. Navy will begin blockading ships from entering or exiting the Strait of Hormuz and intercept vessels that have paid tolls to Iran.",
+        "favicon": "https://www.cbsnews.com/favicon.ico",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/12/ba1f712a-fc6e-4716-89ae-a3f10388e84d/thumbnail/1200x630/84e5b0886082df893b3efccadc5b941d/gettyimages-2270387195.jpg"
+      }
     }
   ]
 }
