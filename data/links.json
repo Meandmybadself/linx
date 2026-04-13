@@ -1295,6 +1295,21 @@
         "favicon": "https://www.cbsnews.com/favicon.ico",
         "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/12/ba1f712a-fc6e-4716-89ae-a3f10388e84d/thumbnail/1200x630/84e5b0886082df893b3efccadc5b941d/gettyimages-2270387195.jpg"
       }
+    },
+    {
+      "url": "https://youtu.be/aPrViMm7NNU?si=ddzU3Rjznits9Ele",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776078684.033459",
+      "collectedAt": "2026-04-13T11:34:04.205Z",
+      "messageText": "Friends of mine made this: <https://youtu.be/aPrViMm7NNU?si=ddzU3Rjznits9Ele|https://youtu.be/aPrViMm7NNU?si=ddzU3Rjznits9Ele>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png"
+      }
     }
   ]
 }
