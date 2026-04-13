@@ -1310,6 +1310,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/2f549df7/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://minnecrapolis.slack.com/archives/C0FH73DGT/p1776083669114659",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C15SGV5RA",
+      "channelName": "parents",
+      "timestamp": "1776085487.548039",
+      "collectedAt": "2026-04-13T13:39:17.408Z",
+      "messageText": "<https://minnecrapolis.slack.com/archives/C0FH73DGT/p1776083669114659>",
+      "meta": {
+        "title": "Slack",
+        "description": null,
+        "favicon": "https://minnecrapolis.slack.com/favicon.ico"
+      }
     }
   ]
 }
