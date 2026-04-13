@@ -1368,6 +1368,22 @@
         "favicon": "https://intertapes.net/img/icons/favicon.svg",
         "image": "https://intertapes.net/img/og/default.jpg"
       }
+    },
+    {
+      "url": "https://www.engadget.com/big-tech/ibm-settles-its-dei-lawsuit-with-the-doj-for-17-million-153749285.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1776107161.617239",
+      "collectedAt": "2026-04-13T19:34:19.687Z",
+      "messageText": "I wish they would have fought this. <https://www.engadget.com/big-tech/ibm-settles-its-dei-lawsuit-with-the-doj-for-17-million-153749285.html>",
+      "meta": {
+        "title": "IBM settles its DEI lawsuit with the DOJ for $17 million",
+        "description": "The settlement comes from the Department of Justice&#x27;s Civil Rights Fraud Initiative launched in 2025.",
+        "favicon": "https://www.engadget.com/favicon.ico",
+        "image": "https://s.yimg.com/ny/api/res/1.2/DAdED74ifvWDgQ1U6tOP5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/981c21a0-35b1-11f1-bffd-c96504cc4369"
+      }
     }
   ]
 }
