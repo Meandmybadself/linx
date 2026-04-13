@@ -1325,6 +1325,17 @@
         "description": null,
         "favicon": "https://minnecrapolis.slack.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://lindseyhallwrites.substack.com/p/i-read-my-boyfriends-chatgpt-and",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1776097358.691029",
+      "collectedAt": "2026-04-13T16:35:11.102Z",
+      "messageText": "This was rough: <https://lindseyhallwrites.substack.com/p/i-read-my-boyfriends-chatgpt-and>",
+      "meta": null
     }
   ]
 }
