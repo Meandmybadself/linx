@@ -1430,6 +1430,54 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/671032622_18112793863747317_2862207147779781922_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=R2rv6CvgRcsQ7kNvwEaZWLN&amp;_nc_oc=AdqmGtMeMBhii26ezau5SvZEPTRUbUUatKW94l3ODJTqB_5Pf457JmlR3C3AfUM35Dc&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=P5dtV4zQmkuoq1Fu0YS-yA&amp;_nc_ss=7a289&amp;oh=00_Af0g3wlueIiIYDmPDjPU-3sxFoJ16vI4lo2UkXkWC5IcYQ&amp;oe=69E43256"
       }
+    },
+    {
+      "url": "https://manytricks.com/namemangler/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776180386.988869",
+      "collectedAt": "2026-04-14T15:33:16.203Z",
+      "messageText": "Anyone looking for a nice batch file renamer try: <https://manytricks.com/namemangler/|NameMangler> from Many Tricks, the makers of <https://manytricks.com/moom/|Moom>. <https://www.transnomino.com/|Transnomino> is free if you don't want to spend the $19. I really like buying uti",
+      "meta": {
+        "title": "Name Mangler",
+        "description": "macOS batch file renaming utility. Rename thousands of files at once. Preview new filenames. See pop-up previews with content. Save droplets for reuse.",
+        "favicon": "https://manytricks.com/favicon.ico",
+        "image": "https://manytricks.com/namemangler/images/namemangler3icon256.png"
+      }
+    },
+    {
+      "url": "https://manytricks.com/moom/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776180386.988869",
+      "collectedAt": "2026-04-14T15:33:16.203Z",
+      "messageText": "Anyone looking for a nice batch file renamer try: <https://manytricks.com/namemangler/|NameMangler> from Many Tricks, the makers of <https://manytricks.com/moom/|Moom>. <https://www.transnomino.com/|Transnomino> is free if you don't want to spend the $19. I really like buying uti",
+      "meta": {
+        "title": "Moom",
+        "description": "Move, zoom, and snap windows. Arrange windows in layouts. Auto-adjust to display setups.",
+        "favicon": "https://manytricks.com/favicon.ico",
+        "image": "https://manytricks.com/moom/moomicon256.png"
+      }
+    },
+    {
+      "url": "https://www.transnomino.com/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776180386.988869",
+      "collectedAt": "2026-04-14T15:33:16.203Z",
+      "messageText": "Anyone looking for a nice batch file renamer try: <https://manytricks.com/namemangler/|NameMangler> from Many Tricks, the makers of <https://manytricks.com/moom/|Moom>. <https://www.transnomino.com/|Transnomino> is free if you don't want to spend the $19. I really like buying uti",
+      "meta": {
+        "title": "Transnomino - A free batch rename utility for the Mac",
+        "description": "Transnomino - A free batch rename utility for the Mac. Rename many files at once, simple, powerful... and it",
+        "favicon": "https://www.transnomino.com/favicon.ico",
+        "image": "https://www.transnomino.com/assets/transnomino-icon.webp"
+      }
     }
   ]
 }
