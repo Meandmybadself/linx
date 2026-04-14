@@ -1493,6 +1493,22 @@
         "description": "Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.",
         "favicon": "https://www.blackmagicdesign.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Book_collecting",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776192428.313089",
+      "collectedAt": "2026-04-14T19:35:31.511Z",
+      "messageText": "Keeping the positive vibes rolling...\n\nNew favorite word: tsundoku\n\n\"the phenomenon of <https://en.wikipedia.org/wiki/Book_collecting|acquiring reading materials> but letting them pile up in a home without reading them. The term is also used to refer to unread books on a bookshel",
+      "meta": {
+        "title": "Book collecting - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Book_collection.jpg"
+      }
     }
   ]
 }
