@@ -1478,6 +1478,21 @@
         "favicon": "https://www.transnomino.com/favicon.ico",
         "image": "https://www.transnomino.com/assets/transnomino-icon.webp"
       }
+    },
+    {
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1776184466.772709",
+      "collectedAt": "2026-04-14T17:32:05.141Z",
+      "messageText": "<https://www.blackmagicdesign.com/products/davinciresolve/photo>",
+      "meta": {
+        "title": "DaVinci Resolve – Photo | Blackmagic Design",
+        "description": "Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.",
+        "favicon": "https://www.blackmagicdesign.com/favicon.ico"
+      }
     }
   ]
 }
