@@ -1520,6 +1520,22 @@
       "collectedAt": "2026-04-14T22:21:51.860Z",
       "messageText": "lol oops\n<https://www.reddit.com/r/Wellthatsucks/comments/1sldt5e/the_full_movie_for_avatar_aang_the_last_airbender/>",
       "meta": null
+    },
+    {
+      "url": "https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1776218008.876399",
+      "collectedAt": "2026-04-15T03:13:44.048Z",
+      "messageText": "<https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/>",
+      "meta": {
+        "title": "I Found It: The Best Free Restaurant Bread in America",
+        "description": "Thirteen thousand miles. Infinite contenders. One beautiful loaf.",
+        "favicon": "https://cdn.theatlantic.com/_next/static/images/favicon-3888b0e329526a975703e3059a02b92d.ico",
+        "image": "https://cdn.theatlantic.com/thumbor/YllkQl1GBj6C1OOPUZFu1qKsRxk=/1x831:7179x4569/1200x625/media/img/2026/04/2026_0311_Web6/original.jpg"
+      }
     }
   ]
 }
