@@ -1566,6 +1566,22 @@
         "description": null,
         "favicon": "https://www.amazon.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://artisia.com/en",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1776295306.666769",
+      "collectedAt": "2026-04-15T23:22:34.439Z",
+      "messageText": "<https://artisia.com/en>",
+      "meta": {
+        "title": "Finger food 3D pasta for glamorous aperitifs",
+        "description": "Artisia is a line of 3D-printed dry pasta designed to elevate finger food aperitif tasting experiences to the highest level.",
+        "favicon": "https://artisia.com//artisia.com/cdn/shop/files/artisia-favicon-black-512x512.png?crop=center&height=32&v=1741941336&width=32",
+        "image": "http://artisia.com/cdn/shop/files/img-social-artisia-1200x628.jpg?v=1753026135"
+      }
     }
   ]
 }
