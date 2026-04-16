@@ -1678,6 +1678,37 @@
       "collectedAt": "2026-04-16T18:35:09.020Z",
       "messageText": "<https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html>",
       "meta": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6bghDcbzfEU",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1776367847.466059",
+      "collectedAt": "2026-04-16T19:33:30.492Z",
+      "messageText": "Boards of Canada is teasing with new ambient video, potentially new full length soon:\n<https://www.youtube.com/watch?v=6bghDcbzfEU|https://www.youtube.com/watch?v=6bghDcbzfEU> ",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/4329498d/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://maggieappleton.com/zero-alignment",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1776365319.319449",
+      "collectedAt": "2026-04-16T19:33:31.884Z",
+      "messageText": "<https://maggieappleton.com/zero-alignment>",
+      "meta": {
+        "title": "One Developer, Two Dozen Agents, Zero Alignment",
+        "description": "Why we need collaborative AI engineering",
+        "favicon": "https://maggieappleton.com/images/favicon/favicon-32x32.png",
+        "image": "https://maggieappleton.com/og/zero-alignment.png"
+      }
     }
   ]
 }
