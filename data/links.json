@@ -1667,6 +1667,17 @@
       "collectedAt": "2026-04-16T17:36:22.701Z",
       "messageText": "<https://archive.ph/kuYqT>",
       "meta": null
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776364055.553519",
+      "collectedAt": "2026-04-16T18:35:09.020Z",
+      "messageText": "<https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html>",
+      "meta": null
     }
   ]
 }
