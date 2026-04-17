@@ -1773,6 +1773,21 @@
         "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/media/HGHbgwcWgAA_oCx.jpg:large"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rfTnW8pl3DE",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776448893.712589",
+      "collectedAt": "2026-04-17T18:25:36.146Z",
+      "messageText": "<https://www.youtube.com/watch?v=rfTnW8pl3DE>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_32x32.png"
+      }
     }
   ]
 }
