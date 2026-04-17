@@ -1788,6 +1788,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yFANjfmaz7g",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776452050.952279",
+      "collectedAt": "2026-04-17T19:29:31.357Z",
+      "messageText": "<https://www.youtube.com/watch?v=yFANjfmaz7g>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_32x32.png"
+      }
     }
   ]
 }
