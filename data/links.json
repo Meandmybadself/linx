@@ -1709,6 +1709,22 @@
         "favicon": "https://maggieappleton.com/images/favicon/favicon-32x32.png",
         "image": "https://maggieappleton.com/og/zero-alignment.png"
       }
+    },
+    {
+      "url": "https://www.sofahq.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776433255.622109",
+      "collectedAt": "2026-04-17T14:33:43.372Z",
+      "messageText": "This is lovely: <https://www.sofahq.com/>",
+      "meta": {
+        "title": "Sofa: Downtime Organizer - Sofa",
+        "description": "Create lists of apps, books, movies, tv shows, podcasts, music albums, and video games to enjoy later.",
+        "favicon": "https://www.sofahq.com/favicon.png",
+        "image": "/images/sofa_seo_hero.png"
+      }
     }
   ]
 }
