@@ -1741,6 +1741,38 @@
         "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/66/1a/90661ad8-b2e7-45c5-99cd-0f43f49bf179/26UMGIM42560.rgb.jpg/1200x630wp-60.jpg"
       }
+    },
+    {
+      "url": "https://variety.com/2026/film/news/project-hail-mary-streaming-movie-theater-run-extended-1236724483/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1776442925.909039",
+      "collectedAt": "2026-04-17T16:26:32.900Z",
+      "messageText": "<https://variety.com/2026/film/news/project-hail-mary-streaming-movie-theater-run-extended-1236724483/>",
+      "meta": {
+        "title": "&#8216;Project Hail Mary&#8217; Won’t Be &#8216;Streaming Anytime Soon&#8217; as It Extends Run in Movie Theaters: &#8216;It&#8217;s an Experience to Share With Others&#8217;",
+        "description": "&#039;Project Hail Mary&#039; is extending its exclusive run in movie theaters and won&#039;t be available to stream anytime soon, says director Chris Miller.",
+        "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/favicon.png",
+        "image": "https://variety.com/wp-content/uploads/2026/03/MCDPRHA_MG008_f8acea.jpg?w=1000&#038;h=563&#038;crop=1"
+      }
+    },
+    {
+      "url": "https://x.com/claudeai/status/2045156267690213649?s=20",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1776441514.181609",
+      "collectedAt": "2026-04-17T16:26:35.552Z",
+      "messageText": "<https://x.com/claudeai/status/2045156267690213649?s=20>",
+      "meta": {
+        "title": "Claude (@claudeai) on X",
+        "description": "Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude.\n\nPowered by Claude Opus 4.7, our most capable vision model. Available in research preview on the Pro, Max, Team, and Enterprise plans, rolling out throughout the day.",
+        "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
+        "image": "https://pbs.twimg.com/media/HGHbgwcWgAA_oCx.jpg:large"
+      }
     }
   ]
 }
