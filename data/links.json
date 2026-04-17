@@ -1725,6 +1725,22 @@
         "favicon": "https://www.sofahq.com/favicon.png",
         "image": "/images/sofa_seo_hero.png"
       }
+    },
+    {
+      "url": "https://music.apple.com/us/album/nine-inch-noize/1893171321",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1776438074.418369",
+      "collectedAt": "2026-04-17T15:29:39.692Z",
+      "messageText": "<https://music.apple.com/us/album/nine-inch-noize/1893171321|https://music.apple.com/us/album/nine-inch-noize/1893171321> ",
+      "meta": {
+        "title": "Nine Inch Noize by Nine Inch Nails &amp; Boys Noize on Apple Music",
+        "description": "Album · 2026 · 12 Songs",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/66/1a/90661ad8-b2e7-45c5-99cd-0f43f49bf179/26UMGIM42560.rgb.jpg/1200x630wp-60.jpg"
+      }
     }
   ]
 }
