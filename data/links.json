@@ -1803,6 +1803,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/2c918e63/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.mprnews.org/story/2026/04/17/cardamom-to-close-after-walker-arts-center-cuts-ties",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1776507759.004929",
+      "collectedAt": "2026-04-18T11:18:08.583Z",
+      "messageText": "I could have sworn someone here posted an article about the restaurant at the Walker firing all its servers and using qr codes instead, but i can't find it. Anyway, this happened after that announcement: <https://www.mprnews.org/story/2026/04/17/cardamom-to-close-after-walker-art",
+      "meta": {
+        "title": "Walker Art Center boots Cardamom after laying off workers for QR codes ",
+        "description": "The restaurant will close in the next 90 days, according to its management DDP Restaurant Group.",
+        "favicon": "https://www.mprnews.org/favicon.png",
+        "image": "https://img.apmcdn.org/8fd5518037eb726a5d3b15d25002263656386ab8/widescreen/f27abd-20260417-cardamom-protests02-2000.jpg"
+      }
     }
   ]
 }
