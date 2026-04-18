@@ -1819,6 +1819,22 @@
         "favicon": "https://www.mprnews.org/favicon.png",
         "image": "https://img.apmcdn.org/8fd5518037eb726a5d3b15d25002263656386ab8/widescreen/f27abd-20260417-cardamom-protests02-2000.jpg"
       }
+    },
+    {
+      "url": "https://bsky.app/profile/edsbs.bsky.social/post/3mjs6iqxs4227",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776553298.757709",
+      "collectedAt": "2026-04-18T23:16:06.959Z",
+      "messageText": "<https://bsky.app/profile/edsbs.bsky.social/post/3mjs6iqxs4227>",
+      "meta": {
+        "title": "BUM CHILLUPS AKA SPENCER HALL AKA PRESIDENT FOOTBALL (@edsbs.bsky.social)",
+        "description": "🎶this is how legends are made🎶",
+        "favicon": "https://web-cdn.bsky.app/static/favicon-32x32.png",
+        "image": "https://video.bsky.app/watch/did%3Aplc%3Ae3cyxeqboiqsybc3u6wvzysz/bafkreih7d2elrsvfdgouwoimw2xqi3vxfr4orkr2j5bgkplwy7nfyydrsu/thumbnail.jpg"
+      }
     }
   ]
 }
