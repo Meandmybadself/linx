@@ -1866,6 +1866,37 @@
         "description": "Trail camera footage from Benwalden cabin on the Gunflint Trail.",
         "favicon": "https://benwaldencab.in/../bg.webp"
       }
+    },
+    {
+      "url": "https://www.budind.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1776692116.184759",
+      "collectedAt": "2026-04-20T13:40:19.261Z",
+      "messageText": "Otherwise, Bud Industries makes good enclosures: <https://www.budind.com/>",
+      "meta": {
+        "title": "Electronic Enclosures &amp; Accessories | Bud Industries",
+        "description": "At Bud Industries, we have a wide selection of electronic enclosures to choose from. From diecast aluminum to plastic, click here to learn more!",
+        "favicon": "https://www.budind.com/wp-content/uploads/2020/07/cropped-bud_icon-32x32.png"
+      }
+    },
+    {
+      "url": "https://hackaday.com/2018/03/02/printed-it-custom-enclosure-generator/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1776692099.528599",
+      "collectedAt": "2026-04-20T13:40:19.261Z",
+      "messageText": "<https://hackaday.com/2018/03/02/printed-it-custom-enclosure-generator/>",
+      "meta": {
+        "title": "Printed It: Custom Enclosure Generator",
+        "description": "You&#8217;ve written your firmware code, etched your own PCB, and now it&#8217;s time to put that awesome new project of yours into an enclosure. Unfortunately, all you have is a generic Radio Shac…",
+        "favicon": "https://hackaday.com/wp-content/themes/hackaday-2/favicon.ico?v=3",
+        "image": "https://hackaday.com/wp-content/uploads/2018/02/ubm_feat.jpg"
+      }
     }
   ]
 }
