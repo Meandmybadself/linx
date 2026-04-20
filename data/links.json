@@ -1835,6 +1835,22 @@
         "favicon": "https://web-cdn.bsky.app/static/favicon-32x32.png",
         "image": "https://video.bsky.app/watch/did%3Aplc%3Ae3cyxeqboiqsybc3u6wvzysz/bafkreih7d2elrsvfdgouwoimw2xqi3vxfr4orkr2j5bgkplwy7nfyydrsu/thumbnail.jpg"
       }
+    },
+    {
+      "url": "https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776683881.992399",
+      "collectedAt": "2026-04-20T11:35:55.776Z",
+      "messageText": "so sad\n<https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose|https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose> ",
+      "meta": {
+        "title": "Your Power Tools Got Worse On Purpose | Who Really Owns DeWalt, Craftsman, and Milwaukee?",
+        "description": "How TTI and Stanley Black &amp; Decker took the same playbook in opposite directions. One invested $206M in R&amp;D and grew to 4,000 workers. The other is $6 billion in debt and closing its hometown factory.",
+        "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_Worse_on_Purpose_SQUARE.png",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b24affa-eff7-4a2a-a557-ed9df33e98eb/Worse_on_Purpose_-_Thumbnail_Preview.png?t=1774308955"
+      }
     }
   ]
 }
