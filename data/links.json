@@ -1851,6 +1851,21 @@
         "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_Worse_on_Purpose_SQUARE.png",
         "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b24affa-eff7-4a2a-a557-ed9df33e98eb/Worse_on_Purpose_-_Thumbnail_Preview.png?t=1774308955"
       }
+    },
+    {
+      "url": "https://benwaldencab.in/trailcam/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776687738.350579",
+      "collectedAt": "2026-04-20T12:37:18.669Z",
+      "messageText": "Animals / people captured by our cabin trail cams: <https://benwaldencab.in/trailcam/|https://benwaldencab.in/trailcam/> ",
+      "meta": {
+        "title": "Trail Camera — Benwalden",
+        "description": "Trail camera footage from Benwalden cabin on the Gunflint Trail.",
+        "favicon": "https://benwaldencab.in/../bg.webp"
+      }
     }
   ]
 }
