@@ -1913,6 +1913,37 @@
         "favicon": "https://orderisda.org/wp-content/uploads/2021/10/cropped-11009218_669120543224884_3786324461421364965_n-32x32.jpg",
         "image": "https://orderisda.org/wp-content/uploads/2026/04/LEGO-pasta.png"
       }
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/2026042091/psychedelic-stocks-jump-as-high-as-40-after-trump-supports-using-drugs-like-lsd-for-mental-health",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1776698273.780639",
+      "collectedAt": "2026-04-20T15:36:35.606Z",
+      "messageText": "<https://www.morningstar.com/news/marketwatch/2026042091/psychedelic-stocks-jump-as-high-as-40-after-trump-supports-using-drugs-like-lsd-for-mental-health|https://www.morningstar.com/news/marketwatch/2026042091/psychedelic-stocks-jump-as-hig[…]after-trump-supports-using-drugs-lik",
+      "meta": {
+        "title": null,
+        "description": null,
+        "favicon": "https://www.morningstar.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://www.the-independent.com/news/world/americas/us-politics/kash-patel-2020-election-trump-b2960883.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1776697991.888869",
+      "collectedAt": "2026-04-20T15:36:36.203Z",
+      "messageText": "lol \"I have evidence that it was rigged! I'll release it just a bit later. Have patience. Just one more week. Next month I promise. I'll be announcing new evidence that the election was rigged next year.\"\n<https://www.the-independent.com/news/world/americas/us-politics/kash-patel",
+      "meta": {
+        "title": "Under pressure Kash Patel claims FBI has ‘evidence’ that 2020 election was stolen",
+        "description": "The Director, rumored to be facing dismissal, says he has ‘information that backs President Trump’s claim’ that Joe Biden’s victory over him was achieved by widespread fraud",
+        "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
+        "image": "https://static.the-independent.com/2026/04/18/03/2026-03-24T100224Z_1507141096_RC22TGAF7DPB_RTRMADP_3_USA-FBI-SENATE.jpg?width=1200&height=800&crop=1200:800"
+      }
     }
   ]
 }
