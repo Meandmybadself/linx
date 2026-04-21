@@ -1990,6 +1990,22 @@
         "favicon": "https://ledger.worseonpurpose.com/icon.png?icon.0~.fgsq.s.nfx.png",
         "image": "https://ledger.worseonpurpose.com/og-default.jpg"
       }
+    },
+    {
+      "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776786875.210779",
+      "collectedAt": "2026-04-21T16:31:33.971Z",
+      "messageText": "New _Worse on Purpose_ article posted: <https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose>",
+      "meta": {
+        "title": "Authentic Brands Group: The $20B Empire That Makes Nothing",
+        "description": "Authentic Brands Group owns Brooks Brothers, Eddie Bauer, Champion, Dockers, Forever 21, Billabong, Sports Illustrated, and 40+ other brands. It makes none of them. Inside the $20B licensing model.",
+        "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_Worse_on_Purpose_SQUARE.png",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b24affa-eff7-4a2a-a557-ed9df33e98eb/Worse_on_Purpose_-_Thumbnail_Preview.png?t=1774308955"
+      }
     }
   ]
 }
