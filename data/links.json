@@ -2006,6 +2006,22 @@
         "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_Worse_on_Purpose_SQUARE.png",
         "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b24affa-eff7-4a2a-a557-ed9df33e98eb/Worse_on_Purpose_-_Thumbnail_Preview.png?t=1774308955"
       }
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/military-flu-vaccine-requirement-hegseth-b2961944.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1776807281.246629",
+      "collectedAt": "2026-04-21T22:20:15.299Z",
+      "messageText": "Sounds like a great way to start losing wars. <https://www.independent.co.uk/news/world/americas/us-politics/military-flu-vaccine-requirement-hegseth-b2961944.html>",
+      "meta": {
+        "title": "Hegseth cancels ‘absurd’ flu vaccine requirement for ‘brave warriors’ in military",
+        "description": "Hegseth described his latest directive as ‘restoring’ what he called ‘simple medical autonomy’ in response to the Biden administration’s Covid-19 policies",
+        "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+        "image": "https://static.independent.co.uk/2026/04/16/13/47/GettyImages-2271603618.jpg?width=1200&height=800&crop=1200:800"
+      }
     }
   ]
 }
