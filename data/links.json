@@ -904,7 +904,12 @@
       "timestamp": "1775258794.524459",
       "collectedAt": "2026-04-04T00:44:17.059Z",
       "messageText": "<https://www.nytimes.com/2026/04/03/us/trump-alcatraz-funding.html>",
-      "meta": null
+      "meta": {
+        "title": "Trump Seeks $152 Million to Begin to Turn Alcatraz Back Into a Prison",
+        "description": "The plan faces significant local political opposition and the dilapidated state of the site poses considerable logistical challenges.",
+        "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+        "image": "https://static01.nyt.com/images/2026/04/03/multimedia/NAT-ALCATRAZ-qtfv/NAT-ALCATRAZ-qtfv-facebookJumbo.jpg"
+      }
     },
     {
       "url": "https://www.opentools.studio/",
@@ -947,7 +952,12 @@
       "timestamp": "1775444335.555859",
       "collectedAt": "2026-04-06T03:14:26.361Z",
       "messageText": "<https://www.nytimes.com/2026/04/05/style/bob-dylan-john-lennon-limo-ride.html|fun story>",
-      "meta": null
+      "meta": {
+        "title": "What Were Bob Dylan and John Lennon Really Saying in the Back of That Limo?",
+        "description": "A film scene of Dylan and Lennon at a low moment in 1966 has held a grim fascination for fans. Beneath the repartee, a touchy issue was at stake.",
+        "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+        "image": "https://static01.nyt.com/images/2026/04/05/fashion/05ST-LIMO-RIDE-promo/05ST-LIMO-RIDE-promo-facebookJumbo.jpg"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2820394454960785/?referralSurface=messenger_banner&amp;referralCode=2",
@@ -1677,7 +1687,12 @@
       "timestamp": "1776364055.553519",
       "collectedAt": "2026-04-16T18:35:09.020Z",
       "messageText": "<https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html>",
-      "meta": null
+      "meta": {
+        "title": "Senate Votes to Allow Mining Near Minnesota Wilderness",
+        "description": "The move was a victory for a Chilean company that wants to build a copper and nickel mine, which environmentalists say could devastate fragile lakes and forests.",
+        "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+        "image": "https://static01.nyt.com/images/2026/02/23/multimedia/00cli-boundary-waters-tzjl/00cli-boundary-waters-tzjl-facebookJumbo.jpg"
+      }
     },
     {
       "url": "https://www.youtube.com/watch?v=6bghDcbzfEU",
