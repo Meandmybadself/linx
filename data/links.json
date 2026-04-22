@@ -2022,6 +2022,33 @@
         "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
         "image": "https://static.independent.co.uk/2026/04/16/13/47/GettyImages-2271603618.jpg?width=1200&height=800&crop=1200:800"
       }
+    },
+    {
+      "url": "https://hearthdisplay.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1776867258.896799",
+      "collectedAt": "2026-04-22T14:40:06.920Z",
+      "messageText": "Yet another calendar display\n<https://hearthdisplay.com/>",
+      "meta": {
+        "title": "Hearth Display: Kids grow fast. Hearth grows with them.",
+        "description": "From toddler routines to teen schedules, Hearth’s household organization tool adapts to every season of family life.",
+        "favicon": "https://hearthdisplay.com//hearthdisplay.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1683241931&width=32",
+        "image": "http://hearthdisplay.com/cdn/shop/files/HearthDisplay_1004Calendar_1.jpg?v=1749843870"
+      }
+    },
+    {
+      "url": "https://xcancel.com/gothburz/status/2046575505160225010?s=46&amp;t=5nOh4cAFZz1-tobp172mtg",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1776865365.809509",
+      "collectedAt": "2026-04-22T14:40:09.875Z",
+      "messageText": "<https://xcancel.com/gothburz/status/2046575505160225010?s=46&amp;t=5nOh4cAFZz1-tobp172mtg>",
+      "meta": null
     }
   ]
 }
