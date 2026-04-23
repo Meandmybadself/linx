@@ -2060,6 +2060,22 @@
       "collectedAt": "2026-04-22T22:21:59.100Z",
       "messageText": "<https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/>",
       "meta": null
+    },
+    {
+      "url": "https://github.com/alejandroqh/browser39",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1776963786.914499",
+      "collectedAt": "2026-04-23T17:37:22.226Z",
+      "messageText": "Interesting project:\n<https://github.com/alejandroqh/browser39>\n\nIt's a headless browser for AI agents that returns web pages in token-efficient Markdown.",
+      "meta": {
+        "title": "GitHub - alejandroqh/browser39: A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-efficient Markdown.",
+        "description": "A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-efficient Markdown. - alejandroqh/browser39",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://repository-images.githubusercontent.com/1200473904/f06a5451-9349-49d6-8cc9-f87d6ae3ebef"
+      }
     }
   ]
 }
