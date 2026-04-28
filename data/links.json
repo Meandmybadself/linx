@@ -2235,6 +2235,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/dd66c5d4c61b7ad178a5b823e5f9d195ada87b4cfec1e8872f317469ae6e7aae/anthropics/claude-code/issues/53262"
       }
+    },
+    {
+      "url": "https://x.com/WhiteHouse/status/2049208884280062270?s=20",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1777415051.289369",
+      "collectedAt": "2026-04-28T22:26:21.410Z",
+      "messageText": "Two Kings, One Crown.\n<https://x.com/WhiteHouse/status/2049208884280062270?s=20>",
+      "meta": {
+        "title": "The White House (@WhiteHouse) on X",
+        "description": "TWO KINGS. 👑",
+        "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
+        "image": "https://pbs.twimg.com/media/HHBAaMtWIAAb1Fi.jpg:large"
+      }
     }
   ]
 }
