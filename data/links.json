@@ -2204,6 +2204,37 @@
         "favicon": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=32",
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/claude-creative.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
       }
+    },
+    {
+      "url": "https://grant-pattishall-award.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1777403987.220239",
+      "collectedAt": "2026-04-28T19:37:26.578Z",
+      "messageText": "<https://grant-pattishall-award.com/|We need a Grant-Pattishall Award for AI>",
+      "meta": {
+        "title": "The Grant-Pattishall Award",
+        "description": null,
+        "favicon": "https://grant-pattishall-award.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1777401763.967629",
+      "collectedAt": "2026-04-28T19:37:28.111Z",
+      "messageText": "<https://github.com/anthropics/claude-code/issues/53262>",
+      "meta": {
+        "title": "HERMES.md in git commit messages causes requests to route to extra usage billing instead of plan quota · Issue #53262 · anthropics/claude-code",
+        "description": "Summary When a git repository&#39;s recent commit history contains the case-sensitive string HERMES.md, Claude Code routes API requests to &quot;extra usage&quot; billing instead of the included Max plan quota. ...",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/dd66c5d4c61b7ad178a5b823e5f9d195ada87b4cfec1e8872f317469ae6e7aae/anthropics/claude-code/issues/53262"
+      }
     }
   ]
 }
