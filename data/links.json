@@ -2188,6 +2188,22 @@
         "favicon": "https://waxworkrecords.com//waxworkrecords.com/cdn/shop/files/WaxworkRecords_Favicon_32x32.jpg?v=1613717535",
         "image": "http://waxworkrecords.com/cdn/shop/products/AEonFlux_FrontCover_1200x630.jpg?v=1676499692"
       }
+    },
+    {
+      "url": "https://9to5mac.com/2026/04/28/anthropic-releases-9-new-claude-connectors-for-creative-tools-including-blender-and-adobe/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1777401113.725209",
+      "collectedAt": "2026-04-28T18:41:34.666Z",
+      "messageText": "<https://9to5mac.com/2026/04/28/anthropic-releases-9-new-claude-connectors-for-creative-tools-including-blender-and-adobe/|https://9to5mac.com/2026/04/28/anthropic-releases-9-new-claude-connectors-for-creative-tools-including-blender-and-adobe/> ",
+      "meta": {
+        "title": "Anthropic releases 9 Claude connectors for creative tools, including Blender and Adobe - 9to5Mac",
+        "description": "Anthropic is targeting creative professionals with its latest Claude AI update. The company has released nine new Claude connectors that...",
+        "favicon": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=32",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/claude-creative.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      }
     }
   ]
 }
