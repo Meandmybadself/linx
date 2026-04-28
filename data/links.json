@@ -2140,6 +2140,22 @@
         "favicon": "https://meet.google.com/favicon.ico",
         "image": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png"
       }
+    },
+    {
+      "url": "https://recleague.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1777383388.405239",
+      "collectedAt": "2026-04-28T13:43:07.514Z",
+      "messageText": "This is pretty neat.\n<https://recleague.com/>",
+      "meta": {
+        "title": "Rec League - Share what you&#039;re into",
+        "description": "Share your recommendations on Rec League. The whisper network for great recs.",
+        "favicon": "https://lyric-images.com/recleague-favicon.png",
+        "image": "https://lyric-images.com/recleague-og-1.png"
+      }
     }
   ]
 }
