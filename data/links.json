@@ -2124,6 +2124,22 @@
         "favicon": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
         "image": "https://miro.medium.com/v2/resize:fit:951/1*9R5yu4-oc3LFPOje_tDTzg.png"
       }
+    },
+    {
+      "url": "https://meet.google.com/unx-hcmg-xic",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1777337778.677349",
+      "collectedAt": "2026-04-28T00:58:49.421Z",
+      "messageText": "If anyone's interested, we're putting on a <#C0AL42U82CC> 101 tonight at 8:30pm CST.\n<https://meet.google.com/unx-hcmg-xic>",
+      "meta": {
+        "title": "Meet",
+        "description": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "favicon": "https://meet.google.com/favicon.ico",
+        "image": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png"
+      }
     }
   ]
 }
