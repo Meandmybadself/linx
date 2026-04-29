@@ -2339,6 +2339,22 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://neal.fun/cursor-camp/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1777504445.220949",
+      "collectedAt": "2026-04-29T23:25:31.002Z",
+      "messageText": "<https://neal.fun/cursor-camp/>",
+      "meta": {
+        "title": "Cursor Camp",
+        "description": "A campground for your cursor",
+        "favicon": "https://neal.fun/favicons/cursor-camp.png",
+        "image": "https://neal.fun/share-cards/cursor-camp.png"
+      }
     }
   ]
 }
