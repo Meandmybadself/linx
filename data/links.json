@@ -2251,6 +2251,33 @@
         "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/media/HHBAaMtWIAAb1Fi.jpg:large"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/AIHubSpace/comments/1r5tpf5/seedance_20_created_brad_pitt_vs_tom_cruise_and/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1777427857.310799",
+      "collectedAt": "2026-04-29T03:16:36.380Z",
+      "messageText": "If you haven't seen what it can output: <https://www.reddit.com/r/AIHubSpace/comments/1r5tpf5/seedance_20_created_brad_pitt_vs_tom_cruise_and/>",
+      "meta": null
+    },
+    {
+      "url": "https://seedance2.ai/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1777427794.590049",
+      "collectedAt": "2026-04-29T03:16:36.380Z",
+      "messageText": "A co-worker made a promo video with seedance 2.0. (<https://seedance2.ai/>)",
+      "meta": {
+        "title": "Seedance 2.0",
+        "description": "Create stunning AI videos with Seedance 2.0. Transform images and text into cinematic videos with advanced motion synthesis and professional quality.",
+        "favicon": "https://seedance2.ai/favicon.ico",
+        "image": "https://seedance2.ai/og.png"
+      }
     }
   ]
 }
