@@ -2278,6 +2278,21 @@
         "favicon": "https://seedance2.ai/favicon.ico",
         "image": "https://seedance2.ai/og.png"
       }
+    },
+    {
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "userId": "ULSRJ5PJA",
+      "userName": "ben264",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1777480252.646479",
+      "collectedAt": "2026-04-29T16:39:54.352Z",
+      "messageText": "<https://mitchellh.com/writing/ghostty-leaving-github>",
+      "meta": {
+        "title": "Ghostty Is Leaving GitHub",
+        "description": null,
+        "favicon": "https://mitchellh.com/static/favicons/favicon-32x32.png"
+      }
     }
   ]
 }
