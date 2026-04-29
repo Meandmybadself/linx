@@ -2293,6 +2293,22 @@
         "description": null,
         "favicon": "https://mitchellh.com/static/favicons/favicon-32x32.png"
       }
+    },
+    {
+      "url": "https://djshadow.com/pages/tour",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1777490307.298339",
+      "collectedAt": "2026-04-29T19:37:36.998Z",
+      "messageText": "<https://djshadow.com/pages/tour> code: *shadow26*",
+      "meta": {
+        "title": "Tour",
+        "description": "The official home of DJ Shadow",
+        "favicon": "https://djshadow.com//djshadow.com/cdn/shop/files/djshadow-ico_32x32.png?v=1613240620",
+        "image": "https://cdn.shopify.com/s/files/1/0526/6731/8431/files/djshadow-logo-white.png?height=628&pad_color=101c29&v=1614351561&width=1200"
+      }
     }
   ]
 }
