@@ -2355,6 +2355,21 @@
         "favicon": "https://neal.fun/favicons/cursor-camp.png",
         "image": "https://neal.fun/share-cards/cursor-camp.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SJPu1spHqfk",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1777568050.502379",
+      "collectedAt": "2026-04-30T17:36:48.430Z",
+      "messageText": "new Zach Cregger project featuring the nice kid from \"Euphoria\"\n\n<https://www.youtube.com/watch?v=SJPu1spHqfk>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/9ce88e95/img/favicon_32x32.png"
+      }
     }
   ]
 }
