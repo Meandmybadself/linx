@@ -2416,6 +2416,21 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://repository-images.githubusercontent.com/1226286910/faabb9c8-772f-43d0-8643-57d90b45f5b2"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zgcyg8vwvTA&amp;t=1s",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1777670246.014979",
+      "collectedAt": "2026-05-01T21:22:52.135Z",
+      "messageText": "<https://www.youtube.com/watch?v=Zgcyg8vwvTA&amp;t=1s>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/1904e31a/img/favicon_32x32.png"
+      }
     }
   ]
 }
