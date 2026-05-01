@@ -2400,6 +2400,22 @@
         "description": "156 links collected from the minnecrapolis Slack",
         "favicon": "https://mnncrpls.meandmybadself.com/data:image/svg+xml,<svg xmlns="
       }
+    },
+    {
+      "url": "https://github.com/darrylmorley/whatcable",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1777641433.039239",
+      "collectedAt": "2026-05-01T13:36:05.213Z",
+      "messageText": "<@U03AYQUQ0> <https://github.com/darrylmorley/whatcable>",
+      "meta": {
+        "title": "GitHub - darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+        "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do - darrylmorley/whatcable",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://repository-images.githubusercontent.com/1226286910/faabb9c8-772f-43d0-8643-57d90b45f5b2"
+      }
     }
   ]
 }
