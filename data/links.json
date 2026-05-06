@@ -2505,6 +2505,22 @@
         "description": null,
         "favicon": "https://static.xx.fbcdn.net/rsrc.php/y1/r/ay1hV6OlegS.ico"
       }
+    },
+    {
+      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778071492.548369",
+      "collectedAt": "2026-05-06T12:49:19.375Z",
+      "messageText": "<https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors|This is such a great idea>.",
+      "meta": {
+        "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+        "description": "Engineering and computing researchers create simple metal tags with unique ultrasonic fingerprints to detect door openings and other movements.",
+        "favicon": "https://coe.gatech.edu/themes/contrib/gt_overrides/favicon.ico",
+        "image": "https://coe.gatech.edu/sites/default/files/styles/gtcoe_card/public/news/2026/04/header/SoundOff-smart-home-tags-with-penny-t.jpg?itok=hRRl-3bk"
+      }
     }
   ]
 }
