@@ -2521,6 +2521,38 @@
         "favicon": "https://coe.gatech.edu/themes/contrib/gt_overrides/favicon.ico",
         "image": "https://coe.gatech.edu/sites/default/files/styles/gtcoe_card/public/news/2026/04/header/SoundOff-smart-home-tags-with-penny-t.jpg?itok=hRRl-3bk"
       }
+    },
+    {
+      "url": "http://whereswallace.theringer.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1778118192.965429",
+      "collectedAt": "2026-05-07T01:44:29.058Z",
+      "messageText": "<http://whereswallace.theringer.com/>",
+      "meta": {
+        "title": "Where",
+        "description": "Help D’Angelo Barksdale by finding him and 46 other characters from ",
+        "favicon": "https://cdn-images-1.medium.com/fit/c/128/128/1*w1O1RbAfBRNSxkSC48L1PQ.png",
+        "image": "https://whereswallace.theringer.com/img/share.jpg"
+      }
+    },
+    {
+      "url": "https://www.nintendo.com/us/store/products/star-fox-switch-2/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1778118057.169859",
+      "collectedAt": "2026-05-07T01:44:29.487Z",
+      "messageText": "<https://www.nintendo.com/us/store/products/star-fox-switch-2/>",
+      "meta": {
+        "title": "Star Fox™ for Nintendo Switch 2 - Nintendo Official Site",
+        "description": "Buy Star Fox™ and shop other great Nintendo products online at the official My Nintendo Store.",
+        "favicon": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon-32x32.png",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000123167/4ba4fca7719bb5b23abb2c38cf5a1a1d44da880cc8278c839a73e0b3d9ba7c59"
+      }
     }
   ]
 }
