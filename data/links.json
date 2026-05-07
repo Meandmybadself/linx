@@ -2553,6 +2553,38 @@
         "favicon": "https://assets.nintendo.com/image/upload/ncom/icons/fav-icons/favicon-32x32.png",
         "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000123167/4ba4fca7719bb5b23abb2c38cf5a1a1d44da880cc8278c839a73e0b3d9ba7c59"
       }
+    },
+    {
+      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778168823.447219",
+      "collectedAt": "2026-05-07T16:41:03.748Z",
+      "messageText": "<https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338|Ooh, this is a fun argument suggesting that EU LinkedIn users have a right to their obscured Profile Viewers data under GDPR.>",
+      "meta": {
+        "title": "Noyb cries foul on LinkedIn withholding profile visitor data",
+        "description": ": GDPR Article 15 doesn",
+        "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/favicon.ico",
+        "image": "https://image.theregister.com/253076.jpg?imageId=253076&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
+      }
+    },
+    {
+      "url": "https://atonaton.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778167649.171779",
+      "collectedAt": "2026-05-07T16:41:03.748Z",
+      "messageText": "Digging the work here. <https://atonaton.com/>",
+      "meta": {
+        "title": "ATONATON",
+        "description": "ATONATON is a research studio inventing better ways to communicate with machines.",
+        "favicon": "https://images.squarespace-cdn.com/content/v1/5758289d27d4bdf581e1c031/49d4937d-f146-4f5e-9f85-e4a55b15299a/favicon.ico?format=100w",
+        "image": "http://static1.squarespace.com/static/5758289d27d4bdf581e1c031/t/6590e4bfcb2ff215284e38ac/1703994572991/madeline-and-ABBA.gif?format=1500w"
+      }
     }
   ]
 }
