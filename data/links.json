@@ -2648,6 +2648,44 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/42939318/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/minnesota/comments/1t4pe10/i_must_confess/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778263174.824199",
+      "collectedAt": "2026-05-08T18:39:57.034Z",
+      "messageText": "<https://www.reddit.com/r/minnesota/comments/1t4pe10/i_must_confess/>\n```There was a cookie tray at work with 1 cookie left. I didn't cut it in half. \nI didn't wait for someone to say \"Go ahead, take it.\" I just went ahead and ate it.\n\nHow long until the police come for me? Does ",
+      "meta": null
+    },
+    {
+      "url": "https://www.marketwatch.com/investing/stock/rklb?mod=home_rvtickers",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1778262782.543579",
+      "collectedAt": "2026-05-08T18:39:57.517Z",
+      "messageText": "woot! rklb crashed across the (imaginary) $100 barrier\n\n<https://www.marketwatch.com/investing/stock/rklb?mod=home_rvtickers>",
+      "meta": null
+    },
+    {
+      "url": "https://annapurnainteractive.com/games/mixtape?utm_source=googlesem&amp;utm_medium=text&amp;utm_campaign=launch&amp;utm_term=fansofannapurna&amp;utm_content=text&amp;gad_source=1&amp;gad_campaignid=23814683472&amp;gbraid=0AAAABBWhi8NBfIrUb-FDVO1UGFXzylQxL&amp;gclid=Cj0KCQjwk_bPBhDXARIsACiq8R3WXppdPFUUbAW5MmGacnDnlac1ZrRWoiVRR-1zXkQxJJLZTyILONQaApQCEALw_wcB",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1778264622.171689",
+      "collectedAt": "2026-05-08T18:39:58.684Z",
+      "messageText": "_<https://annapurnainteractive.com/games/mixtape?utm_source=googlesem&amp;utm_medium=text&amp;utm_campaign=launch&amp;utm_term=fansofannapurna&amp;utm_content=text&amp;gad_source=1&amp;gad_campaignid=23814683472&amp;gbraid=0AAAABBWhi8NBfIrUb-FDVO1UGFXzylQxL&amp;gclid=Cj0KCQjwk_bP",
+      "meta": {
+        "title": "Mixtape - Annapurna Interactive",
+        "description": "Annapurna Interactive works with game creators from around the world, helping them create and release personal experiences for everyone.",
+        "favicon": "https://cdn.sanity.io/images/ahd04aec/production/88542b992fd7523193f09044610ee649ef8c6e29-32x32.svg",
+        "image": "https://cdn.sanity.io/images/ahd04aec/production/23e4c41aee703af605311944caa33d9e270cfdc4-1000x1500.jpg?w=1200"
+      }
     }
   ]
 }
