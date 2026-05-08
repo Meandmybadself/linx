@@ -2617,6 +2617,22 @@
         "favicon": "https://thebradyexperience.com//thebradyexperience.com/cdn/shop/files/TBE-Favicon_3x_bc19ea5b-df87-4452-873e-9fad23766519.png?v=1730806903&width=96",
         "image": "http://thebradyexperience.com/cdn/shop/files/webclip.png?v=1730807588&width=2048"
       }
+    },
+    {
+      "url": "https://music.apple.com/us/album/switch-up-single/1895772278",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1778252176.729269",
+      "collectedAt": "2026-05-08T15:39:43.621Z",
+      "messageText": "\n<https://music.apple.com/us/album/switch-up-single/1895772278>",
+      "meta": {
+        "title": "Switch Up - Single by Mike D on Apple Music",
+        "description": "Album · 2026 · 1 Song",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/b6/b0/25b6b0f5-7f36-a1e2-50ae-c0b8c4cbd9a8/26UMGIM48231.rgb.jpg/1200x630wp-60.jpg"
+      }
     }
   ]
 }
