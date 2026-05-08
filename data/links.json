@@ -2633,6 +2633,21 @@
         "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/b6/b0/25b6b0f5-7f36-a1e2-50ae-c0b8c4cbd9a8/26UMGIM48231.rgb.jpg/1200x630wp-60.jpg"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v0ZGfBWKQLk",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1778257368.294839",
+      "collectedAt": "2026-05-08T16:38:31.501Z",
+      "messageText": "<https://www.youtube.com/watch?v=v0ZGfBWKQLk>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/42939318/img/favicon_32x32.png"
+      }
     }
   ]
 }
