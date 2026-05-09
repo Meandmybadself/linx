@@ -2686,6 +2686,22 @@
         "favicon": "https://cdn.sanity.io/images/ahd04aec/production/88542b992fd7523193f09044610ee649ef8c6e29-32x32.svg",
         "image": "https://cdn.sanity.io/images/ahd04aec/production/23e4c41aee703af605311944caa33d9e270cfdc4-1000x1500.jpg?w=1200"
       }
+    },
+    {
+      "url": "https://www.mcsweeneys.net/articles/lines-ranked",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778294196.521099",
+      "collectedAt": "2026-05-09T03:16:27.920Z",
+      "messageText": "<https://www.mcsweeneys.net/articles/lines-ranked>",
+      "meta": {
+        "title": "Lines, Ranked",
+        "description": "Border. I’m a little on the fence about this one.\nBee. Get there quick.\nPipe. Cool when Mario, not cool when school-to-prison.",
+        "favicon": "https://www.mcsweeneys.net/assets/favicon-66cdcc39a283cfb9330aa6febd06da98b2977b4decd1d3edc1b7de35f14d6c06.png",
+        "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mvo7ikut6w2sxbgvrnulz0bj8swp"
+      }
     }
   ]
 }
