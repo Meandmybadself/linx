@@ -2702,6 +2702,21 @@
         "favicon": "https://www.mcsweeneys.net/assets/favicon-66cdcc39a283cfb9330aa6febd06da98b2977b4decd1d3edc1b7de35f14d6c06.png",
         "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/mvo7ikut6w2sxbgvrnulz0bj8swp"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Social_Reckoning",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1778422205.926759",
+      "collectedAt": "2026-05-10T14:31:03.563Z",
+      "messageText": "This gives me a big rubbery one.\n<https://en.wikipedia.org/wiki/The_Social_Reckoning>",
+      "meta": {
+        "title": "The Social Reckoning - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
+      }
     }
   ]
 }
