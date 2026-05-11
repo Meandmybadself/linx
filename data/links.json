@@ -2717,6 +2717,17 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://www.k-bid.com/auction/64355/item/1?offset=1",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1778522524.776589",
+      "collectedAt": "2026-05-11T18:46:52.524Z",
+      "messageText": "another chance at a coke machine. <https://www.k-bid.com/auction/64355/item/1?offset=1>",
+      "meta": null
     }
   ]
 }
