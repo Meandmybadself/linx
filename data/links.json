@@ -2744,6 +2744,33 @@
         "favicon": "https://us.telepathicinstruments.com//us.telepathicinstruments.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1747115093&width=32",
         "image": "http://us.telepathicinstruments.com/cdn/shop/files/OrchidClearSquare.png?v=1777357551"
       }
+    },
+    {
+      "url": "https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1778605946.066569",
+      "collectedAt": "2026-05-12T17:46:19.173Z",
+      "messageText": "Who could ever have predicted this?\n<https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/> (<https://archive.is/iBpRP> - to get around paywall)",
+      "meta": {
+        "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits | Fortune",
+        "description": "The terms and conditions said the preorder deposit gives people &quot;a conditional opportunity&quot; to buy the phone if the company makes it.",
+        "favicon": "https://fortune.com/icons/favicons/favicon.ico",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2215972994-e1778537708458.jpg?resize=1200,600"
+      }
+    },
+    {
+      "url": "https://archive.is/iBpRP",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1778605946.066569",
+      "collectedAt": "2026-05-12T17:46:19.173Z",
+      "messageText": "Who could ever have predicted this?\n<https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/> (<https://archive.is/iBpRP> - to get around paywall)",
+      "meta": null
     }
   ]
 }
