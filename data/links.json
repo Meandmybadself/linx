@@ -2771,6 +2771,22 @@
       "collectedAt": "2026-05-12T17:46:19.173Z",
       "messageText": "Who could ever have predicted this?\n<https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/> (<https://archive.is/iBpRP> - to get around paywall)",
       "meta": null
+    },
+    {
+      "url": "https://www.epicfurious.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1778675575.361879",
+      "collectedAt": "2026-05-13T12:56:13.391Z",
+      "messageText": "<https://www.epicfurious.com/>",
+      "meta": {
+        "title": "Epic Furious",
+        "description": "Play Epic Furious, from The Secret Handshake.",
+        "favicon": "https://www.epicfurious.com/favicon.png",
+        "image": "https://www.epicfurious.com/epicfuriouslogo.png"
+      }
     }
   ]
 }
