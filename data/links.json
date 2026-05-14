@@ -2803,6 +2803,17 @@
         "favicon": "https://storage.ghost.io/c/2b/3d/2b3d300b-7e29-48a2-a844-f5d2c5e04125/content/images/size/w256h256/format/jpeg/2025/10/51st-Logo--1-.jpg",
         "image": "https://storage.ghost.io/c/2b/3d/2b3d300b-7e29-48a2-a844-f5d2c5e04125/content/images/size/w1200/2025/10/IMG_6585.jpg"
       }
+    },
+    {
+      "url": "https://archive.ph/mJFdi",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1778790344.083569",
+      "collectedAt": "2026-05-14T20:36:53.358Z",
+      "messageText": "crossover with <#C083VJTGQ> and yesterday's chatter: part of the reason for today's spike in share price for RKLB, UFO, etc. is this announcement:\n\n<https://archive.ph/mJFdi>",
+      "meta": null
     }
   ]
 }
