@@ -2787,6 +2787,22 @@
         "favicon": "https://www.epicfurious.com/favicon.png",
         "image": "https://www.epicfurious.com/epicfuriouslogo.png"
       }
+    },
+    {
+      "url": "https://51st.news/empower-dc-uber-ride-hailing/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1778781865.364849",
+      "collectedAt": "2026-05-14T18:45:41.972Z",
+      "messageText": "<https://51st.news/empower-dc-uber-ride-hailing/>",
+      "meta": {
+        "title": "Ride-hailing app Empower may finally shut down in D.C.",
+        "description": "The company, which claims to provide a better service than Uber or Lyft, has been defying regulators for five years.",
+        "favicon": "https://storage.ghost.io/c/2b/3d/2b3d300b-7e29-48a2-a844-f5d2c5e04125/content/images/size/w256h256/format/jpeg/2025/10/51st-Logo--1-.jpg",
+        "image": "https://storage.ghost.io/c/2b/3d/2b3d300b-7e29-48a2-a844-f5d2c5e04125/content/images/size/w1200/2025/10/IMG_6585.jpg"
+      }
     }
   ]
 }
