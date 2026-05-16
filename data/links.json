@@ -2857,6 +2857,37 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/y4/r/pctUncuduBn.svg",
         "image": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/357926873_655698909775388_6406475757845041177_n.jpg?stp=dst-jpg_s640x640_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&amp;_nc_ht=scontent-ams2-1.cdninstagram.com&amp;_nc_cat=1&amp;_nc_oc=Q6cZ2gFn5JeLSU7zTJia87TteMAsnxcKs9sde--AxWKNWmzfE1K3iy8LiX9x7JjqF0sYncI&amp;_nc_ohc=EuRzezloHf0Q7kNvwERBgVU&amp;_nc_gid=KnZX5dWzlVwn67MnQY8vQQ&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_Af7LMm5lbrph4bLScj4ITMURAa4Qc-HfSB2F7BbYoqRfJQ&amp;oe=6A0D3E26&amp;_nc_sid=10d13b"
       }
+    },
+    {
+      "url": "https://github.com/RaidTheory/arcraiders-data",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1778952371.987809",
+      "collectedAt": "2026-05-16T17:26:17.913Z",
+      "messageText": "Its data is open source: <https://github.com/RaidTheory/arcraiders-data>",
+      "meta": {
+        "title": "GitHub - RaidTheory/arcraiders-data: Free to use ARC Raiders game data in JSON Format.",
+        "description": "Free to use ARC Raiders game data in JSON Format. Contribute to RaidTheory/arcraiders-data development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/67255f57c2d106afa884ef71a0e79c20d33ef0284ee1ce501eea0cc9e8ae3d58/RaidTheory/arcraiders-data"
+      }
+    },
+    {
+      "url": "https://arctracker.io/signin?callbackUrl=/stash",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1778951565.911049",
+      "collectedAt": "2026-05-16T17:26:17.913Z",
+      "messageText": "<https://arctracker.io/signin?callbackUrl=/stash>",
+      "meta": {
+        "title": "Sign In to ARCTracker | ARCTracker.io",
+        "description": "Enter your credentials to access your account",
+        "favicon": "https://arctracker.io/favicon.ico"
+      }
     }
   ]
 }
