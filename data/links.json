@@ -2904,6 +2904,37 @@
         "favicon": "https://fmhy.net/test.png",
         "image": "https://fmhy.net/video-tools/__og_image__/og.webp"
       }
+    },
+    {
+      "url": "https://www.capsolver.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1779108382.273599",
+      "collectedAt": "2026-05-18T13:28:16.049Z",
+      "messageText": "TIL: CapSolver – A SaaS for solving CAPTCHAs:<https://www.capsolver.com/>",
+      "meta": {
+        "title": "Capsolver: Fastest AI Captcha Solver, Auto Captcha Solving Service",
+        "description": "CapSolver is an AI-powered automatic CAPTCHA solver for reCAPTCHA, Cloudflare, AWS WAF, OCR, and more. Enterprise-grade, highly customizable, and the fastest solution for automation and web scraping.",
+        "favicon": "https://www.capsolver.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1779108338.568259",
+      "collectedAt": "2026-05-18T13:28:16.049Z",
+      "messageText": "This is pretty hot – <https://github.com/stephenlthorn/auto-identity-remove>\nAutomated system for removing you from a fuckton of 500+ data brokers.\nGoing to give it a whirl this evening.",
+      "meta": {
+        "title": "GitHub - stephenlthorn/auto-identity-remove: Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+        "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/8d70ecbe4ecc6848d82ffaefe75d4a760d11946f30381612c343934168c8f438/stephenlthorn/auto-identity-remove"
+      }
     }
   ]
 }
