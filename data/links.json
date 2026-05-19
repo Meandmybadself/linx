@@ -3026,6 +3026,22 @@
         "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg"
       }
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/19/trump-taxes-irs-doj-fund.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1779224687.446309",
+      "collectedAt": "2026-05-19T21:37:15.432Z",
+      "messageText": "Fucking hell. <https://www.cnbc.com/2026/05/19/trump-taxes-irs-doj-fund.html|https://www.cnbc.com/2026/05/19/trump-taxes-irs-doj-fund.html>",
+      "meta": {
+        "title": "Trump&#x27;s past tax returns get protection from IRS enforcement under &#x27;lawfare&#x27; fund settlement",
+        "description": "President Trump agreed to drop his lawsuit against the IRS in exchange for a fund that can compensate allies who were targeted under the Biden administration.",
+        "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+        "image": "https://image.cnbcfm.com/api/v1/image/108073095-1733750268707-gettyimages-1936405677-_s2_9204_chazsdtc.jpeg?v=1733750401&amp;w=1920&amp;h=1080"
+      }
     }
   ]
 }
