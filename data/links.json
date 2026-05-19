@@ -2983,6 +2983,49 @@
         "favicon": "https://www.cbsnews.com/favicon.ico",
         "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/18/6d73d356-72ea-48e3-941d-8402b6746b39/thumbnail/1200x630/d67b545f0fb62f421e6a97703000d802/iran-war-civilians-prep-2276211030.jpg"
       }
+    },
+    {
+      "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1779210396.407909",
+      "collectedAt": "2026-05-19T17:06:48.335Z",
+      "messageText": "LOL <https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330>",
+      "meta": null
+    },
+    {
+      "url": "https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1779209248.924919",
+      "collectedAt": "2026-05-19T17:06:48.914Z",
+      "messageText": "<https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/|https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/> \n$750",
+      "meta": {
+        "title": "New Lifetime Plex Pass Pricing",
+        "description": "Hey everyone, Today we’re announcing an important pricing update. Starting July 1, 2026, the price of a new Lifetime Plex...",
+        "favicon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
+        "image": "https://www.plex.tv/wp-content/uploads/2026/05/hero-plex-update-2026-scaled.png"
+      }
+    },
+    {
+      "url": "https://x.com/karpathy/status/2056753169888334312?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1779204682.919189",
+      "collectedAt": "2026-05-19T17:06:51.909Z",
+      "messageText": "<https://x.com/karpathy/status/2056753169888334312?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw>",
+      "meta": {
+        "title": "Andrej Karpathy (@karpathy) on X",
+        "description": "Personal update: I&#x27;ve joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;amp;D. I remain deeply passionate about education and plan to resume my work on it in time.",
+        "favicon": "https://x.com//abs.twimg.com/favicons/twitter.3.ico",
+        "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg"
+      }
     }
   ]
 }
