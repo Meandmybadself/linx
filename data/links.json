@@ -2951,6 +2951,38 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/675359604_1016990237427217_2111592366002042252_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=KFKuDshw71kQ7kNvwH95TpG&amp;_nc_oc=Adr3Nl7NjbJC0_98rOMOqOgA-zTlhK3iZGd4SyIoleix3efhFONrIxekav8S_p3YCx8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=M7P217HQAvX9xUM2zsrPZQ&amp;_nc_ss=7f689&amp;oh=00_Af4pxSoeXatfaj5Kc2Pw3gogXc4pjwYyNT-eW5pDxOyHpw&amp;oe=6A115DAF"
       }
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pizza-hut-franchisee-converts-locations-140802033.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1779148212.908599",
+      "collectedAt": "2026-05-19T01:06:39.445Z",
+      "messageText": "This is kinda silly but makes me happy, and I kinda want to visit one due to nostalgia. <https://finance.yahoo.com/markets/stocks/articles/pizza-hut-franchisee-converts-locations-140802033.html|https://finance.yahoo.com/markets/stocks/articles/pizza-hut-franchisee-converts-locati",
+      "meta": {
+        "title": "Pizza Hut franchisee converts locations into retro classics",
+        "description": "Daland Corporation has remodeled 38 of its 93 Pizza Hut locations to resemble the chain",
+        "favicon": "https://s.yimg.com/cv/apiv2/finance/YF_Favicon_16.png",
+        "image": "https://s.yimg.com/ny/api/res/1.2/N3d65VQLT6XQHUNHm8GUnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/c68177f6c2ff134ec1fac5dd87f72349"
+      }
+    },
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1779147138.157259",
+      "collectedAt": "2026-05-19T01:06:39.672Z",
+      "messageText": "TACO at it again.  <https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/|https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/>",
+      "meta": {
+        "title": "Live Updates: Trump calls off scheduled attack on Iran amid ",
+        "description": "President Trump had warned Sunday that ",
+        "favicon": "https://www.cbsnews.com/favicon.ico",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/18/6d73d356-72ea-48e3-941d-8402b6746b39/thumbnail/1200x630/d67b545f0fb62f421e6a97703000d802/iran-war-civilians-prep-2276211030.jpg"
+      }
     }
   ]
 }
