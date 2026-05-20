@@ -3098,6 +3098,17 @@
         "description": "A single file containing all known AI writing tropes. I guess you could add it to your AI system prompt to avoid these patterns. Or you could embark on the joy of independent writing.",
         "favicon": "https://tropes.fyi/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.politico.com/live-updates/2026/05/20/congress/house-passes-long-awaited-housing-affordability-bill-awaits-the-senates-next-move-00929932",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1779312428.034519",
+      "collectedAt": "2026-05-20T21:39:28.625Z",
+      "messageText": "Well, it's a start. <https://www.politico.com/live-updates/2026/05/20/congress/house-passes-long-awaited-housing-affordability-bill-awaits-the-senates-next-move-00929932|https://www.politico.com/live-updates/2026/05/20/congress/house-passes-long-awaited-housing-affordability-bill",
+      "meta": null
     }
   ]
 }
