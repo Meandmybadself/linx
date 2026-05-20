@@ -3053,6 +3053,51 @@
       "collectedAt": "2026-05-20T01:08:26.500Z",
       "messageText": "last year, Nuevo New Mexico won but Megasota gave it a run...we're placing pretty well again this year\n\n<https://www.reddit.com/r/geographymemes/comments/1thpt55/top_comment_deletes_a_us_state_44/>",
       "meta": null
+    },
+    {
+      "url": "https://www.sctimes.com/story/news/2026/05/15/milwaukees-schlitz-beer-production-to-end-after-175-years/90103740007/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C34NRGNJZ",
+      "channelName": "food-n-drink",
+      "timestamp": "1779291241.455349",
+      "collectedAt": "2026-05-20T17:13:32.777Z",
+      "messageText": "<https://www.sctimes.com/story/news/2026/05/15/milwaukees-schlitz-beer-production-to-end-after-175-years/90103740007/>",
+      "meta": {
+        "title": "Milwaukee's Schlitz beer production to end after 175 years",
+        "description": null,
+        "favicon": "https://www.sctimes.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PsMgQVqa-DA",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1779293560.096919",
+      "collectedAt": "2026-05-20T17:13:33.374Z",
+      "messageText": "I stayed up too late watching this last night after a friend linked it to me. Interview with the dude going up against Susan Collins.\n<https://www.youtube.com/watch?v=PsMgQVqa-DA>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/37847659/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://tropes.fyi/tropes-md",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1779292480.583549",
+      "collectedAt": "2026-05-20T17:13:34.277Z",
+      "messageText": "<https://tropes.fyi/tropes-md>",
+      "meta": {
+        "title": "tropes.md - Tropes",
+        "description": "A single file containing all known AI writing tropes. I guess you could add it to your AI system prompt to avoid these patterns. Or you could embark on the joy of independent writing.",
+        "favicon": "https://tropes.fyi/favicon.ico"
+      }
     }
   ]
 }
