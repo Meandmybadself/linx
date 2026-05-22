@@ -3108,7 +3108,12 @@
       "timestamp": "1779312428.034519",
       "collectedAt": "2026-05-20T21:39:28.625Z",
       "messageText": "Well, it's a start. <https://www.politico.com/live-updates/2026/05/20/congress/house-passes-long-awaited-housing-affordability-bill-awaits-the-senates-next-move-00929932|https://www.politico.com/live-updates/2026/05/20/congress/house-passes-long-awaited-housing-affordability-bill",
-      "meta": null
+      "meta": {
+        "title": "House passes long-awaited housing affordability bill, awaits the Senate’s next move",
+        "description": "After months of back-and-forth, the House succeeding in advancing a hard-fought bipartisan housing bill that has the backing of the White House.",
+        "favicon": "https://www.politico.com/favicon.ico?v=2",
+        "image": "https://www.politico.com/dims4/default/b780d90/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1a%2F75%2Fba07238f45c49c6638573547a6e6%2Fu-s-congress-74256.jpg"
+      }
     },
     {
       "url": "https://www.grazenorthloop.com/",
