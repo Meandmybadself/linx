@@ -3195,6 +3195,21 @@
         "favicon": "https://cache.wefunkradio.com/images-small/favicon.ico",
         "image": "https://cache.wefunkradio.com/montages/montage-2857x1500-5x3-show-1294.jpg"
       }
+    },
+    {
+      "url": "https://youtube.com/shorts/hU06R6-XGZ8",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1779496058.731779",
+      "collectedAt": "2026-05-23T01:03:40.367Z",
+      "messageText": "lol <https://youtube.com/shorts/hU06R6-XGZ8>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/5af4fee3/img/favicon_32x32.png"
+      }
     }
   ]
 }
