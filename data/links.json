@@ -3237,6 +3237,21 @@
       "collectedAt": "2026-05-24T17:26:46.993Z",
       "messageText": "Oh snap. They split FL in half. Also, we're still in it. <https://www.reddit.com/r/geographymemes/s/N8AP47C8mG|https://www.reddit.com/r/geographymemes/s/N8AP47C8mG>",
       "meta": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZR4YO35Zvec",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1779677071.379269",
+      "collectedAt": "2026-05-25T03:20:38.029Z",
+      "messageText": "<https://www.youtube.com/watch?v=ZR4YO35Zvec>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/5af4fee3/img/favicon_32x32.png"
+      }
     }
   ]
 }
