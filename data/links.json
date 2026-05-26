@@ -3312,6 +3312,21 @@
       "collectedAt": "2026-05-26T17:13:18.562Z",
       "messageText": "<https://www.reddit.com/r/geographymemes/comments/1to9lty/cascadia_wins_50/>",
       "meta": null
+    },
+    {
+      "url": "https://rothko.joonas.wtf/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1779823389.716699",
+      "collectedAt": "2026-05-26T19:44:40.976Z",
+      "messageText": "Shows you the closest Rothko to your current weather: <https://rothko.joonas.wtf/>",
+      "meta": {
+        "title": "Current Rothko",
+        "description": null,
+        "favicon": "https://rothko.joonas.wtf/favicon.ico"
+      }
     }
   ]
 }
