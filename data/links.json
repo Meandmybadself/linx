@@ -3327,6 +3327,22 @@
         "description": null,
         "favicon": "https://rothko.joonas.wtf/favicon.ico"
       }
+    },
+    {
+      "url": "https://github.com/Meandmybadself/display-stock",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1779910378.678859",
+      "collectedAt": "2026-05-27T19:46:43.648Z",
+      "messageText": "<https://github.com/Meandmybadself/display-stock>",
+      "meta": {
+        "title": "GitHub - Meandmybadself/display-stock: ESP32-S2 stock ticker firmware for the Adafruit Feather Reverse TFT — rotating display of symbol, price, and daily % change via Yahoo Finance, with a first-boot captive portal for setup.",
+        "description": "ESP32-S2 stock ticker firmware for the Adafruit Feather Reverse TFT — rotating display of symbol, price, and daily % change via Yahoo Finance, with a first-boot captive portal for setup. - Meandmyb...",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/ad2ffa1796c9dc1dc3e33022d559c493a6c92bce9a2e25c9bcbab9da416f8dbb/Meandmybadself/display-stock"
+      }
     }
   ]
 }
