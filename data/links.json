@@ -3359,6 +3359,17 @@
         "favicon": "https://arctracker.io/favicon.ico",
         "image": "https://cdn.arctracker.io/misc/arc-tracker-logo-og.png"
       }
+    },
+    {
+      "url": "https://www.makingsoftware.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1780080260.718599",
+      "collectedAt": "2026-05-29T19:01:44.108Z",
+      "messageText": "Holy moly, this is nice: <https://www.makingsoftware.com/>",
+      "meta": null
     }
   ]
 }
