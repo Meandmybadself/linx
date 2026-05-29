@@ -3343,6 +3343,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/ad2ffa1796c9dc1dc3e33022d559c493a6c92bce9a2e25c9bcbab9da416f8dbb/Meandmybadself/display-stock"
       }
+    },
+    {
+      "url": "https://arctracker.io/squads/join/YPTG4275",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1780066203.834929",
+      "collectedAt": "2026-05-29T15:15:44.301Z",
+      "messageText": "I created an Arctracker Squad.  It allows you to help &amp; be helped by others' resources.\n<https://arctracker.io/squads/join/YPTG4275>",
+      "meta": {
+        "title": "Squads - ARC Raiders",
+        "description": "Create and manage squads to share raid history and progress with friends in ARC Raiders.",
+        "favicon": "https://arctracker.io/favicon.ico",
+        "image": "https://cdn.arctracker.io/misc/arc-tracker-logo-og.png"
+      }
     }
   ]
 }
