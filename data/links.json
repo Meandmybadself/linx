@@ -3370,6 +3370,22 @@
       "collectedAt": "2026-05-29T19:01:44.108Z",
       "messageText": "Holy moly, this is nice: <https://www.makingsoftware.com/>",
       "meta": null
+    },
+    {
+      "url": "https://dianesplacemn.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1780087840.315469",
+      "collectedAt": "2026-05-29T20:55:02.852Z",
+      "messageText": "Anyone see _<https://dianesplacemn.com/|Diane's Place>_<https://dianesplacemn.com/| >was in the 50 best restaurants in North America list?",
+      "meta": {
+        "title": "Diane&#039;s Place - A Hmong American restaurant in Minneapolis by Diane Moua",
+        "description": "is a Hmong American full-service restaurant serving breakfast, lunch, and dinner. It is located in Northeast Minneapolis and brings together Chef Diane’s incred",
+        "favicon": "https://dianesplacemn.com/wp-content/uploads/2024/11/cropped-favicon-32x32.png",
+        "image": "https://dianesplacemn.com/wp-content/uploads/2025/04/011325_JBA_SEAL_NOM_2025.png"
+      }
     }
   ]
 }
