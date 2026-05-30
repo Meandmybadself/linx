@@ -3300,7 +3300,12 @@
       "timestamp": "1779814678.898949",
       "collectedAt": "2026-05-26T17:13:18.561Z",
       "messageText": "The next generation \"Cardputer\" from M5Stack just hit Kickstarter.  It's a pocket size system (about the size of a deck of cards) based off the Raspberry Pi Compute-module Zero.  The original Cardputer was based off an ESP-32, so this is a nice jump.  If you're not familiar M5Sta",
-      "meta": null
+      "meta": {
+        "title": "CardputerZero, Pocket Raspberry Pi Computer for Makers",
+        "description": "Powered by CM0 | All-in-One Design | Standard Linux I/O | Grove &amp; Advanced I/O Ports | 100+ Extra M5 Modules | Credit Card Size",
+        "favicon": "https://www.kickstarter.com/favicon.ico",
+        "image": "https://i.kickstarter.com/assets/053/869/786/467d8e4eea117fe94965411437429c3c_original.png?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1779787631&width=1552&sig=QT%2F%2FS%2FlMwu5IFAfB6wfN18eUgByUGDH2fijI5DmQSmc%3D"
+      }
     },
     {
       "url": "https://www.reddit.com/r/geographymemes/comments/1to9lty/cascadia_wins_50/",
