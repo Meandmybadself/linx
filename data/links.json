@@ -3422,6 +3422,51 @@
         "description": null,
         "favicon": "https://a.co/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_0hTtsqiFCc",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1780174345.247729",
+      "collectedAt": "2026-05-30T21:26:28.437Z",
+      "messageText": "I'm now imagining Trump \"singing\" hits such as William Shatner's _<https://www.youtube.com/watch?v=_0hTtsqiFCc|Mr Tambourine Man>,_ William Shatner's _<https://www.youtube.com/watch?v=BdUMICxLXhM|Rocket Man>,_ and David Hasselhoff's _<https://www.youtube.com/watch?v=dm7jEA3frY4|J",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/9f244442/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BdUMICxLXhM",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1780174345.247729",
+      "collectedAt": "2026-05-30T21:26:28.437Z",
+      "messageText": "I'm now imagining Trump \"singing\" hits such as William Shatner's _<https://www.youtube.com/watch?v=_0hTtsqiFCc|Mr Tambourine Man>,_ William Shatner's _<https://www.youtube.com/watch?v=BdUMICxLXhM|Rocket Man>,_ and David Hasselhoff's _<https://www.youtube.com/watch?v=dm7jEA3frY4|J",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/9f244442/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dm7jEA3frY4",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1780174345.247729",
+      "collectedAt": "2026-05-30T21:26:28.437Z",
+      "messageText": "I'm now imagining Trump \"singing\" hits such as William Shatner's _<https://www.youtube.com/watch?v=_0hTtsqiFCc|Mr Tambourine Man>,_ William Shatner's _<https://www.youtube.com/watch?v=BdUMICxLXhM|Rocket Man>,_ and David Hasselhoff's _<https://www.youtube.com/watch?v=dm7jEA3frY4|J",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/9f244442/img/favicon_32x32.png"
+      }
     }
   ]
 }
