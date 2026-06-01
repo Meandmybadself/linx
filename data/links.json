@@ -3467,6 +3467,17 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/9f244442/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1780349488.191129",
+      "collectedAt": "2026-06-01T22:08:05.410Z",
+      "messageText": "welp, hold onto your butts. <https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html>",
+      "meta": null
     }
   ]
 }
