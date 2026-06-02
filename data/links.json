@@ -3499,6 +3499,37 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/4882d0a38c161d7941cd99ccf44048370e50d875d1b9d5c115ecd114213919db/cyberpapiii/chipotlai-max"
       }
+    },
+    {
+      "url": "https://streetfoodfinder.com/c/mn/minneapolis",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1780411979.330869",
+      "collectedAt": "2026-06-02T15:33:45.350Z",
+      "messageText": "fingers crossed this is current?\n\n<https://streetfoodfinder.com/c/mn/minneapolis>",
+      "meta": {
+        "title": "StreetFoodFinder - Find the best food trucks near you!",
+        "description": "See the schedule for the best food trucks, food trailers, and food carts near you using our website and iOS / Android apps",
+        "favicon": "https://streetfoodfinder.com/static/favicon.ico",
+        "image": "https://streetfoodfinder.com/imgs/apps/app_icon300.png"
+      }
+    },
+    {
+      "url": "https://manage.kmail-lists.com/subscriptions/web-view?a=QWvyMp&c=01KSQDAFZDGNYNX5ZJVX3F9S2F&k=c7eb8d5360f221ba7e8cb4870ea2499b&m=01KT1ADS8QG6F3JVX6ZW6FQZFJ&r=01KT31S8Z4D1KP1Y453J5F5CD6",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1780413272.510449",
+      "collectedAt": "2026-06-02T15:33:46.263Z",
+      "messageText": "interesting. Bambu emailed me the announcement for the A2L, but they sent me the <https://manage.kmail-lists.com/subscriptions/web-view?a=QWvyMp&c=01KSQDAFZDGNYNX5ZJVX3F9S2F&k=c7eb8d5360f221ba7e8cb4870ea2499b&m=01KT1ADS8QG6F3JVX6ZW6FQZFJ&r=01KT31S8Z4D1KP1Y453J5F5CD6|japanese vers",
+      "meta": {
+        "title": null,
+        "description": null,
+        "favicon": "https://manage.kmail-lists.com/favicon.ico"
+      }
     }
   ]
 }
