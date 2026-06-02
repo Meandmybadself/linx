@@ -3530,6 +3530,33 @@
         "description": null,
         "favicon": "https://manage.kmail-lists.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-new-constitution",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1780419505.644019",
+      "collectedAt": "2026-06-02T17:41:49.594Z",
+      "messageText": "<https://www.anthropic.com/news/claude-new-constitution>\n```Claude's nature. In this section, we express our uncertainty about whether Claude might have some kind of consciousness or moral status (either now or in the future). We discuss how we hope Claude will approach questions",
+      "meta": {
+        "title": "Claude&#x27;s new constitution",
+        "description": "A new approach to a foundational document that expresses and shapes who Claude is",
+        "favicon": "https://www.anthropic.com/images/icons/favicon-32x32.png",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Constitution&amp;backgroundColor=olive"
+      }
+    },
+    {
+      "url": "https://www.reddit.com/r/ArtificialSentience/comments/1sjj3cd/claude_ended_the_conversation_after_someone/?rdt=52996",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0AL42U82CC",
+      "channelName": "claude",
+      "timestamp": "1780418092.331919",
+      "collectedAt": "2026-06-02T17:41:49.594Z",
+      "messageText": "<https://www.reddit.com/r/ArtificialSentience/comments/1sjj3cd/claude_ended_the_conversation_after_someone/?rdt=52996>",
+      "meta": null
     }
   ]
 }
