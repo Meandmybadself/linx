@@ -3483,6 +3483,22 @@
         "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
         "image": "https://static01.nyt.com/images/2026/05/21/multimedia/00biz-anthropic-ipo-hfo-jfkm/00biz-anthropic-ipo-hfo-jfkm-facebookJumbo.jpg"
       }
+    },
+    {
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1780370087.336739",
+      "collectedAt": "2026-06-02T03:21:48.917Z",
+      "messageText": "this is fucking awesome: <https://github.com/cyberpapiii/chipotlai-max>",
+      "meta": {
+        "title": "GitHub - cyberpapiii/chipotlai-max: The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more.",
+        "description": "The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp;amp; more....",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/4882d0a38c161d7941cd99ccf44048370e50d875d1b9d5c115ecd114213919db/cyberpapiii/chipotlai-max"
+      }
     }
   ]
 }
