@@ -3578,7 +3578,11 @@
       "timestamp": "1780435094.194749",
       "collectedAt": "2026-06-02T22:47:38.144Z",
       "messageText": "One more month. <https://www.youtube.com/watch?v=BLBvbMtjyAQ>",
-      "meta": null
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/be7f6540/img/favicon_32x32.png"
+      }
     }
   ]
 }
