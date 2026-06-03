@@ -3583,6 +3583,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/be7f6540/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://shirt.woot.com/offers/trail-of-lies",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1780504419.656919",
+      "collectedAt": "2026-06-03T17:48:58.958Z",
+      "messageText": "<https://shirt.woot.com/offers/trail-of-lies>",
+      "meta": {
+        "title": "Trail of Lies - $15.00 - Free shipping",
+        "description": "Trail of Lies",
+        "favicon": "https://d3rqdbvvokrlbl.cloudfront.net/lib/Images/favicon/favicon-96x96.2025.png",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/mediaservice.woot.com/8bb273fb-50d2-44ec-b9f8-9d3275d1a3f6._AC_SR882,441_.png"
+      }
     }
   ]
 }
