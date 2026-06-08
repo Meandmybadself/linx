@@ -3736,7 +3736,28 @@
       "timestamp": "1780934257.936519",
       "collectedAt": "2026-06-08T17:14:26.744Z",
       "messageText": "<http://howtothinkwhenyoudraw.com|howtothinkwhenyoudraw.com> from <https://www.instagram.com/etheringtonbrothers/>",
-      "meta": null
+      "meta": {
+        "title": "Instagram",
+        "description": "Create an account or log in to Instagram - Share what you&#039;re into with the people who get you.",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+        "image": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+      }
+    },
+    {
+      "url": "https://minneapolis.craigslist.org/hnp/bab/d/minnetonka-bumbleride-indie-twin/7939637682.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C15SGV5RA",
+      "channelName": "parents",
+      "timestamp": "1780943167.833599",
+      "collectedAt": "2026-06-08T18:59:43.585Z",
+      "messageText": "<https://minneapolis.craigslist.org/hnp/bab/d/minnetonka-bumbleride-indie-twin/7939637682.html>",
+      "meta": {
+        "title": "Bumbleride Indie Twin Stroller - baby &amp; kid stuff - by owner - household sale - craigslist",
+        "description": "For sale, a blue Bumbleride Indie Twin Stroller that we&#39;ve aged out of. This thing is a tank. Originally purchased for $1200, it&#39;s been through three kids &amp;amp; doesn&#39;t have a dent to show for it....",
+        "favicon": "https://minneapolis.craigslist.org/favicon.ico",
+        "image": "https://images.craigslist.org/00606_LWyUITpDaC_0t20CI_600x450.jpg"
+      }
     }
   ]
 }
