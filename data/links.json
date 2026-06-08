@@ -3710,6 +3710,33 @@
         "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260607-white-house-ufc-ww-1808-9669dd.jpg"
       }
+    },
+    {
+      "url": "http://howtothinkwhenyoudraw.com",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1780934257.936519",
+      "collectedAt": "2026-06-08T17:14:26.744Z",
+      "messageText": "<http://howtothinkwhenyoudraw.com|howtothinkwhenyoudraw.com> from <https://www.instagram.com/etheringtonbrothers/>",
+      "meta": {
+        "title": "How to THINK When You Draw MAGAZINE",
+        "description": null,
+        "favicon": "https://mcusercontent.com/0a9e4faac95ac832de1463cff/images/ba6bfc90-b485-5806-fcb4-cdb80369349f.png",
+        "image": "https://mcusercontent.com/0a9e4faac95ac832de1463cff/images/4cf8ede8-313f-2f3b-f14b-db20d3987145.png"
+      }
+    },
+    {
+      "url": "https://www.instagram.com/etheringtonbrothers/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1780934257.936519",
+      "collectedAt": "2026-06-08T17:14:26.744Z",
+      "messageText": "<http://howtothinkwhenyoudraw.com|howtothinkwhenyoudraw.com> from <https://www.instagram.com/etheringtonbrothers/>",
+      "meta": null
     }
   ]
 }
