@@ -3789,6 +3789,37 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/y4/r/pctUncuduBn.svg",
         "image": "https://scontent-ord5-3.cdninstagram.com/v/t51.71878-15/719150220_2241131069956298_6921623413511130841_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=-xtMQAxxogcQ7kNvwEx9iXf&amp;_nc_oc=AdqDTwWwbVAPlgmwiqaMA02ehxLCX1a0M4cahorADlkKmm_5LCcyxoInVoG8ciECA-Y&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-3.cdninstagram.com&amp;_nc_gid=4VOYTpOPeG22KhyMJZi_nw&amp;_nc_ss=7f289&amp;oh=00_Af816L32HUPTYt3xzcXl5kOYOsdwV9Y3HVTU3yZlIHg5UA&amp;oe=6A2CE4FE"
       }
+    },
+    {
+      "url": "https://music.apple.com/us/album/j-period-presents-the-marauders-mixtape-dj-mix/6776311334",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1781017694.964439",
+      "collectedAt": "2026-06-09T15:16:24.886Z",
+      "messageText": "\n<https://music.apple.com/us/album/j-period-presents-the-marauders-mixtape-dj-mix/6776311334>",
+      "meta": {
+        "title": "J.PERIOD Presents: The Marauders Mixtape (DJ Mix) by J.PERIOD on Apple Music",
+        "description": "Album · 2026 · 46 Songs",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/be/ce/5abeced4-c9d4-6a81-5a94-276cb1537003/d984897e-3ce4-4366-8161-fba47f3992a4.jpg/1200x630wp-60.jpg"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/shorts/DLq22XJWkd8",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1781017862.040599",
+      "collectedAt": "2026-06-09T15:16:25.452Z",
+      "messageText": "Trump when Netanyahu won't stop bombing Iran/Lebanon:\n <https://www.youtube.com/shorts/DLq22XJWkd8>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/64df006f/img/favicon_32x32.png"
+      }
     }
   ]
 }
