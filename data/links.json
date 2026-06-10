@@ -3862,6 +3862,37 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/64df006f/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://open.spotify.com/track/49g3szYE0qIgP76FqQz2Oh?si=7a0c30dbcb904cab",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1781101692.028949",
+      "collectedAt": "2026-06-10T15:14:23.170Z",
+      "messageText": "new Interpol single\n\n<https://open.spotify.com/track/49g3szYE0qIgP76FqQz2Oh?si=7a0c30dbcb904cab>",
+      "meta": {
+        "title": "This Mirror Weighs a Ton",
+        "description": "Interpol · This Mirror Weighs a Ton/See Out Loud · Song · 2026",
+        "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.59cc0c02.png",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a6736211326f7a21dbb9fdb4"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NoOVJynSmjw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1781098793.357559",
+      "collectedAt": "2026-06-10T15:14:23.459Z",
+      "messageText": "Sequel to _Social Network_, written by Aaron Sorkin\n<https://www.youtube.com/watch?v=NoOVJynSmjw>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/64df006f/img/favicon_32x32.png"
+      }
     }
   ]
 }
