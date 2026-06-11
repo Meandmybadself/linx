@@ -3924,6 +3924,17 @@
         "favicon": "https://www.cnn.com/media/sites/cnn/favicon.ico",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2278806877.jpg?c=16x9&q=w_800,c_fill"
       }
+    },
+    {
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane?utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1781191998.188149",
+      "collectedAt": "2026-06-11T17:23:04.773Z",
+      "messageText": "<https://mceglowski.substack.com/p/laffaire-siloxane?utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true|This was a fun read from Maciej Ceglowski> about the water reclaimer on the ISS.",
+      "meta": null
     }
   ]
 }
