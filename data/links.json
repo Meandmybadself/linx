@@ -3966,6 +3966,21 @@
         "description": "Microsoft retrieved the Northern Isles underwater datacenter from the seafloor off Scotland&#039;s Orkney Islands. Project Natick is proving the concept of underwater datacenters is feasible as well as logistically, environmentally and economically practical.",
         "favicon": "https://news.microsoft.com/source/wp-content/uploads/2022/10/cropped-Microsoft_logo.svg_-300x300-1-128x120.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/live/aAhm880quUg",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1781288285.006359",
+      "collectedAt": "2026-06-12T18:49:40.059Z",
+      "messageText": "LOL <https://www.youtube.com/live/aAhm880quUg>\n&gt; *LIVE: See Donald Trump’s name come off the Kennedy Center as it happens*",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/43517217/img/favicon_32x32.png"
+      }
     }
   ]
 }
