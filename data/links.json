@@ -3997,6 +3997,22 @@
         "favicon": "https://www.anthropic.com/images/icons/favicon-32x32.png",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"
       }
+    },
+    {
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/gene-shalit-today-show-movie-critic-dies-100-rcna103405",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1781321417.457559",
+      "collectedAt": "2026-06-13T05:39:09.084Z",
+      "messageText": "<https://www.nbcnews.com/pop-culture/pop-culture-news/gene-shalit-today-show-movie-critic-dies-100-rcna103405|RIP Gene>",
+      "meta": {
+        "title": "Gene Shalit, ‘TODAY’ show movie critic, dies at 100",
+        "description": "He stood out from the broadcast television crowd with his colorful bowties, puffy hair and movie reviews studded with cheeky puns. ",
+        "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230907-gene-shalit-1982-obit-ac-1116p-eb0069.jpg"
+      }
     }
   ]
 }
