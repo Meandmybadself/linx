@@ -4013,6 +4013,21 @@
         "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230907-gene-shalit-1982-obit-ac-1116p-eb0069.jpg"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1SvjzURhZO0",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1781380666.456549",
+      "collectedAt": "2026-06-13T20:35:26.718Z",
+      "messageText": "don't look behind the curtain! <https://www.youtube.com/watch?v=1SvjzURhZO0>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/43517217/img/favicon_32x32.png"
+      }
     }
   ]
 }
