@@ -4028,6 +4028,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/43517217/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.pbs.org/newshour/nation/judge-orders-restoration-of-national-park-changes-made-by-trump-administration",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1781447368.174939",
+      "collectedAt": "2026-06-14T14:51:58.023Z",
+      "messageText": "<https://www.pbs.org/newshour/nation/judge-orders-restoration-of-national-park-changes-made-by-trump-administration|https://www.pbs.org/newshour/nation/judge-orders-restoration-of-national-park-changes-made-by-trump-administration>",
+      "meta": {
+        "title": "Judge orders restoration of National Park changes made by Trump administration",
+        "description": "“History cannot be faithfully told while excluding the experiences of communities whose contributions, struggles, and achievements form an important part of our Nation’s story,” the judge wrote.",
+        "favicon": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/favicon-32x32.png",
+        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2025-06-28T041043Z_205935628_RC28BFAOKW9O_RTRMADP_3_USA-TRUMP-PARKS-1024x683.jpg"
+      }
     }
   ]
 }
