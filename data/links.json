@@ -4128,6 +4128,33 @@
         "description": null,
         "favicon": "https://commodore.net/content/uploads/2026/02/cropped-logo-chickenlips-512x-32x32.png"
       }
+    },
+    {
+      "url": "https://us.store.bambulab.com/products/pla-pure",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01416CTZ0B",
+      "channelName": "3d-printing",
+      "timestamp": "1781644200.022369",
+      "collectedAt": "2026-06-16T21:55:44.341Z",
+      "messageText": "\"but is it food safe?\" <https://us.store.bambulab.com/products/pla-pure>",
+      "meta": {
+        "title": "Bambu Lab PLA Pure: A PLA Filament for Safer Indoor Printing",
+        "description": "Bambu Lab PLA Pure is the best PLA filament for safe indoor 3D printing. Non-toxic, ultra-low-emission, toy-safe, and food-contact-grade. Shop now at Bambu Lab.",
+        "favicon": "https://store.bblcdn.com/s1/default/522d3edb3c1c4548bdb25958ba71c283/favicon.png",
+        "image": "https://store.bblcdn.com/s7/default/9658dd0b530b4f55bfc119e267fed0c2/1.jpg"
+      }
+    },
+    {
+      "url": "https://digits.t-mobile.com/#/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1781643393.692659",
+      "collectedAt": "2026-06-16T21:55:44.499Z",
+      "messageText": "TIL (unfortunately I don't currently have tmo)\n<https://digits.t-mobile.com/#/|https://digits.t-mobile.com>",
+      "meta": null
     }
   ]
 }
