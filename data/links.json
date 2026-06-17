@@ -4165,7 +4165,11 @@
       "timestamp": "1781653342.497209",
       "collectedAt": "2026-06-17T01:16:48.162Z",
       "messageText": "Banger. <https://youtu.be/CymCVrKpLzw?is=wEO6JJP0UCn-wi5z|https://youtu.be/CymCVrKpLzw?is=wEO6JJP0UCn-wi5z> ",
-      "meta": null
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/f2e7f510/img/favicon_32x32.png"
+      }
     }
   ]
 }
