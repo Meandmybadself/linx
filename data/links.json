@@ -4244,6 +4244,22 @@
         "favicon": "https://www.the-independent.com/img/shortcut-icons/icon-192x192.png",
         "image": "https://static.the-independent.com/2026/06/17/18/2026-06-17T173626Z_674342976_RC2TVLA1NT7R_RTRMADP_3_G7-SUMMIT-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1781809937.219609",
+      "collectedAt": "2026-06-18T19:49:52.454Z",
+      "messageText": "they've been taking out Russia's most expensive jet assets so much so that Russia moved all their $$$ jets far into the Russian interior to covertly take them out of Ukraine's intelligence/drone range...but Ukraine found a way\n\n<https://en.wikipedia.org/wiki/Operation_Spiderweb>",
+      "meta": {
+        "title": "Operation Spiderweb - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/2025-06-01_DroneAttack_SBU_%28Burning_Plane%29.jpg"
+      }
     }
   ]
 }
