@@ -4362,6 +4362,22 @@
       "collectedAt": "2026-06-22T20:05:44.296Z",
       "messageText": "<https://www.axs.com/events/1496246/angine-de-poitrine-tickets?skin=firstavenue|Link to buy tix>",
       "meta": null
+    },
+    {
+      "url": "https://techtoast.academy/products/techtoast-academy-25-week-learn-and-build-program",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C011ENT379C",
+      "channelName": "crafts-hobbies-projects",
+      "timestamp": "1782160638.525669",
+      "collectedAt": "2026-06-22T21:45:28.609Z",
+      "messageText": "was at my sister's last week, and she mentioned that my mom got my 8-year-old nephew an electronics kit, and she was having to learn alongside him. I asked a bit more about it, and it turns out it's an arduino kit with lessons attached to it. (I think it's <https://techtoast.acad",
+      "meta": {
+        "title": "25-Week Learn &amp; Build Electronics Kit",
+        "description": "Complete Arduino starter kit with everything needed to build real electronics projects. No soldering required. Learn at your own pace.",
+        "favicon": "https://techtoast.academy/favicon.ico",
+        "image": "http://techtoast.academy/cdn/shop/files/1_c5dbcc26-397a-48f8-a97c-2aa0b933a6cc.jpg?v=1777659968"
+      }
     }
   ]
 }
