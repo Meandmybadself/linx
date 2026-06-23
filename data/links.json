@@ -4378,6 +4378,21 @@
         "favicon": "https://techtoast.academy/favicon.ico",
         "image": "http://techtoast.academy/cdn/shop/files/1_c5dbcc26-397a-48f8-a97c-2aa0b933a6cc.jpg?v=1777659968"
       }
+    },
+    {
+      "url": "https://inspirato.meandmybadself.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1782176170.486999",
+      "collectedAt": "2026-06-23T01:05:11.298Z",
+      "messageText": "Made a place to keep all the cute shit I store on my computers –\n<https://inspirato.meandmybadself.com/>",
+      "meta": {
+        "title": "inspirato",
+        "description": "A personal wall of inspiration.",
+        "favicon": "https://inspirato.meandmybadself.com/favicon.svg"
+      }
     }
   ]
 }
