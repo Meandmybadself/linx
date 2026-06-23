@@ -4393,6 +4393,28 @@
         "description": "A personal wall of inspiration.",
         "favicon": "https://inspirato.meandmybadself.com/favicon.svg"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/Minneapolis/comments/1udk0a4/who_do_you_think_are_the_strongest_city_council/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782240662.277369",
+      "collectedAt": "2026-06-23T18:51:48.967Z",
+      "messageText": "<https://www.reddit.com/r/Minneapolis/comments/1udk0a4/who_do_you_think_are_the_strongest_city_council/>",
+      "meta": null
+    },
+    {
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782239882.113059",
+      "collectedAt": "2026-06-23T18:51:48.967Z",
+      "messageText": "So much fucking energy (and money) spent on overturning bad-faith attempts to, among other things, fix (both meanings) voter data. <https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful>",
+      "meta": null
     }
   ]
 }
