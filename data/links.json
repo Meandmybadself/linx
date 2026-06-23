@@ -4431,6 +4431,21 @@
         "favicon": "https://kotaku.com/favicon.svg",
         "image": "https://kotaku.com/app/uploads/2026/06/ramguy-1200x675.jpg"
       }
+    },
+    {
+      "url": "http://Compuserve.com",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1782246495.834059",
+      "collectedAt": "2026-06-23T20:51:01.188Z",
+      "messageText": "wow. this is way more recent than I thought.\n```In 2015, when Verizon acquired AOL, all of CompuServe's original properties became parts of Verizon. CompuServe announced in November 2017 that the CompuServe Forums would be closed on December 15, 2017. Verizon then spun off AOL's ",
+      "meta": {
+        "title": "CompuServe.com - Home",
+        "description": null,
+        "favicon": "http://compuserve.com/favicon.ico"
+      }
     }
   ]
 }
