@@ -4446,6 +4446,21 @@
         "description": null,
         "favicon": "http://compuserve.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.compuserve.com/tech/webcam/category/All",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1782248741.518879",
+      "collectedAt": "2026-06-23T21:39:00.604Z",
+      "messageText": "I love that half of these links end up at a 404 page, and the other half are a time capsule. <https://www.compuserve.com/tech/webcam/category/All>",
+      "meta": {
+        "title": "Webcams",
+        "description": null,
+        "favicon": "https://www.compuserve.com/favicon.ico"
+      }
     }
   ]
 }
