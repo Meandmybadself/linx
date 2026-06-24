@@ -4461,6 +4461,22 @@
         "description": null,
         "favicon": "https://www.compuserve.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://xcancel.com/JPoehnelt/status/2069482265953087602",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782263112.418359",
+      "collectedAt": "2026-06-24T03:17:53.618Z",
+      "messageText": "<https://xcancel.com/JPoehnelt/status/2069482265953087602>",
+      "meta": {
+        "title": "Justin Poehnelt (@JPoehnelt)",
+        "description": "Two months ago I was fired by Google for creating the Google Workspace CLI. It went viral, hit #1 on Hacker News, gained thousands of GitHub stars and many thousands of actual users in just a couple days.\n\nIt was an incredible, confusing journey, from directors and leaders asking what they could lea",
+        "favicon": "https://xcancel.com/favicon-32x32.png",
+        "image": "https://pbs.twimg.com/media/HLhHJvWaoAEBgxd.jpg"
+      }
     }
   ]
 }
