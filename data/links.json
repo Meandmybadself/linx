@@ -4504,6 +4504,21 @@
         "favicon": "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/images/icons/jpm_pbbrown_favicon.png",
         "image": "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/images/article-hero/latest-and-featured-hero/EOTM-June-2026-250th-Anniv-PB-2880x1620px-v01-3.jpg/_jcr_content/renditions/cq5dam.web.1200.630.jpg"
       }
+    },
+    {
+      "url": "https://fictionalbrandsarchive.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782321367.891459",
+      "collectedAt": "2026-06-24T17:42:30.222Z",
+      "messageText": "<https://fictionalbrandsarchive.com/|fictionalbrandsarchive.com>",
+      "meta": {
+        "title": "Fictional Brands Archive",
+        "description": null,
+        "favicon": "https://fictionalbrandsarchive.com/assets/favicon2.ico"
+      }
     }
   ]
 }
