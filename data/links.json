@@ -4519,6 +4519,54 @@
         "description": null,
         "favicon": "https://fictionalbrandsarchive.com/assets/favicon2.ico"
       }
+    },
+    {
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782425522.754799",
+      "collectedAt": "2026-06-25T22:36:35.542Z",
+      "messageText": "Not sure if anyone here followed him, but <https://om.co/2026/06/24/1966-2026/|Om Malik died last night>.\nReally really nice &amp; smart dude reminding us to _<https://om.co/2020/07/30/write-like-a-human/|Write Like a Human>._",
+      "meta": {
+        "title": "Om Malik, 1966-2026",
+        "description": "Om Malik passed away on June 24, 2026, at Stanford Hospital after a long health journey with his heart. He was surrounded by family and friends. We invite you to share your remembrances of Om in th…",
+        "favicon": "https://om.co/wp-content/uploads/2019/09/cropped-OmIcon-1-32x32.jpg",
+        "image": "https://om.co/wp-content/uploads/2021/04/image-og-fallback-om-fog.png"
+      }
+    },
+    {
+      "url": "https://om.co/2020/07/30/write-like-a-human/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782425522.754799",
+      "collectedAt": "2026-06-25T22:36:35.542Z",
+      "messageText": "Not sure if anyone here followed him, but <https://om.co/2026/06/24/1966-2026/|Om Malik died last night>.\nReally really nice &amp; smart dude reminding us to _<https://om.co/2020/07/30/write-like-a-human/|Write Like a Human>._",
+      "meta": {
+        "title": "Write like a human",
+        "description": "Photo by Álvaro Serrano on Unsplash Given that I have been writing three decades, including eighteen-plus years a blogger, I am hardly surprised that I am repeatedly asked: how should I write? And …",
+        "favicon": "https://om.co/wp-content/uploads/2019/09/cropped-OmIcon-1-32x32.jpg",
+        "image": "https://om.co/wp-content/uploads/2021/05/image-og-fallback-om-left-black-vb.png"
+      }
+    },
+    {
+      "url": "https://github.com/shadcn/improve",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1782424739.851739",
+      "collectedAt": "2026-06-25T22:36:38.029Z",
+      "messageText": "Hearing good things about `/improve`: <https://github.com/shadcn/improve|github.com/shadcn/improve>",
+      "meta": {
+        "title": "GitHub - shadcn/improve: Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. - shadcn/improve",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/224774a6df8c72da1a3e6e3f7738adb4181a6d68f55067ea921cae8a3e919013/shadcn/improve"
+      }
     }
   ]
 }
