@@ -4599,6 +4599,44 @@
         "favicon": "https://www.mcsweeneys.net/assets/favicon-66cdcc39a283cfb9330aa6febd06da98b2977b4decd1d3edc1b7de35f14d6c06.png",
         "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/le0l2lp7lufdut5c7a56wfxj732w"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/theclash/s/u0St7VjX1n",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1782504476.709529",
+      "collectedAt": "2026-06-26T20:40:25.888Z",
+      "messageText": "Fuck yeah, Dr Crusher. <https://www.reddit.com/r/theclash/s/u0St7VjX1n|https://www.reddit.com/r/theclash/s/u0St7VjX1n> ",
+      "meta": null
+    },
+    {
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1uga2dp/spacex_calls_are_now_dirt_cheap/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1782505264.701629",
+      "collectedAt": "2026-06-26T20:40:25.998Z",
+      "messageText": "wow. surprised that everyone's shredding this guy. seems like every time I see a wsb post with someone posting bad advice, most people agree with the OP. <https://www.reddit.com/r/wallstreetbets/comments/1uga2dp/spacex_calls_are_now_dirt_cheap/|reddit.com/r/wallstreetbets/…/space",
+      "meta": null
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/trump-administration/ex-trump-adviser-john-bolton-expected-plead-guilty-retaining-national-rcna351897",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782504362.075459",
+      "collectedAt": "2026-06-26T20:40:27.239Z",
+      "messageText": "huh. So, by pleading guilty to 1 count, he basically gets to pay and serve half of what he should have, and only one felony will be added onto his record?\n<https://www.nbcnews.com/politics/trump-administration/ex-trump-adviser-john-bolton-expected-plead-guilty-retaining-national-",
+      "meta": {
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified information",
+        "description": "Bolton served as White House national security adviser during Trump’s first term. ",
+        "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260626-john-bolton-mb-1254-833e89.jpg"
+      }
     }
   ]
 }
