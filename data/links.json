@@ -4487,7 +4487,12 @@
       "timestamp": "1782306709.356139",
       "collectedAt": "2026-06-24T13:48:13.962Z",
       "messageText": "45 is right. It _is_ a meaningless vote. Because a) they waited so long to do it, and b) 45 won't go along with it anyway.\n<https://thehill.com/homenews/senate/5936650-iran-war-powers-senate/|https://thehill.com/homenews/senate/5936650-iran-war-powers-senate/>",
-      "meta": null
+      "meta": {
+        "title": "Senate votes to direct Trump to withdraw troops from Iran conflict, 4 Republicans break ranks",
+        "description": "The Senate on Tuesday approved a House-passed resolution directing President Trump to withdraw U.S. armed forces from hostilities against Iran after four GOP senators broke ranks and voted to under…",
+        "favicon": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=32",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2025/05/collinssusan_paulrand_050625gn01_w.jpg?w=1280"
+      }
     },
     {
       "url": "https://privatebank.jpmorgan.com/eur/en/insights/latest-and-featured/eotm/semiquincententacles",
