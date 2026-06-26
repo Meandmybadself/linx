@@ -4567,6 +4567,33 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/224774a6df8c72da1a3e6e3f7738adb4181a6d68f55067ea921cae8a3e919013/shadcn/improve"
       }
+    },
+    {
+      "url": "https://files.cdn.printful.com/files/2fe/2fe27466aed46dbf246e5b4460890185_preview.png",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782435138.414279",
+      "collectedAt": "2026-06-26T01:10:42.590Z",
+      "messageText": "<https://files.cdn.printful.com/files/2fe/2fe27466aed46dbf246e5b4460890185_preview.png|files.cdn.printful.com/files/2fe/2fe27466aed4…>",
+      "meta": null
+    },
+    {
+      "url": "https://www.mcsweeneys.net/articles/when-it-happens",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782435083.528409",
+      "collectedAt": "2026-06-26T01:10:42.590Z",
+      "messageText": "<https://www.mcsweeneys.net/articles/when-it-happens|mcsweeneys.net/articles/when-it-happens>",
+      "meta": {
+        "title": "When It Happens",
+        "description": "“Of course, it doesn’t feel right to want IT to HAPPEN. And it’s obviously not okay to try to make IT HAPPEN. That’s not what this is ABOUT, just to make thi...",
+        "favicon": "https://www.mcsweeneys.net/assets/favicon-66cdcc39a283cfb9330aa6febd06da98b2977b4decd1d3edc1b7de35f14d6c06.png",
+        "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/le0l2lp7lufdut5c7a56wfxj732w"
+      }
     }
   ]
 }
