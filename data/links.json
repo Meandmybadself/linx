@@ -4668,6 +4668,21 @@
         "favicon": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w256h256/2025/08/favicon4.png",
         "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/cover-1.jpg"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t4WJ1R3qInE",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782686119.378269",
+      "collectedAt": "2026-06-28T23:29:41.219Z",
+      "messageText": "<https://www.youtube.com/watch?v=t4WJ1R3qInE|youtube.com/watch?v=…>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/6740ecb6/img/favicon_32x32.png"
+      }
     }
   ]
 }
