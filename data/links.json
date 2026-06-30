@@ -4756,6 +4756,65 @@
         "description": null,
         "favicon": "https://minnecrapolis.slack.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://benwaldencab.in/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782847819.952599",
+      "collectedAt": "2026-06-30T19:40:02.292Z",
+      "messageText": "Added to <https://benwaldencab.in/|benwaldencab.in>",
+      "meta": {
+        "title": "Benwalden - Cabin on the Gunflint Trail",
+        "description": "A serene cabin retreat established in 2025, nestled along the scenic Gunflint Trail in Minnesota",
+        "favicon": "https://benwaldencab.in/bg.webp",
+        "image": "https://benwaldencab.in/bg.webp"
+      }
+    },
+    {
+      "url": "https://birdweather.benwaldencab.in/species?period=week&limit=10",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782847515.049989",
+      "collectedAt": "2026-06-30T19:40:02.292Z",
+      "messageText": "So many birds.\n<https://birdweather.benwaldencab.in/species?period=week&limit=10|birdweather.benwaldencab.in/species?period=week&limit=10>",
+      "meta": null
+    },
+    {
+      "url": "https://www.yahoo.com/news/science/articles/utah-made-legal-plug-solar-063600285.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782846662.738439",
+      "collectedAt": "2026-06-30T19:40:04.490Z",
+      "messageText": "in other (old?) news.. <https://www.yahoo.com/news/science/articles/utah-made-legal-plug-solar-063600285.html>\nLooks like MN's bill is being deferred til next year. <https://www.brightsaver.org/legislation-tracker>",
+      "meta": {
+        "title": "Utah made it legal to plug solar panels into wall outlets, and now 30 states are chasing it",
+        "description": "Often called &quot;balcony solar,&quot; it offers a cheaper starting point than a traditional rooftop array.",
+        "favicon": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
+        "image": "https://s.yimg.com/ny/api/res/1.2/mhAy.Q95hton3R0en3ZsWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/bb162269386a05c4e9f7808ce7cae60c"
+      }
+    },
+    {
+      "url": "https://www.brightsaver.org/legislation-tracker",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1782846662.738439",
+      "collectedAt": "2026-06-30T19:40:04.490Z",
+      "messageText": "in other (old?) news.. <https://www.yahoo.com/news/science/articles/utah-made-legal-plug-solar-063600285.html>\nLooks like MN's bill is being deferred til next year. <https://www.brightsaver.org/legislation-tracker>",
+      "meta": {
+        "title": "States Moving Legislation | Bright Saver Plug-In Solar",
+        "description": "Track plug-in solar legislation across U.S. states. See which bills are advancing to legalize balcony solar, and how to take action in your state.",
+        "favicon": "https://static.wixstatic.com/media/7c92bf_fbbeb5d7482f460fb928db4dafacb5eb%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7c92bf_fbbeb5d7482f460fb928db4dafacb5eb%7Emv2.png",
+        "image": "https://static.wixstatic.com/media/8096e6_439a0b2cc09c44a8984e15d6b6aaa783%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/8096e6_439a0b2cc09c44a8984e15d6b6aaa783%7Emv2.jpg"
+      }
     }
   ]
 }
