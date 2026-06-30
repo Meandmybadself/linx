@@ -4714,6 +4714,48 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/728070268_18600783907057542_1947894497345054007_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=6UicLM8NUtMQ7kNvwGEu9bA&amp;_nc_oc=AdqNTMNl7UHsVUEfmIVqom8IQ85em3e5y4bkffc4S0KxAP0EtybHET9wPkTIWpduDBc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.cdninstagram.com&amp;_nc_gid=xvuxpIcgoQo8sh6sHzxp0w&amp;_nc_ss=7f289&amp;oh=00_Af8rNtjQKha78-vuSAmxfrxQ3dFcXJXtK4wiMOcNDYpxHg&amp;oe=6A4885EE"
       }
+    },
+    {
+      "url": "https://app.birdweather.com/stations/28413",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1782836179.679419",
+      "collectedAt": "2026-06-30T16:48:35.805Z",
+      "messageText": "Accidentally posted this in <#C2YLW1JKZ>\n\nI installed a BirdNet Pi at our cabin.  Is very cool.\n\n<https://app.birdweather.com/stations/28413|app.birdweather.com/stations/28413>",
+      "meta": {
+        "title": "BirdNET-Pi - Benwalden",
+        "description": null,
+        "favicon": "https://app.birdweather.com/favicon-32x32.png",
+        "image": "https://www.birdweather.com/assets/opengraph-app-16814c17c141d8a45c177922ec3c6c800c8df5bc074387409bd61fba208273c2.png"
+      }
+    },
+    {
+      "url": "https://www.kickstarter.com/projects/xhorse3d/xhorse3d-xmachine-wm-100-desktop-simultaneous-5-axis-cnc",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C011ENT379C",
+      "channelName": "crafts-hobbies-projects",
+      "timestamp": "1782834309.914859",
+      "collectedAt": "2026-06-30T16:48:37.935Z",
+      "messageText": "<https://www.kickstarter.com/projects/xhorse3d/xhorse3d-xmachine-wm-100-desktop-simultaneous-5-axis-cnc>",
+      "meta": null
+    },
+    {
+      "url": "https://minnecrapolis.slack.com/archives/C011ENT379C/p1782834309914859",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1782834482.924449",
+      "collectedAt": "2026-06-30T16:48:38.663Z",
+      "messageText": "x-post <https://minnecrapolis.slack.com/archives/C011ENT379C/p1782834309914859|https://minnecrapolis.slack.com/archives/C011ENT379C/p1782834309914859>",
+      "meta": {
+        "title": "Slack",
+        "description": null,
+        "favicon": "https://minnecrapolis.slack.com/favicon.ico"
+      }
     }
   ]
 }
