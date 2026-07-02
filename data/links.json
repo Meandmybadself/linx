@@ -4065,7 +4065,12 @@
       "timestamp": "1781549654.292259",
       "collectedAt": "2026-06-15T20:14:21.219Z",
       "messageText": "Damn. I'd be tempted to go if it wasn't $92+fees/ticket (I guessed the ticketmaster code of 'PUPPERS'). I bet it'd be a blast.\n<https://www.bandsintown.com/e/108511569?app_id=c23b652cc7d5953c3ce7263d38937295>",
-      "meta": null
+      "meta": {
+        "title": "Letterkenny Live @ Roy Wilkins Auditorium",
+        "description": "Mar 11, 2027 - Saint Paul, MN",
+        "favicon": "https://www.bandsintown.com/favicon.ico",
+        "image": "https://photos.bandsintown.com/thumb/25374038.jpeg"
+      }
     },
     {
       "url": "https://www.jackcring.com/home",
