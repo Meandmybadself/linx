@@ -4878,6 +4878,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/1daead2b/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://set79.com/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1783090247.834219",
+      "collectedAt": "2026-07-03T16:39:15.736Z",
+      "messageText": "Just found this: <https://set79.com/|set79.com>",
+      "meta": {
+        "title": "set79 - SoundCloud DJ Set Analyzer",
+        "description": "set79: Extract complete tracklists from SoundCloud DJ sets with accurate timestamps and track details.",
+        "favicon": "https://set79.com/favicon.ico"
+      }
     }
   ]
 }
