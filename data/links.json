@@ -2059,7 +2059,12 @@
       "timestamp": "1776895488.575009",
       "collectedAt": "2026-04-22T22:21:59.100Z",
       "messageText": "<https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/>",
-      "meta": null
+      "meta": {
+        "title": "Ping-pong robot Ace makes history by beating top-level human players",
+        "description": "An autonomous robot ping-pong player dubbed Ace has achieved a milestone for AI and robotics in Tokyo by competing against and sometimes defeating top-level human players at table tennis, a feat that could presage an array of other applications for similarly adept ​robots.",
+        "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32_v2.ico?d=371&amp;mxId=00000000",
+        "image": "https://www.reuters.com/resizer/v2/UPZF6O24NZID7B6YNT7ANPMVLE.jpg?auth=35bb4d18847095ef836e737f08ee40ccaa8c2514e553ac2b5e71c323b391b3fd&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
+      }
     },
     {
       "url": "https://github.com/alejandroqh/browser39",
