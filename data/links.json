@@ -4914,6 +4914,22 @@
         "favicon": "https://www.craigslist.org/favicon.ico",
         "image": "https://images.craigslist.org/00606_LWyUITpDaC_0t20CI_600x450.jpg"
       }
+    },
+    {
+      "url": "https://www.polygon.com/xbox-cuts-layoffs-too-big-not-to-fail/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1783441574.090509",
+      "collectedAt": "2026-07-07T17:23:14.006Z",
+      "messageText": "<https://www.polygon.com/xbox-cuts-layoffs-too-big-not-to-fail/|polygon.com/xbox-cuts-layoffs-too-big-not-to-fail>",
+      "meta": {
+        "title": "Turns out Xbox wasn&#039;t too big to fail, it was too big not to",
+        "description": "Loss of five studios isn&#039;t even the bad news",
+        "favicon": "https://www.polygon.com/public/build/images/favicon-48x48.png",
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/keeper.jpeg?w=1600&amp;h=900&amp;fit=crop"
+      }
     }
   ]
 }
