@@ -4930,6 +4930,38 @@
         "favicon": "https://www.polygon.com/public/build/images/favicon-48x48.png",
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/keeper.jpeg?w=1600&amp;h=900&amp;fit=crop"
       }
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1S7OynABEqSAglPfJZwLHSfeXegC3OfW65SLGWndUDHM/edit?usp=drivesdk",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1783457100.571999",
+      "collectedAt": "2026-07-07T22:15:02.026Z",
+      "messageText": "Where should I bring the missus for dinner on Thursday.  Interested in trying a new place, ideally.  Have done the Date Night Dinner places.  <https://docs.google.com/spreadsheets/d/1S7OynABEqSAglPfJZwLHSfeXegC3OfW65SLGWndUDHM/edit?usp=drivesdk|https://docs.google.com/spreadsheet",
+      "meta": {
+        "title": "Date Night Dinner",
+        "description": null,
+        "favicon": "https://ssl.gstatic.com/docs/spreadsheets/spreadsheets-2026-v2.ico",
+        "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyKFKbqVI9xj3d4kj71cm3Cw0ZX4c9CLSdMBShtEtgfaEVIswd-ieVlXkjxgK1MUsn1VcZc8ZC4pIjezCXUxfL6E9cyBwjd-Bnd1OnW3RxzowPVjRog=w1200-h630-p"
+      }
+    },
+    {
+      "url": "https://nypost.com/2026/07/07/us-news/accused-rapist-graham-platner-lists-demands-to-dems-as-he-weighs-dropping-out-of-maine-senate-race/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1783462026.844429",
+      "collectedAt": "2026-07-07T22:15:02.263Z",
+      "messageText": "LOL \"holding Dem party hostage\"... Maine has RCV for federal senate and house election.\n<https://nypost.com/2026/07/07/us-news/accused-rapist-graham-platner-lists-demands-to-dems-as-he-weighs-dropping-out-of-maine-senate-race/|nypost.com/2026/…/accused-rapist-graham-platner-lists",
+      "meta": {
+        "title": "Graham Platner holding Dem party hostage — refusing to drop out unless he gets to name successor: sources",
+        "description": "Maine Democratic candidate Graham Platner is furiously debating with his campaign team and advisers whether to abandon the US Senate race challenging incumbent Republican Susan Collins.",
+        "favicon": "https://nypost.com/wp-content/themes/nypost/static/images/favicons/favicon.ico",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/COMP-AP_Election_2_26_Maine_Senate_932_2-fbdaf-0-1.jpg?quality=75&#038;strip=all&#038;w=1200"
+      }
     }
   ]
 }
