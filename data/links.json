@@ -4898,6 +4898,22 @@
         "description": "set79: Extract complete tracklists from SoundCloud DJ sets with accurate timestamps and track details.",
         "favicon": "https://set79.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.craigslist.org/view/d/minnetonka-bumbleride-indie-twin/66zpn7cc7M2VjvQL7f6sfM",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C15SGV5RA",
+      "channelName": "parents",
+      "timestamp": "1783431183.384149",
+      "collectedAt": "2026-07-07T14:55:53.223Z",
+      "messageText": "Anyone need a double stroller (or know anyone who does)?\nLooking to give the one we got for $1200 away.\n<https://www.craigslist.org/view/d/minnetonka-bumbleride-indie-twin/66zpn7cc7M2VjvQL7f6sfM|craigslist.org/view/d/minnetonka-bumbleride-indie-twin/…>",
+      "meta": {
+        "title": "Bumbleride Indie Twin Stroller - baby &amp; kid stuff - by owner - household sale - craigslist",
+        "description": "For sale, a blue Bumbleride Indie Twin Stroller that we&#39;ve aged out of. This thing is a tank. Originally purchased for $1200, it&#39;s been through three kids &amp;amp; doesn&#39;t have a dent to show for it....",
+        "favicon": "https://www.craigslist.org/favicon.ico",
+        "image": "https://images.craigslist.org/00606_LWyUITpDaC_0t20CI_600x450.jpg"
+      }
     }
   ]
 }
