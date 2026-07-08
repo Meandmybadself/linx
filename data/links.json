@@ -5005,6 +5005,22 @@
         "favicon": "https://www.eurogamer.net/static/1cc691f4b162b36893292901a08b1edc/icon/favicon-48x48.png",
         "image": "https://assetsio.gnwcdn.com/blood-of-dawnwalker-(2).webp?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp"
       }
+    },
+    {
+      "url": "https://www.vulture.com/article/oral-history-of-steven-spielberg-and-his-movies.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1783512577.700079",
+      "collectedAt": "2026-07-08T12:24:21.950Z",
+      "messageText": "<https://www.vulture.com/article/oral-history-of-steven-spielberg-and-his-movies.html|https://www.vulture.com/article/oral-history-of-steven-spielberg-and-his-movies.html> ",
+      "meta": {
+        "title": "The Raider of a Lost Art",
+        "description": "Over 30 actors, filmmakers, and close friends recount how Steven Spielberg infiltrated Hollywood and helped the Movie Brats take over.",
+        "favicon": "https://assets.vulture.com/media/sites/vulture/icon.196x196.png",
+        "image": "https://pyxis.nymag.com/v1/imgs/629/43e/f2a8e0ae78cebbcde099f152ab0f938cca-spielberg-oral-history.1x.rsocial.w1200.gif"
+      }
     }
   ]
 }
