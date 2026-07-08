@@ -5083,6 +5083,22 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/ee4e0f7ec068328d39c209cddad2518955e455d3dc85f195d981560852b15ab4/Meandmybadself/displays"
       }
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/08/americas/argentina-pilot-death-scli-intl",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1783547570.344159",
+      "collectedAt": "2026-07-08T23:13:50.391Z",
+      "messageText": "Jebus.  <https://www.cnn.com/2026/07/08/americas/argentina-pilot-death-scli-intl|cnn.com/2026/…/argentina-pilot-death-scli-intl>",
+      "meta": {
+        "title": "Flight school pilot jumps to his death midair, leaving student to land plane | CNN",
+        "description": "A pilot jumped out of the door of a moving plane to his death, leaving the student he was teaching to fly to land the aircraft by herself.",
+        "favicon": "https://www.cnn.com/media/sites/cnn/favicon.ico",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-07-08-at-11-21-08-am.jpg?c=16x9&q=w_800,c_fill"
+      }
     }
   ]
 }
