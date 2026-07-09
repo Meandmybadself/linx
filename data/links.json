@@ -5109,7 +5109,12 @@
       "timestamp": "1783567651.060239",
       "collectedAt": "2026-07-09T03:51:26.396Z",
       "messageText": "<https://openai.com/index/introducing-gpt-live/|openai.com/index/introducing-gpt-live>",
-      "meta": null
+      "meta": {
+        "title": "Introducing GPT-Live",
+        "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+        "favicon": "https://openai.com/favicon.svg",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&amp;h=900&amp;fit=fill"
+      }
     }
   ]
 }
