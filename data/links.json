@@ -5173,6 +5173,33 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/513a5249/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://bringmethenews.com/minnesota-news/entire-boundary-waters-to-close-tuesday-due-to-extreme-heat-wildfires",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1783957198.782359",
+      "collectedAt": "2026-07-13T17:17:52.900Z",
+      "messageText": "dang. the _entire_ bwca ~closed~ is closing?  <https://bringmethenews.com/minnesota-news/entire-boundary-waters-to-close-tuesday-due-to-extreme-heat-wildfires|bringmethenews.com/minnesota-news/entire-boundary-waters-to-close-tuesday-due-to-extreme-heat-wildfires>?",
+      "meta": null
+    },
+    {
+      "url": "https://github.com/evild70/ai-swarm",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1783962248.092329",
+      "collectedAt": "2026-07-13T17:17:54.136Z",
+      "messageText": "This is the swarm we're using on a project right now. I didn't create it. <https://github.com/evild70/ai-swarm|github.com/evild70/ai-swarm>",
+      "meta": {
+        "title": "GitHub - evild70/ai-swarm",
+        "description": "Contribute to evild70/ai-swarm development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/ecf7c818e746d89d7ab71b8924e6432340aa71691c538793d7bdb31200139cc6/evild70/ai-swarm"
+      }
     }
   ]
 }
