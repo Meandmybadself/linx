@@ -5216,6 +5216,22 @@
         "favicon": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/icons/icon-32x32.png",
         "image": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-hollywood.jpg?w=1024"
       }
+    },
+    {
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/marvel-actress-wai-ching-ho-dead-82-rcna587257",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1783977870.242869",
+      "collectedAt": "2026-07-13T22:59:54.343Z",
+      "messageText": "RIP <https://www.nbcnews.com/pop-culture/pop-culture-news/marvel-actress-wai-ching-ho-dead-82-rcna587257|Madame Gao>",
+      "meta": {
+        "title": "Marvel actor Wai Ching Ho dies at 82",
+        "description": "She was best known for her role as Madame Gao in the Marvel Cinematic Universe, first in “Daredevil” in 2015 and then in “Iron Fist” and “The Defenders,” both of which were released in 2017.",
+        "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260813-Wai-Ching-Ho-rs-b020b1.jpg"
+      }
     }
   ]
 }
