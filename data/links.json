@@ -5247,6 +5247,32 @@
         "description": "Amazon Prime Video orders an eight-episode series based on Matt Fraction and Chip Zdarsky&#039;s comic Sex Criminals after years of failed attempts.",
         "favicon": "https://popgeeks.com/wp-content/uploads/2021/08/cropped-pop-geeks-hi-res2-1-50x50.jpg"
       }
+    },
+    {
+      "url": "https://investors.eose.com/news-releases/news-release-details/eos-energy-announces-commencement-rights-offering",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1784061349.276849",
+      "collectedAt": "2026-07-14T22:03:10.830Z",
+      "messageText": "anyone that has invested in EOSE have you seen: <https://investors.eose.com/news-releases/news-release-details/eos-energy-announces-commencement-rights-offering>",
+      "meta": null
+    },
+    {
+      "url": "https://www.mnstatefair.org/new/food/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C61KTJQ8L",
+      "channelName": "food",
+      "timestamp": "1784062135.638549",
+      "collectedAt": "2026-07-14T22:03:11.239Z",
+      "messageText": "<https://www.mnstatefair.org/new/food/|mnstatefair.org/new/food>",
+      "meta": {
+        "title": "New Foods for 2026",
+        "description": null,
+        "favicon": "https://www.mnstatefair.org/favicon.ico"
+      }
     }
   ]
 }
