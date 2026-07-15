@@ -5289,6 +5289,22 @@
         "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
         "image": "https://i.scdn.co/image/ab67616d0000b2735ebc791f87ce109b8bc4b9fd"
       }
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/daylight-saving-time-permanent-bill-trump-b3015124.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1784133333.750189",
+      "collectedAt": "2026-07-15T17:22:34.948Z",
+      "messageText": "huh. I didn't realize that we had already tried year-round DST in the past.\n```In 1973, Congress authorised a two-year trial of year-round daylight saving in an attempt to save energy during the global oil crisis.\nYet initial public support for the trial of close to 80% almost ha",
+      "meta": {
+        "title": "The US tried year-round daylight saving time in 1973. Here’s what happened",
+        "description": "The Sunshine Protection Act, which the House approved by a bipartisan vote of 308–117 Tuesday, would implement year-round daylight saving time nationwide",
+        "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+        "image": "https://static.independent.co.uk/2026/06/03/3/31/Photo-shows-a-clock-in-the-background-of-a-smartphone-showing-the-time-after-daylight-saving-time-wa.jpeg?width=1200&height=800&crop=1200:800"
+      }
     }
   ]
 }
