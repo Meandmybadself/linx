@@ -5343,6 +5343,17 @@
         "favicon": "https://www.huffpost.com/static-assets/cambria/app/favicon-new.ico",
         "image": "https://img.huffingtonpost.com/asset/6a57cbef1a0000b523a7a129.jpeg?cache=HZ6YOC7tEj&amp;ops=500_281%2Cscalefit_1200_630"
       }
+    },
+    {
+      "url": "https://www.iqair.com/air-quality-map?zoomLevel=1",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1784231003.306999",
+      "collectedAt": "2026-07-16T20:04:59.740Z",
+      "messageText": "Really like this map with the wind animations <https://www.iqair.com/air-quality-map?zoomLevel=1|iqair.com/air-quality-map?zoomLevel=1>",
+      "meta": null
     }
   ]
 }
