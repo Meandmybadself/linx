@@ -5369,6 +5369,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/e2e75771/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://youtu.be/7DOI0djACGo?si=ut9TC63aMooPAHoe",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1784512894.435699",
+      "collectedAt": "2026-07-20T04:38:59.347Z",
+      "messageText": "<https://youtu.be/7DOI0djACGo?si=ut9TC63aMooPAHoe|youtu.be/…?si=…>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/e2e75771/img/favicon_32x32.png"
+      }
     }
   ]
 }
