@@ -5461,7 +5461,12 @@
       "timestamp": "1784606266.862239",
       "collectedAt": "2026-07-21T04:18:01.141Z",
       "messageText": "ugh. <https://thehill.com/homenews/administration/5977975-trump-threatens-canada-tariffs/|here >we <https://www.bbc.com/news/articles/cg4dzq3x3e1o|go >again...",
-      "meta": null
+      "meta": {
+        "title": "Trump says Canada &#8216;poisoned&#8217; US air with wildfires, floats new tariffs",
+        "description": "President Trump on Sunday said Canada &#8220;poisoned&#8221; U.S. air as smoke from wildfires in the Great White North swept across American states.&nbsp; Trump said he spoke with Canadian Prime Mi…",
+        "favicon": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=32",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26201027012979-e1784551097358.jpg?w=1280"
+      }
     },
     {
       "url": "https://www.bbc.com/news/articles/cg4dzq3x3e1o",
