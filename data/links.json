@@ -5315,7 +5315,12 @@
       "timestamp": "1784138242.803109",
       "collectedAt": "2026-07-15T19:20:08.019Z",
       "messageText": "I would like to take this opportunity to recommend the book “Saving Time” by Jenny Odell which is largely about the effects of industrialization on time, the commodification of time, and the treatment of human beings as fungible cogs in the capitalist machine. <https://bookshop.o",
-      "meta": null
+      "meta": {
+        "title": "Saving Time: Discovering a Life Beyond Productivity Culture",
+        "description": "NEW YORK TIMES BESTSELLER • “The visionary author of How to Do Nothing returns to challenge the notion that ‘time is money.’ . . . Expect to feel changed by this radical way of seeing.”—Esquire “One of the most important books I’ve read in my life.”—Ed Yong, author of An Immense WorldA BEST BOOK OF ",
+        "favicon": "https://bookshop.org/astro-assets/favicon.BYFkH4pK.ico",
+        "image": "https://images-us.bookshop.org/ingram/9780593242728.jpg?v=86fd52eb3cfde8113318057f561c2638"
+      }
     },
     {
       "url": "https://www.k-bid.com/auction/65445/item/149?offset=149&amp;fbclid=IwVERDUATE_K9leHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR4b8_ujafMjfW5mcwrUgkCr0dIjbdWHviupCVRRYPVigTg7xNfUyh6tSoUN-g_aem_NRCoEIxmPkNdCqcokbp0yQ",
