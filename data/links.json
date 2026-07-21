@@ -5451,6 +5451,44 @@
         "description": "Welcome to the official site of ASD Simplified Technical English (ASD-STE100). Learn about the STEMG, official trainers, training opportunities, and resources to apply STE in technical documentation.",
         "favicon": "https://www.asd-ste100.org/assets/images/stemg2023-573x571.jpg-192x191.jpg"
       }
+    },
+    {
+      "url": "https://thehill.com/homenews/administration/5977975-trump-threatens-canada-tariffs/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1784606266.862239",
+      "collectedAt": "2026-07-21T04:18:01.141Z",
+      "messageText": "ugh. <https://thehill.com/homenews/administration/5977975-trump-threatens-canada-tariffs/|here >we <https://www.bbc.com/news/articles/cg4dzq3x3e1o|go >again...",
+      "meta": null
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cg4dzq3x3e1o",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1784606266.862239",
+      "collectedAt": "2026-07-21T04:18:01.141Z",
+      "messageText": "ugh. <https://thehill.com/homenews/administration/5977975-trump-threatens-canada-tariffs/|here >we <https://www.bbc.com/news/articles/cg4dzq3x3e1o|go >again...",
+      "meta": {
+        "title": "Trump slaps 50% tariffs on Canada and Carney vows to &#x27;intensify&#x27; trade talks",
+        "description": "The duties mark a major escalation in trade tensions between the North American neighbours. ",
+        "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260714-093448-684066af18-web-3.14.0-3/favicon-32x32.png",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg"
+      }
+    },
+    {
+      "url": "https://lucy.decart.ai/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1784598442.450959",
+      "collectedAt": "2026-07-21T04:18:02.084Z",
+      "messageText": "<https://lucy.decart.ai/|lucy.decart.ai>",
+      "meta": null
     }
   ]
 }
