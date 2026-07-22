@@ -5510,6 +5510,17 @@
         "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260714-093448-684066af18-web-3.14.0-3/favicon-32x32.png",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93cd/live/b064bc90-85b6-11f1-926f-c90d1bcfbc84.jpg"
       }
+    },
+    {
+      "url": "https://ads.openai.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1784726855.852749",
+      "collectedAt": "2026-07-22T14:08:43.728Z",
+      "messageText": "<https://ads.openai.com/|ads.openai.com>",
+      "meta": null
     }
   ]
 }
