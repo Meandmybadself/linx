@@ -5521,6 +5521,38 @@
       "collectedAt": "2026-07-22T14:08:43.728Z",
       "messageText": "<https://ads.openai.com/|ads.openai.com>",
       "meta": null
+    },
+    {
+      "url": "https://thepit.social/@peter/116962244994361810",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1784747329.125819",
+      "collectedAt": "2026-07-22T20:14:46.510Z",
+      "messageText": "<https://thepit.social/@peter/116962244994361810|thepit.social/@peter/116962244994361810>",
+      "meta": {
+        "title": "Peter (@peter@thepit.social)",
+        "description": "Attached: 1 video\n\ntech is pivoting to humanoid robots!!\n\nthe humanoid robots:",
+        "favicon": "https://thepit.social/packs/assets/favicon-16x16-74JBPGmr.png",
+        "image": "https://cdn.masto.host/thepitsocial/media_attachments/files/116/962/244/687/459/502/small/ca978b39c07f5815.png"
+      }
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c1m107yj327o",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1784749776.393749",
+      "collectedAt": "2026-07-22T20:14:48.761Z",
+      "messageText": "<https://www.bbc.com/news/articles/c1m107yj327o|bbc.com/news/articles/c1m107yj327o>",
+      "meta": {
+        "title": "JD Vance accuses Israel of &#x27;manipulating&#x27; US public opinion to prolong Iran war",
+        "description": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict. ",
+        "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260714-093448-684066af18-web-3.14.0-3/favicon-32x32.png",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg"
+      }
     }
   ]
 }
