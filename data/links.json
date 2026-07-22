@@ -5494,6 +5494,22 @@
       "collectedAt": "2026-07-21T04:18:02.084Z",
       "messageText": "<https://lucy.decart.ai/|lucy.decart.ai>",
       "meta": null
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1784719924.447639",
+      "collectedAt": "2026-07-22T11:51:44.027Z",
+      "messageText": "<https://www.bbc.com/news/articles/c3ek3gvdnj3o|https://www.bbc.com/news/articles/c3ek3gvdnj3o> ",
+      "meta": {
+        "title": "OpenAI says its AI went rogue and launched &#x27;unprecedented&#x27; cyber-attack",
+        "description": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. ",
+        "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260714-093448-684066af18-web-3.14.0-3/favicon-32x32.png",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93cd/live/b064bc90-85b6-11f1-926f-c90d1bcfbc84.jpg"
+      }
     }
   ]
 }
