@@ -5588,6 +5588,37 @@
         "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model’s guardrail features turned off. Rather than solve the test, the …",
         "favicon": "https://simonwillison.net/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.raycast.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0750GGRY",
+      "channelName": "ideas",
+      "timestamp": "1784830642.745569",
+      "collectedAt": "2026-07-23T23:01:46.333Z",
+      "messageText": "I do that w/ Raycast.  (I do a LOT of shit w/ Raycast)\n<https://www.raycast.com/>",
+      "meta": {
+        "title": "Raycast - Your shortcut to everything",
+        "description": "A collection of powerful productivity tools all within an extendable launcher.",
+        "favicon": "https://www.raycast.com/favicon-production.png",
+        "image": "https://www.raycast.com/opengraph-image-pwu6ef.png?7385e23163a01717"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tpvFiLlqaDY",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1784833273.971829",
+      "collectedAt": "2026-07-23T23:01:46.724Z",
+      "messageText": "Looks awesome.  The kid from _Wolfs &_ Zach Cregger.\n<https://www.youtube.com/watch?v=tpvFiLlqaDY|youtube.com/watch?v=tpvFiLlqaDY>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/bc714d1c/img/favicon_32x32.png"
+      }
     }
   ]
 }
