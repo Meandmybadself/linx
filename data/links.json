@@ -5520,7 +5520,11 @@
       "timestamp": "1784726855.852749",
       "collectedAt": "2026-07-22T14:08:43.728Z",
       "messageText": "<https://ads.openai.com/|ads.openai.com>",
-      "meta": null
+      "meta": {
+        "title": "Advertise in ChatGPT | OpenAI Ads",
+        "description": "Reach people as they explore options, compare choices, and make decisions in ChatGPT, with relevant ads that fit naturally into the experience.",
+        "favicon": "https://ads.openai.com/favicon.png"
+      }
     },
     {
       "url": "https://thepit.social/@peter/116962244994361810",
@@ -5552,6 +5556,22 @@
         "description": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict. ",
         "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260714-093448-684066af18-web-3.14.0-3/favicon-32x32.png",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg"
+      }
+    },
+    {
+      "url": "https://worklouder.cc/creator-micro-2#buy-now",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1784765069.385639",
+      "collectedAt": "2026-07-23T04:19:07.175Z",
+      "messageText": "\n<https://worklouder.cc/creator-micro-2#buy-now>",
+      "meta": {
+        "title": "WORK LOUDER© - Creator Micro 2",
+        "description": "Work Louder make products for people, inspired by a version of themselves sometimes forgotten - playful, versatile, and above all else, creative.",
+        "favicon": "https://framerusercontent.com/images/DTue2z8GLN5Q3TezZi0izUdasw.png",
+        "image": "https://framerusercontent.com/assets/vQZtRHfz0lezUQsHQSr0r4CMsA.png"
       }
     }
   ]
