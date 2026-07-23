@@ -5573,6 +5573,21 @@
         "favicon": "https://framerusercontent.com/images/DTue2z8GLN5Q3TezZi0izUdasw.png",
         "image": "https://framerusercontent.com/assets/vQZtRHfz0lezUQsHQSr0r4CMsA.png"
       }
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1784819776.294839",
+      "collectedAt": "2026-07-23T17:35:48.665Z",
+      "messageText": "<https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything|simonwillison.net/2026/Jul/22/openai-cyberattack#…>",
+      "meta": {
+        "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+        "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model’s guardrail features turned off. Rather than solve the test, the …",
+        "favicon": "https://simonwillison.net/favicon.ico"
+      }
     }
   ]
 }
