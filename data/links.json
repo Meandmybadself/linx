@@ -4972,7 +4972,12 @@
       "timestamp": "1783480609.629079",
       "collectedAt": "2026-07-08T04:18:29.670Z",
       "messageText": "<https://www.bloomberg.com/news/features/2026-07-02/why-hotels-theme-parks-and-summer-camps-are-harder-to-access?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk5ODYzMCwiZXhwIjoxNzgzNjAzNDMwLCJhcnRpY2xlSWQiOiJUSEpMNE",
-      "meta": null
+      "meta": {
+        "title": "The Fun Shortage Is Real, and It’s Making America Miserable",
+        "description": "With fewer places to relax and socialize, and steeper prices for entry, having fun is quantifiably harder than it used to be.",
+        "favicon": "https://www.bloomberg.com/favicon-black.png",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5tIpdyP90pg/v0/1200x630.jpg"
+      }
     },
     {
       "url": "https://soundcloud.com/zedsdead/sets/return-to-the-return-of-the?si=6921375b56384fc9bc4957717d98545b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
