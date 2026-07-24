@@ -5619,6 +5619,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/bc714d1c/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://kojima-san.vercel.app/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1784864156.966149",
+      "collectedAt": "2026-07-24T06:30:53.344Z",
+      "messageText": "<https://kojima-san.vercel.app/|kojima-san.vercel.app>",
+      "meta": {
+        "title": "KOJIMA — Micro-graphic Generator",
+        "description": null,
+        "favicon": "https://kojima-san.vercel.app/favicon.ico"
+      }
     }
   ]
 }
