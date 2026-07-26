@@ -5643,6 +5643,21 @@
         "description": null,
         "favicon": "https://kojima-san.vercel.app/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vYZnwdCawlA",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1785082611.646929",
+      "collectedAt": "2026-07-26T18:04:14.512Z",
+      "messageText": "<https://www.youtube.com/watch?v=vYZnwdCawlA|This is wonderful, especially the discussion of the Spider scene in Goodfellas.>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/cf14c559/img/favicon_32x32.png"
+      }
     }
   ]
 }
