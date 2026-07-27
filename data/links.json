@@ -5720,6 +5720,38 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://www.bbtheatres.com/showtimes/1000013045-the-odyssey/?date=2026-07-29",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1785179975.457909",
+      "collectedAt": "2026-07-27T19:42:57.277Z",
+      "messageText": "Butts.  <https://www.bbtheatres.com/showtimes/1000013045-the-odyssey/?date=2026-07-29|It's leaving ScreenX @ MOA on Wednesday>.",
+      "meta": {
+        "title": "The Odyssey Showtimes &amp; Tickets — B&amp;B Theatres",
+        "description": "Browse showtimes and purchase your tickets online for The Odyssey at B&amp;B Theatres",
+        "favicon": "https://cms-assets.webediamovies.pro/cdn-cgi/image/width=192,height=192,fit=contain,quality=100/production/2/45eeaece363096cb7aef7e7a9cef1e1c.png",
+        "image": "https://all.web.img.acsta.net/img/6d/6c/6d6c1ed687854cdb6b65e55770f77640.jpg"
+      }
+    },
+    {
+      "url": "https://colima.run/docs/ai/",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1785180919.314829",
+      "collectedAt": "2026-07-27T19:42:59.917Z",
+      "messageText": "I have been using colima as my docker vm for a while now, they now have put together a AI model runner: <https://colima.run/docs/ai/|colima.run/docs/ai>.",
+      "meta": {
+        "title": "AI Workloads | Colima - Container runtimes on macOS and Linux",
+        "description": "Run GPU-accelerated AI models securely with Colima",
+        "favicon": "https://colima.run/favicon.svg",
+        "image": "https://colima.run/images/colima-logo-horizontal.svg"
+      }
     }
   ]
 }
