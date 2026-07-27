@@ -5690,6 +5690,36 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/51891e26d5e520e0d63e514c23e6caf129fd44e65ef5edd20ad1a1d1a3aeef6d/AARomanov1985/Audio-Cassette-Simulation"
       }
+    },
+    {
+      "url": "https://youtu.be/uJblcC4lKYw?si=8rWHbkRJdoK7o5Qt",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1785173638.219409",
+      "collectedAt": "2026-07-27T17:46:59.181Z",
+      "messageText": "unrelated to CRTs, i've been trying this today and am enjoying the results so far: <https://youtu.be/uJblcC4lKYw?si=8rWHbkRJdoK7o5Qt|youtu.be/uJblcC4lKYw?si=…>\n\nTL;DR—telling an LLM to adhere to <https://en.wikipedia.org/wiki/Simplified_Technical_English|ATS-STE100 Simplified Tec",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/cf14c559/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Simplified_Technical_English",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1785173638.219409",
+      "collectedAt": "2026-07-27T17:46:59.181Z",
+      "messageText": "unrelated to CRTs, i've been trying this today and am enjoying the results so far: <https://youtu.be/uJblcC4lKYw?si=8rWHbkRJdoK7o5Qt|youtu.be/uJblcC4lKYw?si=…>\n\nTL;DR—telling an LLM to adhere to <https://en.wikipedia.org/wiki/Simplified_Technical_English|ATS-STE100 Simplified Tec",
+      "meta": {
+        "title": "Simplified Technical English - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
+      }
     }
   ]
 }
