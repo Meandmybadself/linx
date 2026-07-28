@@ -5798,6 +5798,38 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/fc4325e2/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.mprnews.org/story/2026/07/28/elon-musks-company-x-ai-sues-minnesota-over-new-law-to-bar-manipulated-images-to-fake-nudity",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1785265321.079309",
+      "collectedAt": "2026-07-28T20:19:45.796Z",
+      "messageText": "<https://www.mprnews.org/story/2026/07/28/elon-musks-company-x-ai-sues-minnesota-over-new-law-to-bar-manipulated-images-to-fake-nudity|mprnews.org/story/…/elon-musks-company-x-ai-sues-minnesota-over-new-law-to-bar-manipulated-images-to-fake-nudity>",
+      "meta": {
+        "title": "Elon Musk’s company sues Minnesota over new law to bar manipulated images to fake nudity",
+        "description": "Minnesota’s anti-nudification law is supposed to take effect on Saturday. It is being challenged in federal court by a company led by Elon Musk.",
+        "favicon": "https://www.mprnews.org/favicon.png",
+        "image": "https://img.apmcdn.org/8fd99ad40d0fc2d5647f84b43355370507cc1c42/widescreen/01cf91-20260121-a-person-holds-a-smartphone-with-the-grok-logo-in-front-of-international-flags-2000.jpg"
+      }
+    },
+    {
+      "url": "https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html#google_vignette",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1785268140.318049",
+      "collectedAt": "2026-07-28T20:19:46.649Z",
+      "messageText": "Does he not understand that \"busy\" and \"working for someone else\" are two _completely_ different things? also, I don't particularly like being busy all the time. Has Altman actually held a normal job?\n<https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-becau",
+      "meta": {
+        "title": "Sam Altman says AI won&#039;t shorten the workweek because humans secretly enjoy being busy",
+        "description": "One of the many benefits promised early in the generative AI boom was that it would boost productivity to the point where most of us could work...",
+        "favicon": "https://www.techspot.com/images/ts3mobile-badge-196.png",
+        "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-28-image-14.jpg"
+      }
     }
   ]
 }
