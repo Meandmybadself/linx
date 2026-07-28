@@ -5783,6 +5783,21 @@
         "favicon": "https://a.wholelottanothing.org/assets/favicon.svg?v=n5WDi6TSY0IpgxMt",
         "image": "https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/size/w1200/2026/07/IMG_6993.JPG"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4_7nwSwt3Kk",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1785260236.593549",
+      "collectedAt": "2026-07-28T18:18:48.842Z",
+      "messageText": "<https://www.youtube.com/watch?v=4_7nwSwt3Kk|youtube.com/watch?v=…>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/fc4325e2/img/favicon_32x32.png"
+      }
     }
   ]
 }
