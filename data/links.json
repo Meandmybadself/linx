@@ -5752,6 +5752,21 @@
         "favicon": "https://colima.run/favicon.svg",
         "image": "https://colima.run/images/colima-logo-horizontal.svg"
       }
+    },
+    {
+      "url": "https://openai.github.io/openai-agents-js/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1785211740.898659",
+      "collectedAt": "2026-07-28T05:53:56.504Z",
+      "messageText": "AI \"Swarms\" do that. The first model could just triage requests; never directly answer a request itself. See: <https://openai.github.io/openai-agents-js/|OpenAI Agents SDK>",
+      "meta": {
+        "title": "OpenAI Agents SDK TypeScript",
+        "description": "The OpenAI Agents SDK for TypeScript enables you to build agentic AI apps in a lightweight, easy-to-use package with very few abstractions.",
+        "favicon": "https://openai.github.io/openai-agents-js/favicon.svg"
+      }
     }
   ]
 }
