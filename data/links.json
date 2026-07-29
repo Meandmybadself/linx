@@ -5857,6 +5857,33 @@
       "collectedAt": "2026-07-29T13:04:17.790Z",
       "messageText": "<https://www.reddit.com/r/whatisit/comments/1v98qbb/comment/p0d6riq/|This is a fun read>",
       "meta": null
+    },
+    {
+      "url": "https://www.worseonpurpose.com/p/same-shoe-different-factory",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1785339489.974329",
+      "collectedAt": "2026-07-29T15:52:20.242Z",
+      "messageText": "New <https://www.worseonpurpose.com/p/same-shoe-different-factory|Worse on Purpose about running shoes>. TL;DR: New Balance and Mizuno (Japan) are the only two brands that own their factories. New Balance has American factories; with 30% of components made elsewhere.",
+      "meta": {
+        "title": "Same Shoe, Different Factory: Who Makes Your Running Shoes",
+        "description": "Only two major running brands still own their factories. The rest rent from the same pool of contractors, often with no commitment past the current order.",
+        "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_favicon-48x48.png",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/679d9d26-2e95-4ce8-824f-0ed78b05a10a/Running_Shoes_card_1200_630.png?t=1785275735"
+      }
+    },
+    {
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1785337741.104639",
+      "collectedAt": "2026-07-29T15:52:20.242Z",
+      "messageText": "They were planning on putting this in a high school?! It'd be destroyed in less than a week if kids there are anything like my high school was. it's a bad idea to spend that much money for something that will be either obsolete/outdated (software-wise - assuming proprietary softw",
+      "meta": null
     }
   ]
 }
