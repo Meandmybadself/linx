@@ -5884,6 +5884,22 @@
       "collectedAt": "2026-07-29T15:52:20.242Z",
       "messageText": "They were planning on putting this in a high school?! It'd be destroyed in less than a week if kids there are anything like my high school was. it's a bad idea to spend that much money for something that will be either obsolete/outdated (software-wise - assuming proprietary softw",
       "meta": null
+    },
+    {
+      "url": "https://gitlab.steamos.cloud/SteamHardware/SteamMachine/cad-release",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1785343542.028469",
+      "collectedAt": "2026-07-29T17:20:11.545Z",
+      "messageText": "<https://gitlab.steamos.cloud/SteamHardware/SteamMachine/cad-release|gitlab.steamos.cloud/SteamHardware/SteamMachine/cad-release>",
+      "meta": {
+        "title": "Steam Hardware / Steam Machine / CAD release · GitLab",
+        "description": "SteamOS and Steam Runtime Gitlab",
+        "favicon": "https://gitlab.steamos.cloud/uploads/-/system/appearance/favicon/1/stemaos-gitlab-favicon.png",
+        "image": "https://gitlab.steamos.cloud/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+      }
     }
   ]
 }
