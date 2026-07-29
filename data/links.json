@@ -5900,6 +5900,21 @@
         "favicon": "https://gitlab.steamos.cloud/uploads/-/system/appearance/favicon/1/stemaos-gitlab-favicon.png",
         "image": "https://gitlab.steamos.cloud/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1785351273.897109",
+      "collectedAt": "2026-07-29T19:24:58.584Z",
+      "messageText": "with tech it makes more sense though, it's not like you can just spin up a mom-and-pop RAM operation... <https://www.youtube.com/watch?v=h6GWikWlAQA|oh wait>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/b747a806/img/favicon_32x32.png"
+      }
     }
   ]
 }
