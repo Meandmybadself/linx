@@ -5988,7 +5988,12 @@
       "timestamp": "1785468027.657739",
       "collectedAt": "2026-07-31T04:26:37.850Z",
       "messageText": "This is fun.  Mo Welch interviews people while drawing them & they draw her.\n<https://www.pbs.org/show/the-drawing-room-with-mo-welch|pbs.org/show/the-drawing-room-with-mo-welch>\n\n<https://www.youtube.com/watch?v=NNZssO5diPg|Sarah Silverman>",
-      "meta": null
+      "meta": {
+        "title": "The Drawing Room with Mo Welch",
+        "description": "Comedian Mo Welch interviews notable guests while they sketch each other&#x27;s portraits.",
+        "favicon": "https://www.pbs.org/favicons/favicon.ico",
+        "image": "https://image.pbs.org/contentchannels/dzoWrQx-background-z43cJow.png?focalcrop=1200x630x50x10&amp;format=auto"
+      }
     },
     {
       "url": "https://www.youtube.com/watch?v=NNZssO5diPg",
