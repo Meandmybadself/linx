@@ -4822,7 +4822,12 @@
       "timestamp": "1782834309.914859",
       "collectedAt": "2026-06-30T16:48:37.935Z",
       "messageText": "<https://www.kickstarter.com/projects/xhorse3d/xhorse3d-xmachine-wm-100-desktop-simultaneous-5-axis-cnc>",
-      "meta": null
+      "meta": {
+        "title": "Coming soon: Xhorse3D Xmachine WM-100 Desktop Simultaneous 5-Axis CNC",
+        "description": "Simultaneous 5-axis|1500W, 20,000RPM Spindle|±0.01mm High-Precise|Auto Tool Charger| AI CAM|Laser 3D Scanning Module for Positioning",
+        "favicon": "https://www.kickstarter.com/favicon.ico",
+        "image": "https://i.kickstarter.com/assets/052/985/165/1f3cf7ff6341092dd2d4ebac6a6da17d_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1773731967&width=1552&sig=dHB6PGJM%2FvSIIn2Id5gZimTjxZ5O0XHBmND2JHyfVmE%3D"
+      }
     },
     {
       "url": "https://minnecrapolis.slack.com/archives/C011ENT379C/p1782834309914859",
