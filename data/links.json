@@ -6116,6 +6116,38 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/fe02b901/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://community.smartthings.com/t/a-new-enhanced-smartthings-api-experience/309947",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C2TE7RHQE",
+      "channelName": "smarthome",
+      "timestamp": "1785950066.619789",
+      "collectedAt": "2026-08-05T18:25:19.136Z",
+      "messageText": "Here is another kick to the balls: <https://community.smartthings.com/t/a-new-enhanced-smartthings-api-experience/309947|community.smartthings.com/t/a-new-enhanced-smartthings-api-experience/309947>\n&gt; To ensure the SmartThings API remains capable, reliable, and secure at this ",
+      "meta": {
+        "title": "A New Enhanced SmartThings API Experience",
+        "description": "A New Enhanced SmartThings API Experience Upcoming Changes to the SmartThings API    Please note, this was also shared on the SmartThings blog.  Over the last several years, the SmartThings platform has grown into one of the most robust orchestration layers in the smart home industry, with over 460M",
+        "favicon": "https://global.discourse-cdn.com/smartthings/optimized/3X/5/3/53b4b2c197e63da043419923e1433ac32f4e1d97_2_32x32.svg",
+        "image": "https://global.discourse-cdn.com/smartthings/optimized/3X/6/9/698233f89e473470f63c233fea5808de79b736b6_2_1024x614.png"
+      }
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C2TE7RHQE",
+      "channelName": "smarthome",
+      "timestamp": "1785948028.288369",
+      "collectedAt": "2026-08-05T18:25:19.136Z",
+      "messageText": "Well balls.\n<https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/|https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/>",
+      "meta": {
+        "title": "Google plans to kill Assistant on your phone on September 4",
+        "description": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+        "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
+      }
     }
   ]
 }
