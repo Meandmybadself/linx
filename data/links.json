@@ -6148,6 +6148,21 @@
         "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
       }
+    },
+    {
+      "url": "https://fundraise.somn.org/fundraiser/7434939",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1786028184.993009",
+      "collectedAt": "2026-08-06T15:23:05.585Z",
+      "messageText": "once again, I come to y'all with my hand out...because y'all have been so awesome in the past!\n\nI'm gonna pull a plane at MSP to raise $ for Special Olympics MN in about a month.\n\nif anyone wants to donate/support my efforts, I'd be very, very grateful. appreciate you!\n\n<https://",
+      "meta": {
+        "title": "2026 Plane Pull",
+        "description": "{{MetaTags.description}}",
+        "favicon": "https://assets.classy.org/icons/favicon.ico"
+      }
     }
   ]
 }
