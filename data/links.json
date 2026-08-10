@@ -6195,6 +6195,37 @@
         "favicon": "https://apnews.com/favicon-32x32.png",
         "image": "https://dims.apnews.com/dims4/default/29144bb/2147483647/strip/true/crop/8192x5459+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Ffc%2F830a6793ff5a8e3299e6be3ed356%2F4d021eb0047e4efd946a8c4eaea6840f"
       }
+    },
+    {
+      "url": "https://stormcrow.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1786324840.733909",
+      "collectedAt": "2026-08-10T02:12:10.671Z",
+      "messageText": "<https://stormcrow.com/|stormcrow.com>",
+      "meta": {
+        "title": "Storm Crow Manor",
+        "description": "Roll the bones. Drink with destiny. A geek-themed bar inside a Toronto mansion.",
+        "favicon": "https://stormcrow.com/favicon.ico",
+        "image": "https://stormcrow.com/assets/photos/og-default.jpg"
+      }
+    },
+    {
+      "url": "https://www.andrewt.net/dithered-qr-codes/index.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1786325764.845799",
+      "collectedAt": "2026-08-10T02:12:10.806Z",
+      "messageText": "<https://www.andrewt.net/dithered-qr-codes/index.html|andrewt.net/dithered-qr-codes/index.html>",
+      "meta": {
+        "title": "Dithered QR Code Generator",
+        "description": null,
+        "favicon": "https://www.andrewt.net/favicon.ico"
+      }
     }
   ]
 }
