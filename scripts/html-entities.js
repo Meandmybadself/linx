@@ -37,9 +37,25 @@ const NAMED = {
   ntilde: "ñ",
 };
 
+/**
+ * Some sources (X, GitHub, Craigslist) serve double- or triple-encoded text:
+ * "&amp;amp;" should display as "&". Decoding repeatedly resolves those, and is
+ * safe here because callers escape the result before it reaches the page.
+ * Capped so a string of literal "&amp;" text can't be chewed down forever.
+ */
 export function decodeEntities(str) {
   if (!str) return str;
 
+  let out = str;
+  for (let pass = 0; pass < 3; pass++) {
+    const next = decodeOnce(out);
+    if (next === out) break;
+    out = next;
+  }
+  return out;
+}
+
+function decodeOnce(str) {
   return str.replace(/&(#[0-9]+|#[xX][0-9a-fA-F]+|[a-zA-Z][a-zA-Z0-9]*);/g, (match, entity) => {
     if (entity[0] === "#") {
       const code = entity[1] === "x" || entity[1] === "X"
