@@ -6380,6 +6380,22 @@
         "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
         "image": "https://image.cnbcfm.com/api/v1/image/108336144-1786564303481-108336144-1784224854502-108336144-1784224784029-gettyimages-2285750293-AFP_C2E72FT.jpg?v=1786569695&amp;w=1920&amp;h=1080"
       }
+    },
+    {
+      "url": "https://biscuitshop.us/products/biscuit-ultra",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1786643230.891759",
+      "collectedAt": "2026-08-13T19:08:37.363Z",
+      "messageText": "Pre-ordered one of these: <https://biscuitshop.us/products/biscuit-ultra|biscuitshop.us/products/biscuit-ultra>",
+      "meta": {
+        "title": "Biscuit Ultra",
+        "description": "Dual-Band Security And Wardriving Platform - The Ultra is our most capable model yet.",
+        "favicon": "https://biscuitshop.us//biscuitshop.us/cdn/shop/files/TRANSPRNCY_1.png?crop=center&height=32&v=1768957067&width=32",
+        "image": "http://biscuitshop.us/cdn/shop/files/Biscuit_Ultra.png?v=1775480772"
+      }
     }
   ]
 }
