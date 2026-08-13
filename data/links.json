@@ -1061,7 +1061,12 @@
       "timestamp": "1775583372.232969",
       "collectedAt": "2026-04-07T18:27:38.187Z",
       "messageText": "<https://www.inc.com/leila-sheridan/plex-tech-company-retreat-nightmare/91327481>",
-      "meta": null
+      "meta": {
+        "title": "A Tech Company Spent $500,000 on a Tropical Retreat. Everything Went Horribly Wrong",
+        "description": "A trip meant for bonding turned chaotic as staff faced medical emergencies, unsafe conditions, and a resort that couldn’t keep water or electricity running.",
+        "favicon": "https://www.inc.com/_public/icons/favicon.ico",
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024/vip/2026/04/corporate-retreat-gone-wrong-inc_463779447.jpg"
+      }
     },
     {
       "url": "https://github.com/milla-jovovich/mempalace/issues/105",
