@@ -6,6 +6,7 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { decodeEntities } from "./html-entities.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "..", "data");
@@ -57,7 +58,9 @@ function groupByDate(links) {
 }
 
 function escapeHtml(str) {
-  return str
+  // Decode first: scraped metadata may already be entity-encoded, and escaping
+  // it again would render the raw entity ("can&#x27;t") on the page.
+  return decodeEntities(str)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")

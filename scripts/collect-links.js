@@ -7,6 +7,7 @@ import { WebClient } from "@slack/web-api";
 import { readFileSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { decodeEntities } from "./html-entities.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "..", "data");
@@ -170,7 +171,7 @@ async function fetchMeta(url) {
 
     const html = await res.text();
 
-    const title = html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.trim() || null;
+    const title = decodeEntities(html.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1]?.trim()) || null;
 
     const ogTitle = extractMetaContent(html, 'property="og:title"') ||
                     extractMetaContent(html, "property='og:title'");
@@ -214,18 +215,18 @@ async function fetchMeta(url) {
 function extractMetaContent(html, attrMatch) {
   const regex = new RegExp(`<meta[^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*content=["']([^"']*)["'][^>]*/?>`, "i");
   const match = html.match(regex);
-  if (match) return match[1];
+  if (match) return decodeEntities(match[1]);
   // Try reversed order (content before property)
   const regex2 = new RegExp(`<meta[^>]*content=["']([^"']*)["'][^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*/?>`, "i");
-  return html.match(regex2)?.[1] || null;
+  return decodeEntities(html.match(regex2)?.[1]) || null;
 }
 
 function extractLinkHref(html, attrMatch) {
   const regex = new RegExp(`<link[^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*href=["']([^"']*)["'][^>]*/?>`, "i");
   const match = html.match(regex);
-  if (match) return match[1];
+  if (match) return decodeEntities(match[1]);
   const regex2 = new RegExp(`<link[^>]*href=["']([^"']*)["'][^>]*${attrMatch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}[^>]*/?>`, "i");
-  return html.match(regex2)?.[1] || null;
+  return decodeEntities(html.match(regex2)?.[1]) || null;
 }
 
 function extractUrls(text) {
