@@ -6423,6 +6423,32 @@
         "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
         "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-13-at-10.40.56@2x.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U7cuH6IOXZM&amp;t=1s",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1786714732.628449",
+      "collectedAt": "2026-08-14T14:56:24.050Z",
+      "messageText": "<https://www.youtube.com/watch?v=U7cuH6IOXZM&amp;t=1s|youtube.com/watch?v=…&amp;t=1s>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/0084d708/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://bringmethenews.com/minnesota-news/minneapolis-mayor-proposes-11-3-property-tax-hike-to-close-budget-gap",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1786713645.602259",
+      "collectedAt": "2026-08-14T14:56:24.373Z",
+      "messageText": "Oof.\n<https://bringmethenews.com/minnesota-news/minneapolis-mayor-proposes-11-3-property-tax-hike-to-close-budget-gap|https://bringmethenews.com/minnesota-news/minneapolis-mayor-proposes-11-3-property-tax-hike-to-close-budget-gap>",
+      "meta": null
     }
   ]
 }
