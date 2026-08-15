@@ -6482,6 +6482,22 @@
       "collectedAt": "2026-08-15T15:26:05.274Z",
       "messageText": "This is wonderful: <https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/?share_id=ZsKlAM695WWuVqXdZyOH7|reddit.com/r/ClaudeAI/…/ai_might_be_making_you_dumb_but_it_made_me_smart?share_id=…>",
       "meta": null
+    },
+    {
+      "url": "https://github.com/mvanhorn/cli-printing-press",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1786810873.662709",
+      "collectedAt": "2026-08-15T16:30:57.829Z",
+      "messageText": "This is pretty cool: <https://github.com/mvanhorn/cli-printing-press|github.com/mvanhorn/cli-printing-press>",
+      "meta": {
+        "title": "GitHub - mvanhorn/cli-printing-press: Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+        "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compo...",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/e29392f2f286fa709f6eaac17cb7a02c8b63f441bfa6ce3b7368433e4d27afb9/mvanhorn/cli-printing-press"
+      }
     }
   ]
 }
