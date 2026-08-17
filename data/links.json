@@ -6498,6 +6498,21 @@
         "favicon": "https://github.githubassets.com/favicons/favicon",
         "image": "https://opengraph.githubassets.com/e29392f2f286fa709f6eaac17cb7a02c8b63f441bfa6ce3b7368433e4d27afb9/mvanhorn/cli-printing-press"
       }
+    },
+    {
+      "url": "https://www.githubstatus.com/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1786980332.571119",
+      "collectedAt": "2026-08-17T15:29:55.686Z",
+      "messageText": "the one time that I'll probably want to use copilot this week, <https://www.githubstatus.com/|it's down>.\nETA: apparently more of github is down as well? we're still on bitbucket so I hadn't noticed that.",
+      "meta": {
+        "title": "GitHub Status",
+        "description": "Welcome to GitHub's home for real-time and historical data on system performance.",
+        "favicon": "https://www.githubstatus.com//dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/36420/akacZEQQfOBdc7ftyxJt"
+      }
     }
   ]
 }
