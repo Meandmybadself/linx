@@ -6587,6 +6587,21 @@
         "favicon": "https://www.cbsnews.com/favicon.ico",
         "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/11/c9126aae-8008-4d4a-b7df-08b130e8ed06/thumbnail/1200x630/c8132af4936f146d3cf8342bd4657272/gettyimages-2278349243.jpg"
       }
+    },
+    {
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1787085423.806659",
+      "collectedAt": "2026-08-18T21:29:02.172Z",
+      "messageText": "<https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html|ikea.com/se/en/…/6f564c4d-2cc…>",
+      "meta": {
+        "title": "How does IKEA come up with names for its products?  - IKEA Sweden",
+        "description": "Sweden - The product names of IKEA may sound strange even to us Swedish speakers. In other parts of the world, they are basically incomprehensible, but fun! He",
+        "favicon": "https://www.ikea.com/global/assets/logos/brand/ikea.svg"
+      }
     }
   ]
 }
