@@ -6602,6 +6602,22 @@
         "description": "Sweden - The product names of IKEA may sound strange even to us Swedish speakers. In other parts of the world, they are basically incomprehensible, but fun! He",
         "favicon": "https://www.ikea.com/global/assets/logos/brand/ikea.svg"
       }
+    },
+    {
+      "url": "https://www.cbsnews.com/minnesota/news/mike-lindell-minnesota-governor-primary-recount/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1787168803.759559",
+      "collectedAt": "2026-08-19T20:34:16.582Z",
+      "messageText": "Lol <https://www.cbsnews.com/minnesota/news/mike-lindell-minnesota-governor-primary-recount/|https://www.cbsnews.com/minnesota/news/mike-lindell-minnesota-governor-primary-recount/>",
+      "meta": {
+        "title": "Mike Lindell says he will fund statewide hand recount after losing Minnesota GOP primary by double digits",
+        "description": "Mike Lindell, who lost the Republican primary for Minnesota governor by roughly 11 percentage points, says he will personally pay for a hand recount and audit of every ballot cast in the race.",
+        "favicon": "https://www.cbsnews.com/favicon.ico",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/12/25bb5ffa-b8cb-4599-a622-66ac12a27aba/thumbnail/1200x630/8299a47fcb57d1324785fb51612faa29/gettyimages-2166225582.jpg"
+      }
     }
   ]
 }
