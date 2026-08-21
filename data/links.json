@@ -6470,7 +6470,12 @@
       "timestamp": "1786806876.512709",
       "collectedAt": "2026-08-15T15:26:04.981Z",
       "messageText": "I asked this when it went through the lower courts and I'll ask it again.. Why doesn't he just get permission from congress? Do the GOP members actually not want the ballroom either, so much so that they pushed back on it?\n<https://www.reuters.com/world/trump-asks-us-supreme-cour",
-      "meta": null
+      "meta": {
+        "title": "Trump asks US Supreme Court to allow White House ballroom construction to continue",
+        "description": "An appeals court ruled that the White House project lacked congressional approval.",
+        "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32_v2.ico?d=377&mxId=00000000",
+        "image": "https://www.reuters.com/resizer/v2/6HIJZO32GNKWJLFI4HISABLQBY.jpg?auth=691d2e7415a7fadef929cc308336c023abb0f70167033665a0b88d134a729e18&height=1005&width=1920&quality=80&smart=true"
+      }
     },
     {
       "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/?share_id=ZsKlAM695WWuVqXdZyOH7",
@@ -6617,6 +6622,22 @@
         "description": "Mike Lindell, who lost the Republican primary for Minnesota governor by roughly 11 percentage points, says he will personally pay for a hand recount and audit of every ballot cast in the race.",
         "favicon": "https://www.cbsnews.com/favicon.ico",
         "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/09/12/25bb5ffa-b8cb-4599-a622-66ac12a27aba/thumbnail/1200x630/8299a47fcb57d1324785fb51612faa29/gettyimages-2166225582.jpg"
+      }
+    },
+    {
+      "url": "https://www.instagram.com/reel/DcRAvxIonV8/?igsi=czVmNnhzYnEwMnl3",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1787279896.492579",
+      "collectedAt": "2026-08-21T03:08:12.931Z",
+      "messageText": "This is wild. <https://www.instagram.com/reel/DcRAvxIonV8/?igsi=czVmNnhzYnEwMnl3|https://www.instagram.com/reel/DcRAvxIonV8/?igsi=czVmNnhzYnEwMnl3> ",
+      "meta": {
+        "title": "Jörg Kahlhöfer on Instagram: \"Had a few hours of spare time and built a large format “emulator” for Octane 😁\nWhat you see is a Gaussian splatting 3D scan of my wonderful friend @nishoba , sitting in a sunny graveyard. On top is an “almost real-time” film simulation with grain, halation and a 4x5 large format film frame. all done in the AOV live compositor in Octane. Gives it a nice haptic feel.\nIt really helps to see the final look of the image while searching for nice camera angles and settings. For me, this is a new kind of photography. I don’t take the photo on location. I bring the location home and take the photo there.\"",
+        "description": "24K likes, 580 comments - joergkahlhoefer on August 20, 2026: \"Had a few hours of spare time and built a large format “emulator” for Octane 😁\nWhat you see is a Gaussian splatting 3D scan of my wonderful friend @nishoba , sitting in a sunny graveyard. On top is an “almost real-time” film simulation ",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+        "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/780709338_18427114348176553_6571475674154450098_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=uqstflZmKcIQ7kNvwFJ3Dy1&_nc_oc=AdroRFDpuz_aqtD2HRzlJHZBV-QLou9IcLK72AFwNazmnsid_P9neWGhUG7G48T0kMU&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=SHnioT5p__UWRCMd57fYrQ&_nc_ss=7f689&oh=00_AQGCTSGfT7y7vKMP8f8T0UvV_cg_rjifcCaVbA6fMWOFTQ&oe=6A8D9BA9"
       }
     }
   ]
