@@ -6666,6 +6666,21 @@
       "collectedAt": "2026-08-22T06:49:02.099Z",
       "messageText": "<https://www.patreon.com/brosandprose/posts/rolling-stone-167324909?utm_campaign=postshare_creator|patreon.com/brosandprose/posts/rolling-stone-167324909?…>",
       "meta": null
+    },
+    {
+      "url": "https://www.imdb.com/title/tt20374502/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1787414241.753879",
+      "collectedAt": "2026-08-22T16:30:12.641Z",
+      "messageText": "<https://www.imdb.com/title/tt20374502/|imdb.com/title/tt20374502>",
+      "meta": {
+        "title": null,
+        "description": null,
+        "favicon": "https://www.imdb.com/favicon.ico"
+      }
     }
   ]
 }
