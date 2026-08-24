@@ -6696,6 +6696,22 @@
         "description": "Watch this embedded Streamable video.",
         "favicon": "https://streamable.com//statics.streamable.com/static/favicon.ico"
       }
+    },
+    {
+      "url": "https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/",
+      "userId": "U1X3R3A9Z",
+      "userName": "martin",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1787612872.505159",
+      "collectedAt": "2026-08-24T23:26:16.886Z",
+      "messageText": "My kid and I have both played the magic books version of that game: <https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/|store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library>",
+      "meta": {
+        "title": "Librarian: Tidy Up the Arcane Library! on Steam",
+        "description": "Librarian: Tidy Up the Arcane Library! is a single-player simulation. You need return scattered books to proper places in an Arcane Library. As completed rows of bookshelves, you can learn ability to improve your efficiency. Use your skills and strategies to shelve 3,072 books as quick as you can.",
+        "favicon": "https://store.steampowered.com/favicon.ico",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/273d2a3ddf5eab5d39b693a129b80609499e6b48/capsule_616x353.jpg?t=1777553917"
+      }
     }
   ]
 }
