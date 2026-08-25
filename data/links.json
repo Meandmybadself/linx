@@ -6712,6 +6712,21 @@
         "favicon": "https://store.steampowered.com/favicon.ico",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4197610/273d2a3ddf5eab5d39b693a129b80609499e6b48/capsule_616x353.jpg?t=1777553917"
       }
+    },
+    {
+      "url": "https://web.archive.org/web/20260725174355/https://marshallbrain.com/manna1",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1787667950.837879",
+      "collectedAt": "2026-08-25T14:51:55.031Z",
+      "messageText": "Not sure if my internet is just funky or if the original site is actually gone but if you haven't read the _Manna_ short story you should: <https://web.archive.org/web/20260725174355/https://marshallbrain.com/manna1|web.archive.org/web/20260725174355/…/manna1>",
+      "meta": {
+        "title": "Manna – Two Views of Humanity’s Future – Chapter 1 | MarshallBrain.com",
+        "description": null,
+        "favicon": "https://web.archive.org/web/20260725174355im_/https://marshallbrain.com/wp-content/uploads/2020/10/cropped-Marshall-Brain-Favicon-32x32.png"
+      }
     }
   ]
 }
