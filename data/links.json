@@ -6758,6 +6758,21 @@
         "favicon": "https://glorpgum.com//glorpgum.com/cdn/shop/files/web-logo-in-layers_32ccc37e-d09b-43dc-84cf-8e1c2e8c547f_180x180.png?v=1613510766",
         "image": "https://glorpgum.com/cdn/shop/files/web-logo-in-layers_32ccc37e-d09b-43dc-84cf-8e1c2e8c547f_1200x.png?v=1613510766"
       }
+    },
+    {
+      "url": "https://xcancel.com/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1787756530.405549",
+      "collectedAt": "2026-08-26T16:21:59.717Z",
+      "messageText": "<https://xcancel.com/|xcancel.com>\n> On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. \n>  The service XCancel is stopped until further notice. \n>  We are seeking legal advice and won't share more details for now.",
+      "meta": {
+        "title": null,
+        "description": null,
+        "favicon": "https://xcancel.com/favicon.ico"
+      }
     }
   ]
 }
