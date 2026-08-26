@@ -6773,6 +6773,38 @@
         "description": null,
         "favicon": "https://xcancel.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.newsweek.com/republicans-cut-funding-for-dolly-partons-child-reading-program-12368730",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1787770983.484469",
+      "collectedAt": "2026-08-26T19:08:20.967Z",
+      "messageText": "good thing they have the EVE gamers... <https://www.newsweek.com/republicans-cut-funding-for-dolly-partons-child-reading-program-12368730|newsweek.com/republicans-cut-funding-for-dolly-partons-child-reading-program…>",
+      "meta": {
+        "title": "Republicans cut funding for Dolly Parton’s child reading program",
+        "description": "Dolly Parton's Imagination Library promises to keep sending free books to kids, but the program has been weakened by budget cuts.",
+        "favicon": "https://www.newsweek.com/favicon.svg",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP24240800633352.jpg?w=1200&crop=1"
+      }
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1787766241.962559",
+      "collectedAt": "2026-08-26T19:08:20.967Z",
+      "messageText": "_sigh_\n<https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them|tomshardware.com/…/u-s-govt-moves-to-su",
+      "meta": {
+        "title": "US gov",
+        "description": "States would then need to choose if they want to solicit public feedback for permits.",
+        "favicon": "https://vanilla.futurecdn.net/tomshardware/1733153/favicon.ico",
+        "image": "https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-2000-80.jpg"
+      }
     }
   ]
 }
