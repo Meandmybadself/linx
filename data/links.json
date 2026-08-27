@@ -6821,6 +6821,22 @@
         "favicon": "https://www.hollywoodreporter.com/wp-content/themes/vip/pmc-hollywoodreporter-2021/assets/app/icons/favicon.png",
         "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Jaye-P.-Morgan-Obit-Template-Headshot-Everett-H-2026.jpg?w=1296&h=730&crop=1"
       }
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1787842347.387799",
+      "collectedAt": "2026-08-27T19:43:38.651Z",
+      "messageText": "<https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html|https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html> ",
+      "meta": {
+        "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+        "description": "Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem.",
+        "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+        "image": "https://image.cnbcfm.com/api/v1/image/107291118-1692832899082-gettyimages-1608151041-HUGGING_FACE_AI.jpeg?v=1701200698&w=1920&h=1080"
+      }
     }
   ]
 }
