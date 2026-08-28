@@ -6837,6 +6837,49 @@
         "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
         "image": "https://image.cnbcfm.com/api/v1/image/107291118-1692832899082-gettyimages-1608151041-HUGGING_FACE_AI.jpeg?v=1701200698&w=1920&h=1080"
       }
+    },
+    {
+      "url": "https://music.apple.com/us/album/before-the-world-blows/6797941897",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1787933955.537779",
+      "collectedAt": "2026-08-28T17:14:50.936Z",
+      "messageText": "Damn. This dropped today too. :fire::fire::fire: <https://music.apple.com/us/album/before-the-world-blows/6797941897|https://music.apple.com/us/album/before-the-world-blows/6797941897> ",
+      "meta": {
+        "title": "Before The World Blows by Erykah Badu & The Alchemist on Apple Music",
+        "description": "Album · 2026 · 16 Songs",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/18/1c/ce181c37-98a4-463e-9336-7c3e55aa44e0/889030051578.png/1200x630wp-60.jpg"
+      }
+    },
+    {
+      "url": "https://music.apple.com/us/album/thank-you/6776032889",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1787926364.998599",
+      "collectedAt": "2026-08-28T17:14:50.936Z",
+      "messageText": "Into it. <https://music.apple.com/us/album/thank-you/6776032889|https://music.apple.com/us/album/thank-you/6776032889> ",
+      "meta": {
+        "title": "Thank You by Mike D on Apple Music",
+        "description": "Album · 2026 · 13 Songs",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/eb/9f/81eb9fdd-b6f7-c3d3-092a-3a77172e2bd6/26UMGIM70751.rgb.jpg/1200x630wp-60.jpg"
+      }
+    },
+    {
+      "url": "https://thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1787924769.729819",
+      "collectedAt": "2026-08-28T17:14:52.597Z",
+      "messageText": "So, yesterday NVIDIA announced an employee-driven PAC, NVPAC.\n<https://thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac/|thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac>\n\nFrom what I gather though, I would put money into it &amp;",
+      "meta": null
     }
   ]
 }
