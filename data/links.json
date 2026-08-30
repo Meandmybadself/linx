@@ -6880,6 +6880,22 @@
       "collectedAt": "2026-08-28T17:14:52.597Z",
       "messageText": "So, yesterday NVIDIA announced an employee-driven PAC, NVPAC.\n<https://thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac/|thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac>\n\nFrom what I gather though, I would put money into it &amp;",
       "meta": null
+    },
+    {
+      "url": "https://defrag98.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1788043203.794979",
+      "collectedAt": "2026-08-29T23:59:54.477Z",
+      "messageText": "\n<https://defrag98.com/>",
+      "meta": {
+        "title": "Windows 98 Disk Defrag Simulator",
+        "description": "A free, browser-based simulator of the classic Microsoft Windows 98 Disk Defragmenter. Pick a drive, cue the HDD sounds, and relive the nostalgia of 1998.",
+        "favicon": "https://defrag98.com/favicon.ico",
+        "image": "https://defrag98.com/og.png"
+      }
     }
   ]
 }
