@@ -6896,6 +6896,48 @@
         "favicon": "https://defrag98.com/favicon.ico",
         "image": "https://defrag98.com/og.png"
       }
+    },
+    {
+      "url": "https://thejohnnykaratesuperawsomemusicalexplosionshow.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1788133228.907849",
+      "collectedAt": "2026-08-31T21:52:05.022Z",
+      "messageText": "This is horseshit: <https://thejohnnykaratesuperawsomemusicalexplosionshow.com/|thejohnnykaratesuperawsomemusicalexplosionshow.com>",
+      "meta": {
+        "title": "The Johnny Karate Super Awsome – Musical Explosion Show",
+        "description": null,
+        "favicon": "https://thejohnnykaratesuperawsomemusicalexplosionshow.com/wp-content/uploads/2023/10/cropped-mouse-rat-32x32.jpg"
+      }
+    },
+    {
+      "url": "https://infiniteslop.ai/",
+      "userId": "U01JE9346SW",
+      "userName": "superluc",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1788182248.718789",
+      "collectedAt": "2026-08-31T21:52:07.367Z",
+      "messageText": "<https://infiniteslop.ai/|infiniteslop.ai> heh",
+      "meta": {
+        "title": "Infinite Slop by @levelsio + fal.ai",
+        "description": "An endless AI-generated TV channel where the chat decides what airs next.",
+        "favicon": "https://infiniteslop.ai/data:image/svg+xml,%3Csvg xmlns=",
+        "image": "https://infiniteslop.ai/og.jpg"
+      }
+    },
+    {
+      "url": "https://www.microcenter.com/site/content/bundle-and-save.aspx?bundle=intel",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1788193155.473409",
+      "collectedAt": "2026-08-31T21:52:07.510Z",
+      "messageText": "<https://www.microcenter.com/site/content/bundle-and-save.aspx?bundle=intel|microcenter.com/site/content/bundle-and-save.aspx?bundle=intel>",
+      "meta": null
     }
   ]
 }
