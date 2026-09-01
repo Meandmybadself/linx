@@ -6938,6 +6938,48 @@
       "collectedAt": "2026-08-31T21:52:07.510Z",
       "messageText": "<https://www.microcenter.com/site/content/bundle-and-save.aspx?bundle=intel|microcenter.com/site/content/bundle-and-save.aspx?bundle=intel>",
       "meta": null
+    },
+    {
+      "url": "https://www.explorefall.com/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1788283800.462229",
+      "collectedAt": "2026-09-01T17:44:53.512Z",
+      "messageText": "<https://www.explorefall.com/|explorefall.com>",
+      "meta": {
+        "title": "Explore Fall: Interactive Foliage Map",
+        "description": "Plan your unforgettable fall adventure and find peak fall color with our revolutionary 2026 Fall Foliage Map.",
+        "favicon": "https://www.explorefall.com/./favicon-32x32.png"
+      }
+    },
+    {
+      "url": "https://www.kare11.com/article/news/local/shakopee-city-council-considers-changes-noise-complaints-new-amphitheater/89-1640a40c-b6fd-4068-af82-419754ba7608",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1788281578.592629",
+      "collectedAt": "2026-09-01T17:44:53.941Z",
+      "messageText": "10 miles away? Really? I suppose, it _does_ sit above most of the surrounding terrain so there's nothing to absorb the sound\n<https://www.kare11.com/article/news/local/shakopee-city-council-considers-changes-noise-complaints-new-amphitheater/89-1640a40c-b6fd-4068-af82-419754ba760",
+      "meta": null
+    },
+    {
+      "url": "https://runway.com/news/research/introducing-solaris?utm_source=tldrai",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1788270807.227059",
+      "collectedAt": "2026-09-01T17:44:56.588Z",
+      "messageText": "<https://runway.com/news/research/introducing-solaris?utm_source=tldrai|https://runway.com/news/research/introducing-solaris?utm_source=tldrai> ",
+      "meta": {
+        "title": "Runway News | Introducing Solaris",
+        "description": "Solaris is Runway's first Interface World Model: real-time AI that generates interactive interfaces frame by frame, with no code.",
+        "favicon": "https://runway.com/icon.png?icon.35ps9bmugbe1e.png",
+        "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/08/082626-solaris-blogpost-thumbnail-2fe8ad11-4846-4ba2-bbbf-a8db3feaa725.png"
+      }
     }
   ]
 }
