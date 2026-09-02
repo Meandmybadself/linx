@@ -6995,6 +6995,38 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/295c97e3/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://pollen-robotics.com/microduck/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1788306332.014549",
+      "collectedAt": "2026-09-02T03:57:32.675Z",
+      "messageText": "<https://pollen-robotics.com/microduck/|pollen-robotics.com/microduck>",
+      "meta": {
+        "title": "Microduck - A tiny biped robot you can teach new tricks | Pollen Robotics",
+        "description": "Microduck is a 25 cm biped robot with 15 motors, a camera, LiDAR and a grasping beak. Playable out of the box, and its open-source stack lets you train new behaviours in simulation and run them on the robot. Pre-order at $399.",
+        "favicon": "https://pollen-robotics.com/assets/pollen-mark.png",
+        "image": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg"
+      }
+    },
+    {
+      "url": "https://www.norirobotics.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1788306328.079939",
+      "collectedAt": "2026-09-02T03:57:32.675Z",
+      "messageText": "<https://www.norirobotics.com/>",
+      "meta": {
+        "title": "NORI A3 — Affordable bimanual robot",
+        "description": "An affordable bimanual robot for home and office. Made in the US, shipping fall 2026. $1,688.",
+        "favicon": "https://www.norirobotics.com/favicon-mark.84d68036.png",
+        "image": "https://noril1.com/opengraph-image/a3-2026e?09f634070dee520a"
+      }
     }
   ]
 }
