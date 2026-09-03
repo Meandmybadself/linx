@@ -7043,6 +7043,21 @@
         "favicon": "https://www.anthropic.com/images/icons/favicon-32x32.png",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Somebody_Somewhere_(TV_series)",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1788393764.052469",
+      "collectedAt": "2026-09-03T03:56:37.367Z",
+      "messageText": "We're just now seeing _<https://en.wikipedia.org/wiki/Somebody_Somewhere_(TV_series)|Somebody Somewhere>_.  It's wonderful.",
+      "meta": {
+        "title": "Somebody Somewhere (TV series) - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
+      }
     }
   ]
 }
