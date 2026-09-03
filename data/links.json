@@ -7058,6 +7058,22 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://medicine.washu.edu/news/faster-aging-in-younger-generations-linked-to-rise-in-early-onset-cancer/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "CLK42F0LA",
+      "channelName": "health",
+      "timestamp": "1788452693.884449",
+      "collectedAt": "2026-09-03T17:44:03.824Z",
+      "messageText": "<https://medicine.washu.edu/news/faster-aging-in-younger-generations-linked-to-rise-in-early-onset-cancer/|medicine.washu.edu/news/faster-aging-in-younger-generations-linked-to-rise-in-early-onset-cancer>",
+      "meta": {
+        "title": "Faster aging in younger generations linked to rise in early-onset cancer | WashU Medicine",
+        "description": "Faster aging in younger generations is linked to the rise in early-onset cancers, according to a new analysis.",
+        "favicon": "https://medicine.washu.edu/app/uploads/2018/06/cropped-Shield-32x32.png",
+        "image": "https://medicine.washu.edu/app/uploads/2026/06/Cao-early-onset-cancer-animation-700x468-1.gif"
+      }
     }
   ]
 }
