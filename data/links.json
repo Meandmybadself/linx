@@ -6879,7 +6879,12 @@
       "timestamp": "1787924769.729819",
       "collectedAt": "2026-08-28T17:14:52.597Z",
       "messageText": "So, yesterday NVIDIA announced an employee-driven PAC, NVPAC.\n<https://thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac/|thehill.com/policy/technology/6055355-nvidia-launches-employee-funded-pac>\n\nFrom what I gather though, I would put money into it &amp;",
-      "meta": null
+      "meta": {
+        "title": "Nvidia launches corporate PAC, expanding Washington footprint",
+        "description": "Technology giant Nvidia is entering the election spending arena, launching a new corporate political action committee funded by employees. Nvidia filed a statement of organization Thursday, with th…",
+        "favicon": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=32",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/699f8bf7765075.70121831-e1785186916634.jpeg?w=1280"
+      }
     },
     {
       "url": "https://defrag98.com/",
@@ -7074,6 +7079,32 @@
         "favicon": "https://medicine.washu.edu/app/uploads/2018/06/cropped-Shield-32x32.png",
         "image": "https://medicine.washu.edu/app/uploads/2026/06/Cao-early-onset-cancer-animation-700x468-1.gif"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WDMkNRjsrI0",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1788528848.614499",
+      "collectedAt": "2026-09-04T20:36:47.012Z",
+      "messageText": "<https://www.youtube.com/watch?v=WDMkNRjsrI0|https://www.youtube.com/watch?v=WDMkNRjsrI0> ",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/f82dea74/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://bringmethenews.com/minnesota-news/sheriff-sickening-sticker-mocking-george-floyd-placed-on-squad-vehicle-by-state-fairgoer",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1788519827.363169",
+      "collectedAt": "2026-09-04T20:36:47.838Z",
+      "messageText": "How much do you want to bet that the person who shared the photo is the same person who put the bumper sticker on the vehicle in the first place? \n<https://bringmethenews.com/minnesota-news/sheriff-sickening-sticker-mocking-george-floyd-placed-on-squad-vehicle-by-state-fairgoer|h",
+      "meta": null
     }
   ]
 }
