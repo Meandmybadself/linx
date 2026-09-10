@@ -7157,7 +7157,12 @@
       "timestamp": "1788886562.304829",
       "collectedAt": "2026-09-08T17:11:24.949Z",
       "messageText": "yeah there's \"the hero's shade\" that you encounter in twilight princess which is supposed to be the same young OoT (sent back to the beginning by Zelda) and Majora's Mask Link who grew old and somewhat bitter that no one knew he'd saved the world two different times.  <https://ze",
-      "meta": null
+      "meta": {
+        "title": "Hero's Spirit",
+        "description": "\"White Wolf\" redirects here. For the recurring enemy in The Legend of Zelda series, see White Wolfos. The Hero's Spirit[5], also known as the Hero’s Shade, is a character appearing in Twilight Princess. He is a mysterious skeletal specter who can assume the form of the White Wolf, with a personal go",
+        "favicon": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4a/Site-favicon.ico/revision/latest?cb=20240423180147",
+        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cd/TP_Hero%27s_Spirit_Model.png/revision/latest?cb=20120220170044"
+      }
     },
     {
       "url": "https://monarchfestival.org/",
@@ -7249,6 +7254,22 @@
         "title": "- YouTube",
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/bfff41d2/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1789046809.862399",
+      "collectedAt": "2026-09-10T18:14:13.605Z",
+      "messageText": "Oh look, a bribe for votes.\n&gt;  If the Republicans win the House of Representatives and the United States Senate, both of them, \n&gt;  ... [long-winded tangent] ...\n&gt;   I will issue a dividend to every adult citizen in the United States of America for $5,000.\n&gt; \n <https:/",
+      "meta": {
+        "title": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
+        "description": "President Donald Trump promised a $5,000 \"Trump dividend\" to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
+        "favicon": "https://www.foxnews.com//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-midterm-convention-3.jpg"
       }
     }
   ]
