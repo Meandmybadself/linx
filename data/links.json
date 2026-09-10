@@ -7235,6 +7235,21 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/bfff41d2/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IjLg0X59fMA",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1789002169.024029",
+      "collectedAt": "2026-09-10T04:26:49.650Z",
+      "messageText": "<https://www.youtube.com/watch?v=IjLg0X59fMA|youtube.com/watch?v=…>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/bfff41d2/img/favicon_32x32.png"
+      }
     }
   ]
 }
