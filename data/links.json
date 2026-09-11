@@ -6543,7 +6543,12 @@
       "timestamp": "1787024027.092049",
       "collectedAt": "2026-08-18T04:40:33.909Z",
       "messageText": "<https://makerworld.com/en/models/3186143-basic-parametric-cooler#profileId-3604089|makerworld.com/en/models/3186143-basic-parametric-cooler#…>",
-      "meta": null
+      "meta": {
+        "title": "Basic Parametric Cooler - Free 3D Print Model - MakerWorld",
+        "description": "Download this free 3D print file designed by mellow and beyond. Made a basic parametric cooler / lunchbox to have fresh drinks after a bike ride, back at the car. Note that it isn't an active cooler though, it is simply a double-walled box that can take in ice or a cold gel pack to keep stuff cool f",
+        "favicon": "https://makerworld.com/favicon_new.png",
+        "image": "https://makerworld.bblmw.com/makerworld/model/US241c1a3a595dc9/design/504ee9b4da34c1fb.jpg?x-oss-process=image/resize,w_1200/ignore-error,1"
+      }
     },
     {
       "url": "https://www.instagram.com/reel/DcCAkLrCemm/?igsh=OHZyb2YxNWt5cmdz&amp;igsi=OHZyb2YxNWt5cmdz",
@@ -7270,6 +7275,21 @@
         "description": "President Donald Trump promised a $5,000 \"Trump dividend\" to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
         "favicon": "https://www.foxnews.com//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-midterm-convention-3.jpg"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KPt2iZg7M50",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1789134662.866919",
+      "collectedAt": "2026-09-11T14:10:36.773Z",
+      "messageText": "maybe for fans of \"Primer\"\n\n<https://www.youtube.com/watch?v=KPt2iZg7M50|youtube.com/watch?v=…>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon_32x32.png"
       }
     }
   ]
