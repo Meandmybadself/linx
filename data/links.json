@@ -7291,6 +7291,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://haruomihosono.bandcamp.com/album/yours-sincerely",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1789238762.618529",
+      "collectedAt": "2026-09-12T19:07:12.513Z",
+      "messageText": "<https://haruomihosono.bandcamp.com/album/yours-sincerely|haruomihosono.bandcamp.com/album/yours-sincerely>",
+      "meta": {
+        "title": "Yours Sincerely, by Haruomi Hosono",
+        "description": "10 track album",
+        "favicon": "https://f4.bcbits.com/img/a3915825901_3.jpg",
+        "image": "https://f4.bcbits.com/img/a3915825901_5.jpg"
+      }
     }
   ]
 }
