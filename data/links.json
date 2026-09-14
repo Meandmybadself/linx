@@ -7323,6 +7323,53 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/799526053_1611857833935329_3540509352892234056_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-hHla6EPoWEQ7kNvwEgrgYA&_nc_oc=Adr8ql24E6TJAqlVU03xgITBQlxEJQoQxo79mGPoInnUS4PyaeKPtuVkOaHOAkY00xA&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=6zJb9s-mo4fvXMxw0bwWDw&_nc_ss=7f689&oh=00_AQLkE2mxKTRP691_hTLndICCGDNu4MNp9TPsGPJJBO7eqA&oe=6AACB2DF"
       }
+    },
+    {
+      "url": "https://www.opensauce.com/exhibits",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1789402282.026299",
+      "collectedAt": "2026-09-14T16:54:10.272Z",
+      "messageText": "This looks neat: <https://www.opensauce.com/exhibits|opensauce.com/exhibits>",
+      "meta": {
+        "title": "Open Sauce 2026 Exhibits",
+        "description": "500+ projects from makers, engineers, artists, and roboticists — for one weekend only.",
+        "favicon": "https://www.opensauce.com/icon.png?icon.0dqclc4ejax1b.png"
+      }
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/northwoods-baseball-sleep-radio-fake-baseball-for-sleeping/id1603912731",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1789402531.204069",
+      "collectedAt": "2026-09-14T16:54:10.516Z",
+      "messageText": "this intrigues me\n\n<https://podcasts.apple.com/us/podcast/northwoods-baseball-sleep-radio-fake-baseball-for-sleeping/id1603912731|podcasts.apple.com/us/podcast/northwoods-baseball-sleep-radio-fake-baseball-for-sleeping/id1603912731>",
+      "meta": {
+        "title": "Northwoods Baseball Sleep Radio - Fake Baseball for Sleeping",
+        "description": "Mental Health Podcast · Updated Monthly · It",
+        "favicon": "https://podcasts.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/92/04/0c920442-67bd-7396-db33-8c2557afa138/mza_10775005771088726437.jpg/1200x1200bf-60.jpg"
+      }
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1789397536.413619",
+      "collectedAt": "2026-09-14T16:54:11.426Z",
+      "messageText": "I read (part of) an <https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230|article >this morning about it. I really enjoyed this part (bolding is mine):\n> “I think we’ve got to have meaningful regulation that does not smother Am",
+      "meta": {
+        "title": "Dire warnings about AI shock Congress, but action is unlikely before the election",
+        "description": "Democrats and Republicans are proposing new regulations for artificial intelligence. But there’s no consensus, and the House has only one more workweek before Election Day.",
+        "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260911-capitol-hill-ch-1055-92e78a.jpg"
+      }
     }
   ]
 }
