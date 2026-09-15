@@ -7370,6 +7370,33 @@
         "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon-16x16.png",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260911-capitol-hill-ch-1055-92e78a.jpg"
       }
+    },
+    {
+      "url": "https://variety.com/2026/tv/global/philomena-cunk-in-cinema-michael-bay-benedict-cumberbatch-1236861013/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1789409376.601199",
+      "collectedAt": "2026-09-15T04:24:15.290Z",
+      "messageText": "<https://variety.com/2026/tv/global/philomena-cunk-in-cinema-michael-bay-benedict-cumberbatch-1236861013/|variety.com/2026/tv/global/philomena-cunk-in-cinema-michael-bay-benedict-cumberbatch…>",
+      "meta": {
+        "title": "Philomena Cunk to Quiz Michael Bay and Benedict Cumberbatch in ‘Cunk on Cinema’ as Latest Outing for Diane Morgan’s Character Gets First Look",
+        "description": "The first look from Cunk of Cinema, the latest outing from Diane Morgan's beloved TV idiot, has been revealed",
+        "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/favicon.png",
+        "image": "https://variety.com/wp-content/uploads/2026/09/Cunk-Camera-Image-First-Look_MattKennedy_PacesetterProductions.jpg?w=1000&h=563&crop=1"
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.LLsi.QC0JxA7iTKYw&amp;smid=url-share",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1789421819.638409",
+      "collectedAt": "2026-09-15T04:24:16.594Z",
+      "messageText": "<https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.LLsi.QC0JxA7iTKYw&amp;smid=url-share|nytimes.com/2026/…/trump-ai-safety-jensen-huang.html?smid=url-share&amp;…>",
+      "meta": null
     }
   ]
 }
