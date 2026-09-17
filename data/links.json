@@ -7429,6 +7429,60 @@
         "favicon": "https://www.fox9.com/favicons/kmsp/favicon.ico",
         "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/09/1200/630/9-p-gordon-ramsey-in-mn-_-glover_00.00.19.28.jpg?ve=1&tl=1"
       }
+    },
+    {
+      "url": "https://www.instagram.com/reel/DctiYLTyGzB/?stkn=MXVodGNsYXcxa2Z4Yw==",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1789673535.302909",
+      "collectedAt": "2026-09-17T23:27:59.931Z",
+      "messageText": "<https://www.instagram.com/reel/DctiYLTyGzB/?stkn=MXVodGNsYXcxa2Z4Yw==|https://www.instagram.com/reel/DctiYLTyGzB/?stkn=MXVodGNsYXcxa2Z4Yw==> public service",
+      "meta": {
+        "title": "Jake Welch on Instagram: \"How to upload a restroom to RestroomArchive.com\"",
+        "description": "131K likes, 1,229 comments - jake___welch on August 31, 2026: \"How to upload a restroom to RestroomArchive.com\". ",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+        "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/791906463_18619786054049681_208626821268528759_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vm5nB6XNXM0Q7kNvwHeBGq8&_nc_oc=AdotSd9LteknZsHjSg1PWkVP_G3LnaFBwxcx76HJvxorYgxlzcZph3QJlvFEPdiEglI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Gag3FOU61WIJsXdnmy-D_g&_nc_ss=7f689&oh=00_AQKl-YGTb_OMXExBy97yq2kZw9ETp40hvxylQ7Bq9jU-4g&oe=6AB26366"
+      }
+    },
+    {
+      "url": "http://login.gov",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1789663319.624549",
+      "collectedAt": "2026-09-17T23:28:00.466Z",
+      "messageText": "What's wrong with <http://login.gov|login.gov>?",
+      "meta": {
+        "title": "\n    The public’s one account for government.\n   | Login.gov",
+        "description": "\n    Use one account and password for secure, private access to participating government agencies.\n  ",
+        "favicon": "http://login.gov/favicon-32x32.png",
+        "image": "https://login.gov/assets/img/login-gov-600x314.png"
+      }
+    },
+    {
+      "url": "http://id.me",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1789659419.647249",
+      "collectedAt": "2026-09-17T23:28:00.466Z",
+      "messageText": "Anyone else peeved that treasurydirect is forcing people to login through <http://id.me|id.me> (which is a private for-profit company), and in order to do that, you have to upload your photo id?",
+      "meta": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dkXcLfyw9kQ",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1789678251.161019",
+      "collectedAt": "2026-09-17T23:28:01.825Z",
+      "messageText": "<https://www.youtube.com/watch?v=dkXcLfyw9kQ|youtube.com/watch?v=dkXcLfyw9kQ>",
+      "meta": null
     }
   ]
 }
