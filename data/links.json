@@ -7503,6 +7503,53 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
         "image": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/658931620_17918377368338366_1921305198698618118_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=OgWY8ve0gw0Q7kNvwG0TM_v&_nc_oc=AdqyhS4g5uOf9UyQ6_6aIh1PqwT_MYc_KrbcpWt9AlGoP9TXOn74wIJeROfWgiVia4U&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=5H4E6A4WTtoHHuSgUMlh9w&_nc_ss=7f289&oh=00_AQJ9sYj0vmDRRShftBfWJsM5FwoIjiM0Ppz9VjnN_pgzOA&oe=6AB27575"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/LCARS",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1789734577.537529",
+      "collectedAt": "2026-09-18T14:16:51.334Z",
+      "messageText": "TIL about the Star Trek OS, <https://en.wikipedia.org/wiki/LCARS|LCARS>.",
+      "meta": {
+        "title": "LCARS - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Lcars_wallpaper.svg/1280px-Lcars_wallpaper.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+      }
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4466596533/?trackingId=511DGCzoQFmZPWdX%2Bjpb4A%3D%3D",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C2ECLKBT2",
+      "channelName": "jorbs",
+      "timestamp": "1789732019.452409",
+      "collectedAt": "2026-09-18T14:16:51.891Z",
+      "messageText": "<https://www.linkedin.com/jobs/view/4466596533/?trackingId=511DGCzoQFmZPWdX%2Bjpb4A%3D%3D|linkedin.com/jobs/view/4466596533?trackingId=…>",
+      "meta": {
+        "title": "MONO hiring Creative Technologist in Minneapolis, MN | LinkedIn",
+        "description": "Posted 11:57:10 PM. MONO is an advertising and branding agency formed to create magnetic brands that draw people in. We…See this and similar jobs on LinkedIn.",
+        "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "image": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf"
+      }
+    },
+    {
+      "url": "https://openjev.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1789732326.030659",
+      "collectedAt": "2026-09-18T14:16:52.791Z",
+      "messageText": "<https://openjev.com/|openjev.com>",
+      "meta": {
+        "title": "SemIf — local decisions in your browser",
+        "description": "Run typed option logits and autoregressive JSON locally with open models and WebGPU.",
+        "favicon": "https://openjev.com/favicon.ico"
+      }
     }
   ]
 }
