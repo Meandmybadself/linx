@@ -7482,7 +7482,27 @@
       "timestamp": "1789678251.161019",
       "collectedAt": "2026-09-17T23:28:01.825Z",
       "messageText": "<https://www.youtube.com/watch?v=dkXcLfyw9kQ|youtube.com/watch?v=dkXcLfyw9kQ>",
-      "meta": null
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/95e3a3fe/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://www.threads.com/@alboardman",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1789697792.076919",
+      "collectedAt": "2026-09-18T04:10:02.297Z",
+      "messageText": "<https://www.threads.com/@alboardman|threads.com/@alboardman>",
+      "meta": {
+        "title": "Al Boardman (@alboardman) • Threads, Say more",
+        "description": "9.3K Followers • 136 Threads • ⦿ Motion Design Artist \n▹ Enquiries: al@alboardman.com \n⚐ Al as in Alan (not Ai) \n⌖ Hampshire, UK. See the latest conversations with @alboardman.",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
+        "image": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/658931620_17918377368338366_1921305198698618118_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=OgWY8ve0gw0Q7kNvwG0TM_v&_nc_oc=AdqyhS4g5uOf9UyQ6_6aIh1PqwT_MYc_KrbcpWt9AlGoP9TXOn74wIJeROfWgiVia4U&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=5H4E6A4WTtoHHuSgUMlh9w&_nc_ss=7f289&oh=00_AQJ9sYj0vmDRRShftBfWJsM5FwoIjiM0Ppz9VjnN_pgzOA&oe=6AB27575"
+      }
     }
   ]
 }
