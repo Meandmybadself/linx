@@ -7649,6 +7649,33 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/eb4a42b9/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-02987-3",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1790089838.062559",
+      "collectedAt": "2026-09-22T18:40:12.170Z",
+      "messageText": "somewhat related: edible batteries are on the horizon\n\n<https://www.nature.com/articles/d41586-026-02987-3|nature.com/articles/d41586-026-02987-3>",
+      "meta": {
+        "title": "Edible batteries power medical devices in the body",
+        "description": "The tiny power sources, tested in pigs, dissolve inside the digestive tract after several months.",
+        "favicon": "https://www.nature.com/favicon.ico",
+        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02987-3/d41586-026-02987-3_53742180.jpg"
+      }
+    },
+    {
+      "url": "https://www.reddit.com/r/gpu/comments/1wn0n60/is_it_even_possible_to_get_a_working_5090_for/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790089252.247499",
+      "collectedAt": "2026-09-22T18:40:14.924Z",
+      "messageText": "damn. should have gone to PAX this year. <https://www.reddit.com/r/gpu/comments/1wn0n60/is_it_even_possible_to_get_a_working_5090_for/|reddit.com/r/gpu/…/is_it_even_possible_to_get_a_working_5090_for>",
+      "meta": null
     }
   ]
 }
