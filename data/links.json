@@ -7692,6 +7692,69 @@
         "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/bd/5c/34bd5c11-fc93-a067-f495-12293a4bb9c1/075679573865.jpg/1200x630wp-60.jpg"
       }
+    },
+    {
+      "url": "http://hell.com",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1790181449.674099",
+      "collectedAt": "2026-09-23T23:30:43.451Z",
+      "messageText": "something randomly made me remember the website <http://hell.com|hell.com> from the 90s, and I was wondering who owned it and what became of it.. which led me to discover this website that has \"obituaries\" of tons of other sites/services that I had forgotten about.\n<https://rip.s",
+      "meta": {
+        "title": "My Bible",
+        "description": null,
+        "favicon": "http://hell.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://rip.so/hell-com.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1790181449.674099",
+      "collectedAt": "2026-09-23T23:30:43.451Z",
+      "messageText": "something randomly made me remember the website <http://hell.com|hell.com> from the 90s, and I was wondering who owned it and what became of it.. which led me to discover this website that has \"obituaries\" of tons of other sites/services that I had forgotten about.\n<https://rip.s",
+      "meta": {
+        "title": "Hell.com (1995 - 2009) :: rip.so",
+        "description": "kenneth aronson registered hell.com in august 1995 and ran it for fourteen years as a gated online art project involving roughly fifty new media artists across twenty countries. four canonical exhibitions, a members-only tier, a soul-redemption donation ladder, and a front door that told you you wer",
+        "favicon": "https://rip.so/favicon.svg",
+        "image": "https://rip.so/og/hell-com.png"
+      }
+    },
+    {
+      "url": "https://flaviocopes.com/scraping-tool/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1790186195.518939",
+      "collectedAt": "2026-09-23T23:30:43.546Z",
+      "messageText": "I was interested. Maybe someone else will be: <https://flaviocopes.com/scraping-tool/|https://flaviocopes.com/scraping-tool/>",
+      "meta": {
+        "title": "How to build a scraping tool",
+        "description": "Build a scraping tool with Node.js or Cloudflare Workers: fetch, Cheerio, caching, alerts, browser rendering, and what changes when Google fights back.",
+        "favicon": "https://flaviocopes.com/img/favicon-96x96.png",
+        "image": "https://flaviocopes.com/images/scraping-tool/og.jpg"
+      }
+    },
+    {
+      "url": "https://x.com/BrandyZadrozny/status/2102421894331064413",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1790193004.686849",
+      "collectedAt": "2026-09-23T23:30:44.817Z",
+      "messageText": "<https://x.com/BrandyZadrozny/status/2102421894331064413|x.com/BrandyZadrozny/status/2102421894331064413>",
+      "meta": {
+        "title": "Brandy Zadrozny (@BrandyZadrozny) on X",
+        "description": "Bonus for whoever wrote this chyron",
+        "favicon": "https://x.com/favicon.ico",
+        "image": "https://pbs.twimg.com/media/HS1NkWaXUAEZ1Ud?format=webp&name=large"
+      }
     }
   ]
 }
