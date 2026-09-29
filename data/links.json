@@ -7887,6 +7887,49 @@
         "favicon": "https://www.salon.com/app/themes/salon/assets/img/favicon-32x32.png",
         "image": "https://www.salon.com/app/uploads/2026/09/karl-rove-GettyImages-2173366780.jpg"
       }
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1790714072.069609",
+      "collectedAt": "2026-09-29T20:36:30.289Z",
+      "messageText": "Boo.\n<https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html|nytimes.com/2026/…/nyc-second-home-tax-lawsuit.html>",
+      "meta": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1790710639.149689",
+      "collectedAt": "2026-09-29T20:36:30.290Z",
+      "messageText": "<#C01711BNPRD> or here? <https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html|https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html>",
+      "meta": {
+        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+        "description": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
+        "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+        "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&w=1920&h=1080"
+      }
+    },
+    {
+      "url": "https://thehill.com/policy/national-security/6114144-ice-ramps-up-sanctuary-cities/amp/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1790698618.209909",
+      "collectedAt": "2026-09-29T20:36:30.716Z",
+      "messageText": "<https://thehill.com/policy/national-security/6114144-ice-ramps-up-sanctuary-cities/amp/|thehill.com/policy/national-security/6114144-ice-ramps-up-sanctuary-cities/amp>",
+      "meta": {
+        "title": "DHS announces nationwide surge in 'sanctuary' cities",
+        "description": "DHS said ICE has initiated a “surge in sanctuary cities,” as part of the Trump administration’s continuous crackdown on immigration.",
+        "favicon": "https://thehill.com/favicon.ico",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-2259968097.jpg?w=1280"
+      }
     }
   ]
 }
