@@ -7930,6 +7930,108 @@
         "favicon": "https://thehill.com/favicon.ico",
         "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-2259968097.jpg?w=1280"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bowling_Alone",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1790785784.957169",
+      "collectedAt": "2026-09-30T23:35:51.149Z",
+      "messageText": "<https://en.wikipedia.org/wiki/Bowling_Alone|en.wikipedia.org/wiki/Bowling_Alone>",
+      "meta": {
+        "title": "Bowling Alone - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/Bowling_Alone.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+      }
+    },
+    {
+      "url": "https://repomix.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1790776240.632129",
+      "collectedAt": "2026-09-30T23:35:51.259Z",
+      "messageText": "<https://repomix.com/|repomix.com>",
+      "meta": {
+        "title": "Repomix | Pack your codebase into AI-friendly formats",
+        "description": "Pack local or remote repositories into AI-friendly XML, Markdown, JSON, or plain text for Claude, ChatGPT, Gemini, MCP, and code review workflows.",
+        "favicon": "https://repomix.com/images/repomix-logo.svg",
+        "image": "https://repomix.com/images/og-image-large.png"
+      }
+    },
+    {
+      "url": "https://www.mprnews.org/episode/2026/09/30/the-heights-theater-to-celebrate-100-years-with-a-film-for-each-decade",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1790800536.798469",
+      "collectedAt": "2026-09-30T23:35:51.705Z",
+      "messageText": "neat! although I wish they would have listed in the (very short) article the movies the Heights is showing. Maybe it's in the podcast attached to this\n<https://www.mprnews.org/episode/2026/09/30/the-heights-theater-to-celebrate-100-years-with-a-film-for-each-decade|mprnews.org/ep",
+      "meta": {
+        "title": "A century of cinema: The Heights Theater to celebrate 100 years with a film for each decade",
+        "description": "The one-screen theater in Columbia Heights has been running for 100 years. It will celebrate its legacy starting Thursday, Oct. 1.",
+        "favicon": "https://www.mprnews.org/favicon.png",
+        "image": "https://img.apmcdn.org/5c7a04e2d7e52f16bbcf4920d255602a709d2312/widescreen/713227-20260930-theheights-1005.jpg"
+      }
+    },
+    {
+      "url": "https://docs.google.com/document/d/1iRXnArQ4ayBV3z5sHJpx5cRXfzuSneGP5_Uw8KMB81c/edit?usp=sharing",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C011ENT379C",
+      "channelName": "crafts-hobbies-projects",
+      "timestamp": "1790775646.277249",
+      "collectedAt": "2026-09-30T23:35:53.047Z",
+      "messageText": "Here are my beginning notes for my Poplar Lake project.  Would love ideas / input.\n<https://docs.google.com/document/d/1iRXnArQ4ayBV3z5sHJpx5cRXfzuSneGP5_Uw8KMB81c/edit?usp=sharing|docs.google.com/document/d/1iRXnArQ4ayB…/edit?usp=sharing>",
+      "meta": {
+        "title": "Poplar Lake Depth Map",
+        "description": "Poplar Lake Depth Map Goal Create a large depth map of Poplar Lake in Grand Marais, MN for hanging on a wall in our cabin. Ideal Description Wood machine-carved map with painted labels. Depth will be painted / airbrushed with darker blues symbolizing deeper waters. Parameters The CNC machine can ...",
+        "favicon": "https://ssl.gstatic.com/docs/documents/images/docs-favicon-2026-v2.ico",
+        "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyLNrWpZswshNEJeg9MR8X_x2Xls-R_1CPoxfivMuAYfVgXdf6pSw9K_zZIoK9hz5JT7N2IEppiOJY1eCb9P5Qn5jTKQFmC9pGE3JI7rDxIaZdMFBHfL=w1200-h630-p"
+      }
+    },
+    {
+      "url": "https://thezvi.substack.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790791763.183459",
+      "collectedAt": "2026-09-30T23:35:53.488Z",
+      "messageText": "And generally: <https://thezvi.substack.com/>",
+      "meta": null
+    },
+    {
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790791740.206839",
+      "collectedAt": "2026-09-30T23:35:53.488Z",
+      "messageText": "Some strong stuff:\n• <https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities|anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>\n• <https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen|thezvi.substack.com/p/o",
+      "meta": {
+        "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+        "description": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+        "favicon": "https://www.anthropic.com/images/icons/favicon-32x32.png",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+      }
+    },
+    {
+      "url": "https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790791740.206839",
+      "collectedAt": "2026-09-30T23:35:53.488Z",
+      "messageText": "Some strong stuff:\n• <https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities|anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>\n• <https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen|thezvi.substack.com/p/o",
+      "meta": null
     }
   ]
 }
