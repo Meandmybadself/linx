@@ -8032,6 +8032,38 @@
       "collectedAt": "2026-09-30T23:35:53.488Z",
       "messageText": "Some strong stuff:\n• <https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities|anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>\n• <https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen|thezvi.substack.com/p/o",
       "meta": null
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dc7FWRDT_nV/?stkn=MXVlNnplbHBvdWdxcw==",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1790813634.183439",
+      "collectedAt": "2026-10-01T05:16:56.101Z",
+      "messageText": "<https://www.instagram.com/reel/Dc7FWRDT_nV/?stkn=MXVlNnplbHBvdWdxcw==|https://www.instagram.com/reel/Dc7FWRDT_nV/> :video_camera:",
+      "meta": {
+        "title": "Brook Gibson on Instagram: \"Unreal birthday present from the person you want in your bunker during a zombie apocalypse @cleanuponaisleseven\"",
+        "description": "17K likes, 375 comments - brookgibson on September 5, 2026: \"Unreal birthday present from the person you want in your bunker during a zombie apocalypse @cleanuponaisleseven\". ",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+        "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/795913504_18615716635022365_6955492273351723457_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=smEPntP4KM4Q7kNvwFAhXSn&_nc_oc=Adp0JNiUhvEnxgHMH0de54FyRUrqoXFKolzq2dNvaT-kwp1t0Yl3YOoNnjx49PjM3pc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=92RRzUcjLdOg5Yfd3BPnGQ&_nc_ss=7f689&oh=00_AQOYagB_bdULDuaSdMg59XPWTRlSTMhYP26xt8ko-JMyLQ&oe=6AC3BFFE"
+      }
+    },
+    {
+      "url": "https://trolley.typememetics.institute/",
+      "userId": "U01JE9346SW",
+      "userName": "superluc",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790820246.578839",
+      "collectedAt": "2026-10-01T05:16:57.059Z",
+      "messageText": "<https://trolley.typememetics.institute/|trolley.typememetics.institute>\nthis is so much fun",
+      "meta": {
+        "title": "The Trolley Problem",
+        "description": "A runaway trolley. AGI with its hand on the lever. Two developers, one paragraph each, explaining why they deserve to live.",
+        "favicon": "https://trolley.typememetics.institute/favicon.ico",
+        "image": "https://trolley.typememetics.institute/opengraph-image?e943a3ec733e05c6"
+      }
     }
   ]
 }
