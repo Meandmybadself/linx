@@ -8064,6 +8064,37 @@
         "favicon": "https://trolley.typememetics.institute/favicon.ico",
         "image": "https://trolley.typememetics.institute/opengraph-image?e943a3ec733e05c6"
       }
+    },
+    {
+      "url": "https://cybersecuritynews.com/ai-coding-agents-leak-internal-screenshots/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790865046.838789",
+      "collectedAt": "2026-10-01T18:45:27.431Z",
+      "messageText": "<https://cybersecuritynews.com/ai-coding-agents-leak-internal-screenshots/|cybersecuritynews.com/ai-coding-agents-leak-internal-screenshots>",
+      "meta": {
+        "title": "AI Coding Agents Leak 13,000+ Internal Screenshots From 300+ Companies on GitHub",
+        "description": "AI coding agents exposed more than 13,000 internal screenshots from over 300 organizations by publishing them in publicly accessible GitHub repositories, according to “PixelLeak” research from Glow Labs.",
+        "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpXvm1MjVtcihoN_hSnpNnr4NzZAvO-Fq5Q0sHIq2FlvGXPzN5evjKHCEI4WWE04nZbX2wMOlUiG3nKyiuXWfxsZcAdNqRYF4t6cNrAKLayOAuKJBGiOeS1cXbfC72ch0Osx5p2eQSg-CyCwt_QlrZMRwaxyyBOFLKr7V1wYhvRAbx43gxpptpIsTT4bsR/s16000/CSN%20Favico.webp",
+        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/09/AI-Coding-Agents-Leak-Internal-Screenshots.webp"
+      }
+    },
+    {
+      "url": "https://lwn.net/Articles/1097401/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1790863540.160799",
+      "collectedAt": "2026-10-01T18:45:27.432Z",
+      "messageText": "This is wild: <https://lwn.net/Articles/1097401/|lwn.net/Articles/1097401>",
+      "meta": {
+        "title": "Debian alert DSA-6528-1 (kernel) [LWN.net]",
+        "description": null,
+        "favicon": "https://static.lwn.net/images/favicon.png"
+      }
     }
   ]
 }
