@@ -8126,6 +8126,21 @@
         "description": "\n       This document describes Oblivious HTTP, a protocol for forwarding encrypted HTTP messages.\nOblivious HTTP allows a client to make multiple requests to an origin server without that server\nbeing able to link those requests to the client or to identify the requests as having come from the\nsame",
         "favicon": "https://www.rfc-editor.org/favicon.ico"
       }
+    },
+    {
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1791063535.719549",
+      "collectedAt": "2026-10-03T23:41:08.326Z",
+      "messageText": "This is fun: <https://notoriousbfg.com/hole-punch/|notoriousbfg.com/hole-punch>",
+      "meta": {
+        "title": "Hole Punch",
+        "description": "Punch black holes in space and sling a ship home round them.",
+        "favicon": "https://notoriousbfg.com/icon.svg"
+      }
     }
   ]
 }
