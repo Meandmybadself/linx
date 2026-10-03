@@ -8111,6 +8111,21 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
         "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/831521794_1768619751059627_1125103250359739165_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y2L3VMzsVgsQ7kNvwEqRswB&_nc_oc=Adq4vCk8PY0Q-LqvjxIKqgXMkoHyCnCxLd0rOJmRoKGbaRmgOZ65Yp8g4BqUeIdbGo8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=Bcj4SA_RXpsuAHMWnm4reA&_nc_ss=7c289&oh=00_AQOfFRsvgkH0Ukdtecz4rsF7_lXk3SgaMDi7WkEPgtudeg&oe=6AC50A0F"
       }
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9458.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1791041649.901349",
+      "collectedAt": "2026-10-03T17:51:05.915Z",
+      "messageText": "TIL Oblivious HTTP, a privacy standard for delivering web content w/out exposing IP addresses.\n<https://www.rfc-editor.org/rfc/rfc9458.html|rfc-editor.org/rfc/rfc9458.html>",
+      "meta": {
+        "title": "RFC 9458: Oblivious HTTP",
+        "description": "\n       This document describes Oblivious HTTP, a protocol for forwarding encrypted HTTP messages.\nOblivious HTTP allows a client to make multiple requests to an origin server without that server\nbeing able to link those requests to the client or to identify the requests as having come from the\nsame",
+        "favicon": "https://www.rfc-editor.org/favicon.ico"
+      }
     }
   ]
 }
