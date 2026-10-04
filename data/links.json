@@ -8141,6 +8141,33 @@
         "description": "Punch black holes in space and sling a ship home round them.",
         "favicon": "https://notoriousbfg.com/icon.svg"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/TwinCities/comments/1wx5ub0/do_any_rainforest_cafe_patrons_know_how_seriously/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1791109093.412219",
+      "collectedAt": "2026-10-04T17:23:37.482Z",
+      "messageText": "<https://www.reddit.com/r/TwinCities/comments/1wx5ub0/do_any_rainforest_cafe_patrons_know_how_seriously/|reddit.com/r/TwinCities/…/do_any_rainforest_cafe_patrons_know_how_seriously>",
+      "meta": null
+    },
+    {
+      "url": "https://www.airbnb.com/rooms/1770040845715683746?source_impression_id=p3_1791107979_P3DftvhyLfqvvd2c",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1791107995.963549",
+      "collectedAt": "2026-10-04T17:23:39.195Z",
+      "messageText": "<https://www.airbnb.com/rooms/1770040845715683746?source_impression_id=p3_1791107979_P3DftvhyLfqvvd2c|airbnb.com/rooms/1770040845715683746?…>",
+      "meta": {
+        "title": "Treehouse in Tofte · ★5.0 · 1 bedroom · 1 bed · 1 bath",
+        "description": "Brand New: SkyNest Treehouse @ StayBoreal Resort",
+        "favicon": "https://a0.muscache.com/im/pictures/AirbnbPlatformAssets/AirbnbPlatformAssets-Favicons/original/d1fcc0b3-865f-485a-b28b-43ca0bf7c891.png?im_w=240",
+        "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1770040845715683746/original/ef7072d2-2ca5-4eba-8fa3-9515094b28a8.jpeg?im_w=720&width=720&quality=70&auto=webp"
+      }
     }
   ]
 }
