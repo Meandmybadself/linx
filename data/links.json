@@ -8184,6 +8184,38 @@
         "favicon": "https://s.yimg.com/cv/apiv2/default/icons/favicon_y24_48x48.svg",
         "image": "https://s.yimg.com/lo/mysterio/api/65f42886932f0349067916cb8ae0e8b2b233040459f945a28f87100438c5d37f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F68623ccf-c69b-452e-aaf2-58c7b96380cb"
       }
+    },
+    {
+      "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1791250155.013729",
+      "collectedAt": "2026-10-06T02:49:04.836Z",
+      "messageText": "<https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date|theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date>",
+      "meta": {
+        "title": "Apple’s “HomePad” will reportedly launch on October 13th",
+        "description": "Apple has a trio of new devices on the way for Siri AI",
+        "favicon": "https://www.theverge.com/static-assets/icons/favicon-32x32.png",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      }
+    },
+    {
+      "url": "https://www.printmag.com/obsessions/today-s-obsession-rob-jones-grammy/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1791242214.663259",
+      "collectedAt": "2026-10-06T02:49:04.836Z",
+      "messageText": "<https://www.printmag.com/obsessions/today-s-obsession-rob-jones-grammy/|printmag.com/obsessions/today-s-obsession-rob-jones-grammy>",
+      "meta": {
+        "title": "Today's Obsession: Rob Jones' Grammy – PRINT Magazine",
+        "description": "Photo by Kevork Djansezian, Getty Images Rob Jones, crazy-talented poster designer, just won a Grammy for his packaging design for the White Stripes’ Under Great White Northern Lights box set. And, appropriately, he did what any self-respecting designer would do given such an opportunity: he friggin",
+        "favicon": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2023/08/cropped-print-favicon.png?fit=32%2C32&quality=80&ssl=1",
+        "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2011/02/2a34d8_51289fe4a20b49e5826a2364d8d748b7mv2.jpg?fit=586%2C330&quality=89&ssl=1"
+      }
     }
   ]
 }
