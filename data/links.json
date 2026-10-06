@@ -8232,6 +8232,49 @@
         "favicon": "https://discovers.antisound.net/favicon.ico",
         "image": "./ogimage.jpg"
       }
+    },
+    {
+      "url": "https://khalilstemmler.com/articles/domain-driven-design-intro/",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1791299010.357549",
+      "collectedAt": "2026-10-06T16:41:08.335Z",
+      "messageText": "<https://khalilstemmler.com/articles/domain-driven-design-intro/|khalilstemmler.com/articles/domain-driven-design-intro> our version was based on this guy's book",
+      "meta": {
+        "title": "An Introduction to Domain-Driven Design (DDD) | Khalil Stemmler",
+        "description": "Domain-Driven Design (DDD) is the approach to software development which enables us to translate complex problem domains into rich, expressive and evolving software. It's the way we design applications when the needs of our users are complex.",
+        "favicon": "https://khalilstemmler.com/favicon-32x32.png?v=694d39374a33acd28503afea58620062",
+        "image": "https://khalilstemmler.com/img/blog/ddd-intro/ddd-intro.png"
+      }
+    },
+    {
+      "url": "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1791304611.626539",
+      "collectedAt": "2026-10-06T16:41:10.017Z",
+      "messageText": "jfc\n\n<https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923|kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400…>",
+      "meta": {
+        "title": "GameStop Is Now Selling Used PS5 Pros For $1400",
+        "description": "That's about $500 more than a new PlayStation 5 Pro",
+        "favicon": "https://kotaku.com/favicon.svg",
+        "image": "https://kotaku.com/app/uploads/2024/11/3f20ff633940fef6470c433bd33d10a3-1200x675.jpg"
+      }
+    },
+    {
+      "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1791292736.082039",
+      "collectedAt": "2026-10-06T16:41:10.928Z",
+      "messageText": "<https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release|venturebeat.com/…/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-plann",
+      "meta": null
     }
   ]
 }
