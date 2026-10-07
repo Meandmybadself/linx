@@ -8275,6 +8275,69 @@
       "collectedAt": "2026-10-06T16:41:10.928Z",
       "messageText": "<https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release|venturebeat.com/…/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-plann",
       "meta": null
+    },
+    {
+      "url": "https://newrepublic.com/post/216331/usps-hires-shady-armed-security-midterms",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791404688.832319",
+      "collectedAt": "2026-10-07T21:51:45.366Z",
+      "messageText": "regarding the USPS stuff...\n&gt; Prosegur’s guards are currently located at USPS facilities in Atlanta, Chicago, Denver, Indianapolis, Phoenix, San Diego, and Tampa, according to internal memos obtained by Raw Story.\n&gt; ...\n&gt; “No one from the postal service will be supervisi",
+      "meta": {
+        "title": "USPS Hires Security Service With History of Human Rights Abuse",
+        "description": "Almost 1,000 armed security officers have been sent to at least 55 post office facilities.",
+        "favicon": "https://newrepublic.com//assets.newrepublic.com/assets/favicons/favicon-32x32.png",
+        "image": "https://images.newrepublic.com/0dbe97e476f177f358a232d818352b8f9e03c209.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg"
+      }
+    },
+    {
+      "url": "https://www.channel3000.com/news/national-and-world-news/man-accused-of-throwing-lime-scooters-off-st-paul-bridge-police-say-as-many-as/article_4a5145cb-9249-533e-916a-740dcce06fdf.html",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C014U5GU9AM",
+      "channelName": "minnepocalypse",
+      "timestamp": "1791386829.617739",
+      "collectedAt": "2026-10-07T21:51:45.556Z",
+      "messageText": "<https://www.channel3000.com/news/national-and-world-news/man-accused-of-throwing-lime-scooters-off-st-paul-bridge-police-say-as-many-as/article_4a5145cb-9249-533e-916a-740dcce06fdf.html|channel3000.com/news/…/article_4a51…>",
+      "meta": {
+        "title": "Man accused of throwing Lime scooters off St. Paul bridge; police say \"as many as 100\" scooters missing",
+        "description": "Click here for updates on this story",
+        "favicon": "https://www.channel3000.com/content/tncms/site/icon.ico",
+        "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/f1/8f112e47-5d7b-58b3-ad39-a47b31c95fa1/6ac649d8c6324.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      }
+    },
+    {
+      "url": "https://github.com/gatewai-dev/framefields",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1791396321.012679",
+      "collectedAt": "2026-10-07T21:51:45.606Z",
+      "messageText": "<https://github.com/gatewai-dev/framefields|https://github.com/gatewai-dev/framefields> ",
+      "meta": {
+        "title": "GitHub - gatewai-dev/framefields: Code-first video, rendered natively on WebGPU.",
+        "description": "Code-first video, rendered natively on WebGPU. Contribute to gatewai-dev/framefields development by creating an account on GitHub.",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/7b041441f0781a4bf97bd04bcb9b1a3734de02c38d52fd641fe2deadc71c1f5d/gatewai-dev/framefields"
+      }
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=49984923",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1791383973.389049",
+      "collectedAt": "2026-10-07T21:51:45.606Z",
+      "messageText": "Interesting discussion on HN about OpenAI's math post from yesterday (\"Sharing AI progress in mathematics\") <https://news.ycombinator.com/item?id=49984923|news.ycombinator.com/item?…>\n\nThe personal anecdotes that make this discussion an important read. E.g., a quote from the top ",
+      "meta": {
+        "title": "Sharing AI progress in mathematics | Hacker News",
+        "description": null,
+        "favicon": "https://news.ycombinator.com/y18.svg"
+      }
     }
   ]
 }
