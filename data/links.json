@@ -8370,6 +8370,59 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/836259634_1119666543909252_651291572812582275_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SZlQQkotQJYQ7kNvwGf-N01&_nc_oc=AdplrwYucW8lZ_eHX61VXv_57WTI1WP71zkoyuv14PxSjXmrNW2jkYdLsRk1LnLkL1I&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TyVAefQfMAHs4JN0_Cmf-g&_nc_ss=7c689&oh=00_AQNUmZLSxVZOI1B8T_zyj9WHmcsCFErvAZaYpHar3TtOtw&oe=6ACCD63C"
       }
+    },
+    {
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791459370.231349",
+      "collectedAt": "2026-10-08T16:16:34.094Z",
+      "messageText": "<https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html|nytimes.com/2026/…/execution-fort-hood-shooting.html>",
+      "meta": null
+    },
+    {
+      "url": "http://trumpaccount.com",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791454829.708089",
+      "collectedAt": "2026-10-08T16:16:34.094Z",
+      "messageText": "Curious what tracking stuff is in the trump account app, and what the terms look like that you have to accept before you can claim your kid's account that was created for you. And why they chose <http://trumpaccount.com|trumpaccount.com> instead of <http://trumpaccount.gov|trumpa",
+      "meta": {
+        "title": "Trump Accounts",
+        "description": null,
+        "favicon": "https://trumpaccount.com/favicon.ico"
+      }
+    },
+    {
+      "url": "http://trumpaccount.gov",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791454829.708089",
+      "collectedAt": "2026-10-08T16:16:34.094Z",
+      "messageText": "Curious what tracking stuff is in the trump account app, and what the terms look like that you have to accept before you can claim your kid's account that was created for you. And why they chose <http://trumpaccount.com|trumpaccount.com> instead of <http://trumpaccount.gov|trumpa",
+      "meta": null
+    },
+    {
+      "url": "https://x.com/matthew_d_green/status/2107992246360649879?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1791471649.746849",
+      "collectedAt": "2026-10-08T16:16:34.869Z",
+      "messageText": "Associate professor of cryptography at John Hopkins and well known blogger <https://x.com/matthew_d_green/status/2107992246360649879?s=46&amp;t=IJHLV-Wzshlm2J3E2yO_Kw|x.com/matthew_d_green/status/2107992246360649879?t=…&amp;s=46>",
+      "meta": {
+        "title": "Matthew Green (@matthew_d_green) on X",
+        "description": "@kmad @matthew_pines I think we might lose public key cryptography.",
+        "favicon": "https://x.com/favicon.ico",
+        "image": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_400x400.jpg"
+      }
     }
   ]
 }
