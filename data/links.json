@@ -8423,6 +8423,22 @@
         "favicon": "https://x.com/favicon.ico",
         "image": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_400x400.jpg"
       }
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791483254.068969",
+      "collectedAt": "2026-10-08T21:55:09.035Z",
+      "messageText": "this was revealed last week...his intelligence might actually be Grok's intelligence\n\n<https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/|techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-",
+      "meta": {
+        "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president | TechCrunch",
+        "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024"
+      }
     }
   ]
 }
