@@ -8469,6 +8469,21 @@
         "description": null,
         "favicon": "https://favicon.cargocollective.com/158128.ico"
       }
+    },
+    {
+      "url": "https://youtu.be/gYg0Y2AxmL4?is=kW62-u3EvcVrnxPN",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1791555617.542569",
+      "collectedAt": "2026-10-09T21:31:12.231Z",
+      "messageText": "Another political ad that's not terrible (although 100% borrowed interest)\n\n<https://youtu.be/gYg0Y2AxmL4?is=kW62-u3EvcVrnxPN|https://youtu.be/gYg0Y2AxmL4?is=kW62-u3EvcVrnxPN> ",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/0a4db377/img/favicon_32x32.png"
+      }
     }
   ]
 }
