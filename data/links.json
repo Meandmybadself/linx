@@ -8439,6 +8439,36 @@
         "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
         "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024"
       }
+    },
+    {
+      "url": "https://thekevinscott.com/use-your-filesystem-as-database-with-dirsql/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1791506813.697479",
+      "collectedAt": "2026-10-09T01:54:05.990Z",
+      "messageText": "a very interesting tool\n<https://thekevinscott.com/use-your-filesystem-as-database-with-dirsql/>",
+      "meta": {
+        "title": "Use your filesystem as your database | Kevin Scott",
+        "description": null,
+        "favicon": "https://thekevinscott.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://itscolortime.com/Meat-Load-Dipper",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1791506485.382719",
+      "collectedAt": "2026-10-09T01:54:06.247Z",
+      "messageText": "\n<https://itscolortime.com/Meat-Load-Dipper>",
+      "meta": {
+        "title": "Meat Load Dipper - COLORTIME",
+        "description": null,
+        "favicon": "https://favicon.cargocollective.com/158128.ico"
+      }
     }
   ]
 }
