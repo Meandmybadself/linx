@@ -8484,6 +8484,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/0a4db377/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://myvseebox.net/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1791639287.134389",
+      "collectedAt": "2026-10-10T15:09:28.480Z",
+      "messageText": "anyone use one of these?\n<https://myvseebox.net/>",
+      "meta": {
+        "title": "vSeebox Official Store",
+        "description": "Discover the power of next-generation entertainment with vSeeBox V6 Plus, Elite Ultra, and V6 Max. Enjoy seamless 4K streaming, lightning-fast performance, and endless entertainment options — all in one sleek, high-performance device built for your viewing pleasure.",
+        "favicon": "https://myvseebox.net/favicon.ico",
+        "image": "https://myvseebox.net/cdn/shop/files/Untitled.png?v=1761685319&width=1200"
+      }
     }
   ]
 }
