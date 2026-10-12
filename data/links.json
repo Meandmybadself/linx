@@ -8526,6 +8526,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/0a4db377/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://dawnwalkergame.com/us/en/home",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1791758161.422039",
+      "collectedAt": "2026-10-12T01:06:32.372Z",
+      "messageText": "Not sure if I mentioned it before but, _<https://dawnwalkergame.com/us/en/home|The Blood of Dawnwalker>_ is a wonderful ARPG. The first game from some former Witcher devs: Rebel Wolves. You have 30 days to save your family. The day/night cycle is broken up into a total of 16 segm",
+      "meta": {
+        "title": "The Blood of Dawnwalker – A Dark Fantasy Narrative Sandbox RPG",
+        "description": "The Blood of Dawnwalker is the first chapter of Rebel Wolves’ brand new role-playing saga – a single-player open-world dark fantasy AAA RPG with a strong focus on story and narrative. Developed on Unreal Engine 5 for PC, PlayStation and Xbox.",
+        "favicon": "https://assets.dawnwalkergame.com/143575/1733934701-web-app-manifest-512x512.png?auto=format&h=16&w=16",
+        "image": "https://assets.dawnwalkergame.com/143575/1767466699-og-image.jpg?auto=format&fit=max&w=1200"
+      }
     }
   ]
 }
