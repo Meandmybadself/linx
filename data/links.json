@@ -8542,6 +8542,47 @@
         "favicon": "https://assets.dawnwalkergame.com/143575/1733934701-web-app-manifest-512x512.png?auto=format&h=16&w=16",
         "image": "https://assets.dawnwalkergame.com/143575/1767466699-og-image.jpg?auto=format&fit=max&w=1200"
       }
+    },
+    {
+      "url": "https://www.patreon.com/joohn/posts/rapid-response-172116588",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1791817697.546069",
+      "collectedAt": "2026-10-12T18:51:54.053Z",
+      "messageText": "one of my friends posted a \"<https://www.patreon.com/joohn/posts/rapid-response-172116588|fact check>\" thing about that data center thing. I hadn't heard anything about it up until that point. apparently there are images circulating, showing \"bot traffic\" essentially cut in half.",
+      "meta": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pTAZtrsU-84",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1791817445.463229",
+      "collectedAt": "2026-10-12T18:51:54.141Z",
+      "messageText": "Good explanation of things\n<https://www.youtube.com/watch?v=pTAZtrsU-84|youtube.com/watch?v=pTAZtrsU-84>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/d58ce706/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1791815952.210339",
+      "collectedAt": "2026-10-12T18:51:55.029Z",
+      "messageText": "Oral history of Mario 64\n<https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/|pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc>",
+      "meta": {
+        "title": "The Making Of Super Mario 64 – full Giles Goddard interview (NGC) – pixelatron",
+        "description": null,
+        "favicon": "https://pixelatron.com/favicon.ico"
+      }
     }
   ]
 }
