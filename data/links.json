@@ -8583,6 +8583,21 @@
         "description": null,
         "favicon": "https://pixelatron.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://newsletter.eisenhower.school/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8AN87HEY",
+      "channelName": "complaints",
+      "timestamp": "1791907811.530889",
+      "collectedAt": "2026-10-13T17:27:31.336Z",
+      "messageText": "<https://newsletter.eisenhower.school/|newsletter.eisenhower.school>",
+      "meta": {
+        "title": "Eisenhower PTO Newsletter",
+        "description": "Past issues of the Eisenhower PTO Newsletter.",
+        "favicon": "https://newsletter.eisenhower.school/favicon-32.png"
+      }
     }
   ]
 }
