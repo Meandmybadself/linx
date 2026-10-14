@@ -8660,6 +8660,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/eae06bf0/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://www.reelizer.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1791947121.099489",
+      "collectedAt": "2026-10-14T07:21:20.244Z",
+      "messageText": "\n<https://www.reelizer.com/>",
+      "meta": {
+        "title": "Movie Culture, Curated",
+        "description": "A curated collection of standout film art, posters, and collectibles, selected since 2011.",
+        "favicon": "https://www.reelizer.com/dist/favicons/favicon-16x16.png",
+        "image": "https://d32bvdxq027wxn.cloudfront.net/assets/volumes/images/globals/643/_1200x630_crop_center-center_82_none/AboutImage.jpg?mtime=1758621676"
+      }
     }
   ]
 }
