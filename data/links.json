@@ -8754,6 +8754,22 @@
         "favicon": "https://arcraiders.com/favicon.ico?d963a6949be0624a",
         "image": "https://assets.arcraiders.com/static/social/arc-raiders-social.png"
       }
+    },
+    {
+      "url": "https://wallhop.io/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C8AN87HEY",
+      "channelName": "complaints",
+      "timestamp": "1792077665.330069",
+      "collectedAt": "2026-10-15T18:08:07.247Z",
+      "messageText": "<https://wallhop.io/|wallhop.io>",
+      "meta": {
+        "title": "wallhop · Free Paywall Bypass",
+        "description": "Read the article. Skip the wall. Paste a link and read it free, no signup.",
+        "favicon": "https://wallhop.io/data:image/svg+xml,%3Csvg xmlns=",
+        "image": "https://wallhop.io/og.png"
+      }
     }
   ]
 }
