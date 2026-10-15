@@ -8770,6 +8770,17 @@
         "favicon": "https://wallhop.io/data:image/svg+xml,%3Csvg xmlns=",
         "image": "https://wallhop.io/og.png"
       }
+    },
+    {
+      "url": "https://www.reddit.com/r/MyBoyfriendIsAI/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1792099816.907249",
+      "collectedAt": "2026-10-15T22:03:01.421Z",
+      "messageText": "Fascinating subreddit: <https://www.reddit.com/r/MyBoyfriendIsAI/|reddit.com/r/MyBoyfriendIsAI>",
+      "meta": null
     }
   ]
 }
