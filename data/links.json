@@ -8792,6 +8792,22 @@
       "collectedAt": "2026-10-16T17:15:29.918Z",
       "messageText": "tl;dr - warm winter over the next three months.\n<https://bringmethenews.com/minnesota-weather/new-noaa-outlook-reveals-what-minnesota-can-expect-this-winter|bringmethenews.com/minnesota-weather/new-noaa-outlook-reveals-what-minnesota-can-expect-this-winter>",
       "meta": null
+    },
+    {
+      "url": "https://www.ui.com/us/en/wifi/whole-home",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C2TE7RHQE",
+      "channelName": "smarthome",
+      "timestamp": "1792177506.592129",
+      "collectedAt": "2026-10-16T20:47:49.836Z",
+      "messageText": "Anyone using <https://www.ui.com/us/en/wifi/whole-home|ui.com/us/en/wifi/whole-home> ? I'm looking at all the usual suspects (tp-link, netgear) for the home network in the new house.",
+      "meta": {
+        "title": "UniFi WiFi - Ubiquiti",
+        "description": "WiFi perfected. Thoughtfully designed access points with enterprise-class performance, effortless scalability, and an unrivaled management experience.",
+        "favicon": "https://www.ui.com/microsite/favicon-32x32.png",
+        "image": "https://www.ui.com/microsite/og-image.wifi.jpg?v=2"
+      }
     }
   ]
 }
