@@ -7396,7 +7396,12 @@
       "timestamp": "1789421819.638409",
       "collectedAt": "2026-09-15T04:24:16.594Z",
       "messageText": "<https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.LLsi.QC0JxA7iTKYw&amp;smid=url-share|nytimes.com/2026/…/trump-ai-safety-jensen-huang.html?smid=url-share&amp;…>",
-      "meta": null
+      "meta": {
+        "title": "President Trump Is on the Line About an A.I. Slowdown",
+        "description": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
+        "favicon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-BfpYO4zl.svg",
+        "image": "https://static01.nyt.com/images/2026/09/15/arts/15vid-huang-trump-call-cover-image/15vid-huang-trump-call-cover-image-facebookJumbo.jpg"
+      }
     },
     {
       "url": "https://www.instagram.com/reel/DdPXmI7ghBk/?stkn=dzNteHN3b21tOTgz",
