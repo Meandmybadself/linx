@@ -8829,6 +8829,44 @@
         "favicon": "https://already-clean.goodfire.com/data:image/svg+xml,%3Csvg xmlns=",
         "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png"
       }
+    },
+    {
+      "url": "https://youtu.be/HYA9e0XOUGk?is=jRTpJFWXr9RuEdtb",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1792440569.966219",
+      "collectedAt": "2026-10-19T20:28:39.283Z",
+      "messageText": "You didn't know your day needed this yet: <https://youtu.be/HYA9e0XOUGk?is=jRTpJFWXr9RuEdtb|https://youtu.be/HYA9e0XOUGk?is=jRTpJFWXr9RuEdtb> ",
+      "meta": null
+    },
+    {
+      "url": "https://www.tmz.com/2026/10/19/richard-riehle-dead/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1792436259.156049",
+      "collectedAt": "2026-10-19T20:28:39.429Z",
+      "messageText": "RIP _Jump to Conclusions mat_ inventor. <https://www.tmz.com/2026/10/19/richard-riehle-dead/|tmz.com/2026/10/19/richard-riehle-dead>",
+      "meta": {
+        "title": "'Office Space' Star Richard Riehle Dead at 78",
+        "description": "Richard Riehle -- famous for his role as Tom Smykowski in \"Office Space\" -- is dead ... TMZ has learned.",
+        "favicon": "https://static.tmz.com/tmz-web/icons/favicon-32x32-v1.png",
+        "image": "https://imagez.tmz.com/image/9d/16by9/2026/10/19/9d328d627cf94ec78015990284ac2026_xl.jpg"
+      }
+    },
+    {
+      "url": "https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C34NRGNJZ",
+      "channelName": "food-n-drink",
+      "timestamp": "1792439841.406629",
+      "collectedAt": "2026-10-19T20:28:39.855Z",
+      "messageText": "<https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465|apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban…>",
+      "meta": null
     }
   ]
 }
