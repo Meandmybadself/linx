@@ -8898,6 +8898,21 @@
       "collectedAt": "2026-10-20T00:10:52.648Z",
       "messageText": "heh. <https://www.reddit.com/r/LocalLLM/comments/1xa14q4/the_us_is_ordering_every_civilian_agency_to_rip/|reddit.com/r/LocalLLM/…/the_us_is_ordering_every_civilian_agency_to_rip>",
       "meta": null
+    },
+    {
+      "url": "https://youtu.be/X1ROtCS7jWA?is=mDhictScUOYu7vtg",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1792534864.798639",
+      "collectedAt": "2026-10-20T23:42:44.912Z",
+      "messageText": "<https://youtu.be/X1ROtCS7jWA?is=mDhictScUOYu7vtg|https://youtu.be/X1ROtCS7jWA?is=mDhictScUOYu7vtg> ",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/4cb73bce/img/favicon_32x32.png"
+      }
     }
   ]
 }
