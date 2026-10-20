@@ -8839,7 +8839,11 @@
       "timestamp": "1792440569.966219",
       "collectedAt": "2026-10-19T20:28:39.283Z",
       "messageText": "You didn't know your day needed this yet: <https://youtu.be/HYA9e0XOUGk?is=jRTpJFWXr9RuEdtb|https://youtu.be/HYA9e0XOUGk?is=jRTpJFWXr9RuEdtb> ",
-      "meta": null
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/2fe123f7/img/favicon_32x32.png"
+      }
     },
     {
       "url": "https://www.tmz.com/2026/10/19/richard-riehle-dead/",
@@ -8866,6 +8870,33 @@
       "timestamp": "1792439841.406629",
       "collectedAt": "2026-10-19T20:28:39.855Z",
       "messageText": "<https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465|apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban…>",
+      "meta": null
+    },
+    {
+      "url": "https://www.newsweek.com/four-supreme-court-justices-sit-out-decision-preventing-quorum-12588708",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1792454639.412389",
+      "collectedAt": "2026-10-20T00:10:52.402Z",
+      "messageText": "wow. they actually recused themselves. <https://www.newsweek.com/four-supreme-court-justices-sit-out-decision-preventing-quorum-12588708|newsweek.com/four-supreme-court-justices-sit-out-decision-preventing-quorum…>",
+      "meta": {
+        "title": "Four justices sit Supreme Court copyright decision, preventing quorum",
+        "description": "Without enough participating justices to hear the case, the decision will revert to its lower-court ruling.",
+        "favicon": "https://www.newsweek.com/favicon.svg",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2208717684.jpg?w=1200&crop=1"
+      }
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xa14q4/the_us_is_ordering_every_civilian_agency_to_rip/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1792448679.436129",
+      "collectedAt": "2026-10-20T00:10:52.648Z",
+      "messageText": "heh. <https://www.reddit.com/r/LocalLLM/comments/1xa14q4/the_us_is_ordering_every_civilian_agency_to_rip/|reddit.com/r/LocalLLM/…/the_us_is_ordering_every_civilian_agency_to_rip>",
       "meta": null
     }
   ]
