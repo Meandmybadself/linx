@@ -8913,6 +8913,43 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/4cb73bce/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1792551287.169439",
+      "collectedAt": "2026-10-21T04:11:31.786Z",
+      "messageText": "<https://emudhra.we-have-a-problem.com/|https://emudhra.we-have-a-problem.com/> ",
+      "meta": {
+        "title": "eMudhra Intermediate CA Compromise",
+        "description": "eMudhra Intermediate CA Compromise",
+        "favicon": "https://emudhra.we-have-a-problem.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://thehill.com/policy/6146157-new-passport-design-unveiled-heres-when-you-can-get-it/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1792549385.615459",
+      "collectedAt": "2026-10-21T04:11:32.265Z",
+      "messageText": "also, someone a while back was saying they hoped they'd change the passports (I think mainly so Trump wasn't on it - which I think was only for the \"patriot passport\" anyway).. it appears that they're in the middle of doing just that..\n<https://thehill.com/policy/6146157-new-pass",
+      "meta": null
+    },
+    {
+      "url": "https://thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1792543487.027949",
+      "collectedAt": "2026-10-21T04:11:32.265Z",
+      "messageText": "jesus fuck. because of course Nick Shirley got $250k from the taxpayers.\n<https://thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program/|thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program>",
+      "meta": null
     }
   ]
 }
