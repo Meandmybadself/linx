@@ -8938,7 +8938,12 @@
       "timestamp": "1792549385.615459",
       "collectedAt": "2026-10-21T04:11:32.265Z",
       "messageText": "also, someone a while back was saying they hoped they'd change the passports (I think mainly so Trump wasn't on it - which I think was only for the \"patriot passport\" anyway).. it appears that they're in the middle of doing just that..\n<https://thehill.com/policy/6146157-new-pass",
-      "meta": null
+      "meta": {
+        "title": "New passport design unveiled: Here’s when you can get it",
+        "description": "“I can see Americans sitting at airports all over the world, like why do people keep flipping through the page?” Rubio said.",
+        "favicon": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=32",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26272553513472-e1791922469833.jpg?w=1280"
+      }
     },
     {
       "url": "https://thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program/",
@@ -8949,7 +8954,12 @@
       "timestamp": "1792543487.027949",
       "collectedAt": "2026-10-21T04:11:32.265Z",
       "messageText": "jesus fuck. because of course Nick Shirley got $250k from the taxpayers.\n<https://thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program/|thehill.com/homenews/administration/6160787-trump-vance-whistleblower-program>",
-      "meta": null
+      "meta": {
+        "title": "Trump launches $25M whistleblower incentive program; Nick Shirley receives first payout",
+        "description": "President Trump and Vice President Vance announced a $25 million whistleblower program that would pay out cash for people who tip off the federal government about fraudsters. The Fraud Whistleblowe…",
+        "favicon": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?w=32",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trumpdonald_whitehouse_AP_102026-e1792522014103.jpg?w=1280"
+      }
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1mtFU-e5VpNa7NumKqDcp_fvPVTiNQKlbsgvoGn7MIqA/edit?gid=0#gid=0",
