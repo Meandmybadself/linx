@@ -9133,6 +9133,38 @@
         "favicon": "https://www.wsmv.com//webpubcontent.gray.tv/gray/arc-fusion-assets/images/favicons/wsmv/favicon.ico?d=600&mxId=00000000",
         "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/46YGZ5MDBFEHBOHTQKM54MBAUU.jpg?auth=5465708ef2990a2f28445843b222bf9f6038819ba226269ff0ad4f46a3c546b3&width=1200&height=600&smart=true"
       }
+    },
+    {
+      "url": "https://www.threads.com/@theworddegree/post/De8_PzCAdY3",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793019276.724079",
+      "collectedAt": "2026-10-26T17:13:22.060Z",
+      "messageText": "<https://www.threads.com/@theworddegree/post/De8_PzCAdY3|Sorry, threads.>",
+      "meta": {
+        "title": "Jess (@theworddegree) on Threads",
+        "description": "Everyone stop dressing up ✋  halloweens already been won",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
+        "image": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/816948174_17981117112097370_6064353684351919066_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc0LmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEUMsVnqZLpfY2wCncMTOiKKl_6_8PMYZS-5tMyjFzpmTw4X9KMF08cJ_v2Q2EHDHU&_nc_ohc=4lfbCOZiQ8cQ7kNvwGNCMAA&_nc_gid=EP6JDl8kZfzY4fzmB3B0ZA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNXqgR1bOdwbGk0Epb33137d-y50ymduKoVrzmMuBjMRw&oe=6AE5736C&_nc_sid=10d13b"
+      }
+    },
+    {
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1793033592.215879",
+      "collectedAt": "2026-10-26T17:13:22.866Z",
+      "messageText": "mistral also launched a voice model that looks interesting: <https://mistral.ai/news/voxtral-3/|mistral.ai/news/voxtral-3>",
+      "meta": {
+        "title": "Voxtral 3: Speech-to-Text, TTS & Voice Agents | Mistral",
+        "description": "Voxtral 3: Mistral",
+        "favicon": "https://mistral.ai/favicon.ico",
+        "image": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png"
+      }
     }
   ]
 }
