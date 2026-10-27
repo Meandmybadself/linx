@@ -9165,6 +9165,69 @@
         "favicon": "https://mistral.ai/favicon.ico",
         "image": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BeOSI5bGjIo",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1793126755.047969",
+      "collectedAt": "2026-10-27T19:58:01.881Z",
+      "messageText": "final Dune Messiah trailer...lots of story reveals so maybe stay away if you're so inclined:\n\n<https://www.youtube.com/watch?v=BeOSI5bGjIo|youtube.com/watch?v=BeOSI5bGjIo>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/46f6e5ef/img/favicon_32x32.png"
+      }
+    },
+    {
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1793117075.936739",
+      "collectedAt": "2026-10-27T19:58:01.881Z",
+      "messageText": "<https://pudding.cool/2026/10/kevin-bacon/|pudding.cool/2026/10/kevin-bacon>",
+      "meta": {
+        "title": "The Real Kevin Bacon",
+        "description": "Demystifying the Six Degrees of Kevin Bacon: the past, present, and future centers of Hollywood",
+        "favicon": "https://pudding.cool/favicon.ico",
+        "image": "https://pudding.cool/2026/10/kevin-bacon/assets/social.jpg"
+      }
+    },
+    {
+      "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793126380.837789",
+      "collectedAt": "2026-10-27T19:58:02.621Z",
+      "messageText": "Will Netanyahu finally fall?\n <https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl|cnn.com/2026/…/israel-elections-live-results-latest-votes-intl>",
+      "meta": {
+        "title": "Israel election latest: Record Israeli election turnout as Netanyahu fights to remain in power | CNN",
+        "description": "The first vote since the October 7 attacks is a tight race between Benjamin Netanyahu and ex-military chief Gadi Eisenkot — with the future direction of Israel at stake. Follow for live updates.",
+        "favicon": "https://www.cnn.com/media/sites/cnn/favicon.ico",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26300228680709.jpg?c=16x9&q=w_800,c_fill"
+      }
+    },
+    {
+      "url": "https://shop.tempest.earth/products/lightmap-weather-display-tempest",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1793115268.401509",
+      "collectedAt": "2026-10-27T19:58:03.102Z",
+      "messageText": "I've never heard of this display tech before.  Looks neat.\n<https://shop.tempest.earth/products/lightmap-weather-display-tempest>",
+      "meta": {
+        "title": "LightMap Weather Display for Tempest",
+        "description": "LightMap’s Weather Display transforms your Tempest weather data into a dynamic, colorful conversation piece.",
+        "favicon": "https://shop.tempest.earth//shop.tempest.earth/cdn/shop/files/shopify_mark.png?crop=center&height=32&v=1707864301&width=32",
+        "image": "http://shop.tempest.earth/cdn/shop/files/WithTempest.jpg?v=1743094036"
+      }
     }
   ]
 }
