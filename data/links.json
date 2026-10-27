@@ -9228,6 +9228,37 @@
         "favicon": "https://shop.tempest.earth//shop.tempest.earth/cdn/shop/files/shopify_mark.png?crop=center&height=32&v=1707864301&width=32",
         "image": "http://shop.tempest.earth/cdn/shop/files/WithTempest.jpg?v=1743094036"
       }
+    },
+    {
+      "url": "https://store.steampowered.com/app/2068500/Permaban/",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1793139921.377649",
+      "collectedAt": "2026-10-27T23:42:21.286Z",
+      "messageText": "<https://store.steampowered.com/app/2068500/Permaban/|store.steampowered.com/app/2068500/Permaban>",
+      "meta": {
+        "title": "Save 25% on Permaban on Steam",
+        "description": "It",
+        "favicon": "https://store.steampowered.com/favicon.ico",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2068500/c549332060a4dae47befeb94ac1ffb08b2bef3c2/capsule_616x353.jpg?t=1790718770"
+      }
+    },
+    {
+      "url": "https://qwen-neurons-site.vercel.app/#atlas",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1793135219.383279",
+      "collectedAt": "2026-10-27T23:42:21.579Z",
+      "messageText": "This is wonderful: <https://qwen-neurons-site.vercel.app/#atlas|qwen-neurons-site.vercel.app/#…>",
+      "meta": {
+        "title": "Neuron Persona Library",
+        "description": "Each of Qwen3-8B’s 442,368 MLP neurons, pushed alone up and down, then asked “Who are you?”. Search the replies or open any neuron.",
+        "favicon": "https://qwen-neurons-site.vercel.app/data:image/svg+xml,%3Csvg xmlns="
+      }
     }
   ]
 }
