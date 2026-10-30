@@ -9301,6 +9301,33 @@
       "collectedAt": "2026-10-29T18:53:23.703Z",
       "messageText": "it's happening\n\n<https://www.reddit.com/r/yuzu/comments/1xih967/donkey_kong_bananza_running_on_pc/?%24deep_link=true&amp;correlation_id=aed37b65-b54f-492f-a679-404f9f55ba37&amp;post_fullname=t3_1xih967&amp;post_index=2&amp;ref=email_digest&amp;ref_campaign=email_digest&amp;ref_so",
       "meta": null
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1793383179.792249",
+      "collectedAt": "2026-10-30T18:30:16.110Z",
+      "messageText": "Insane. Intel drops 30% yet is still up 60% YTD. <https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-day-since-1974-122551272.html|https://finance.yahoo.com/markets/article/intel-plunges-as-much-as-26-briefly-on-pace-for-its-worst-",
+      "meta": {
+        "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+        "description": "A weak outlook has Intel on pace for one of its worst days in half a century.",
+        "favicon": "https://s.yimg.com/cv/apiv2/finance/YF_Favicon_16.png",
+        "image": "https://s.yimg.com/lo/mysterio/api/66ce7bacc77f235b78bb9aeab3da41a555696718a5a995a480d4817e5f148245/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F653ca1d1-2186-47eb-8fab-aa45dcd35daa"
+      }
+    },
+    {
+      "url": "https://www.reddit.com/r/FortWorth/s/W0o6OBFPXO",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793382483.819869",
+      "collectedAt": "2026-10-30T18:30:17.267Z",
+      "messageText": "This election is fucked.\n<https://www.reddit.com/r/FortWorth/s/W0o6OBFPXO|https://www.reddit.com/r/FortWorth/s/W0o6OBFPXO>",
+      "meta": null
     }
   ]
 }
