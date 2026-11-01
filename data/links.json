@@ -9370,6 +9370,21 @@
         "description": null,
         "favicon": "https://overcast.fm/favicon.ico"
       }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BHkhIjG0DKc",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1793503948.647979",
+      "collectedAt": "2026-11-01T05:29:16.201Z",
+      "messageText": "<https://www.youtube.com/watch?v=BHkhIjG0DKc|youtube.com/watch?v=BHkhIjG0DKc>",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/e358493a/img/favicon_32x32.png"
+      }
     }
   ]
 }
