@@ -1354,7 +1354,12 @@
       "timestamp": "1776097358.691029",
       "collectedAt": "2026-04-13T16:35:11.102Z",
       "messageText": "This was rough: <https://lindseyhallwrites.substack.com/p/i-read-my-boyfriends-chatgpt-and>",
-      "meta": null
+      "meta": {
+        "title": "I Stumbled Across My Boyfriend's ChatGPT and It Ended Our Relationship",
+        "description": "It wasn't cheating or some dramatic betrayal. What I read was worse: his uncertainty.",
+        "favicon": "https://substackcdn.com/image/fetch/$s_!vwmB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd8c7e5-9f5a-4387-b36b-0478eeee8f30%2Ffavicon-16x16.png",
+        "image": "https://substackcdn.com/image/fetch/$s_!1ktN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F568eb669-2f9f-4337-9b73-26a19326a328_1440x1440.jpeg"
+      }
     },
     {
       "url": "https://www.instagram.com/reel/DW_7zWSEWiB/?igsh=MXZ2bWRuYng4Zm1haw==",
@@ -3023,7 +3028,12 @@
       "timestamp": "1779210396.407909",
       "collectedAt": "2026-05-19T17:06:48.335Z",
       "messageText": "LOL <https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330>",
-      "meta": null
+      "meta": {
+        "title": "‘The Worst Leak That I’ve Witnessed’: U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+        "description": "Passwords were stored as plain text in a public GitHub repository.",
+        "favicon": "https://gizmodo.com/favicon.png?v1",
+        "image": "https://gizmodo.com/app/uploads/2025/11/DHS-homeland-security-sign-1200x675.jpg"
+      }
     },
     {
       "url": "https://www.plex.tv/blog/new-lifetime-plex-pass-pricing/",
@@ -4000,7 +4010,12 @@
       "timestamp": "1781191998.188149",
       "collectedAt": "2026-06-11T17:23:04.773Z",
       "messageText": "<https://mceglowski.substack.com/p/laffaire-siloxane?utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true|This was a fun read from Maciej Ceglowski> about the water reclaimer on the ISS.",
-      "meta": null
+      "meta": {
+        "title": "L'Affaire Siloxane",
+        "description": "How antiperspirant fumes nearly got NASA to evacuate the space station",
+        "favicon": "https://substackcdn.com/image/fetch/$s_!RmmK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F881e0423-292f-4c1d-a2ca-3f921ec1dcf7%2Ffavicon-16x16.png",
+        "image": "https://substackcdn.com/image/fetch/$s_!-qAs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c3e7e24-7ac5-432f-87b2-a7415c90b313_1100x707.jpeg"
+      }
     },
     {
       "url": "https://www.instagram.com/p/DZH_JEKmobW/?igsh=eDkwY3drb29wOWR3",
@@ -6273,7 +6288,12 @@
       "timestamp": "1786364138.711189",
       "collectedAt": "2026-08-10T16:58:36.854Z",
       "messageText": "This was fun: <https://fritinancy.substack.com/p/52-things-i-learned-in-2025|fritinancy.substack.com/p/52-things-i-learned-in-2025>",
-      "meta": null
+      "meta": {
+        "title": "52 things I learned in 2025",
+        "description": "The news (to me) this year.",
+        "favicon": "https://substackcdn.com/image/fetch/$s_!Tngi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6266569a-07bd-4147-8194-7edaa993832d%2Ffavicon-16x16.png",
+        "image": "https://substackcdn.com/image/fetch/$s_!2ZHR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64ae2634-c5da-4100-9d6a-e5a5cfb1586e_896x515.jpeg"
+      }
     },
     {
       "url": "https://kotaku.com/fans-were-originally-supposed-to-have-seen-much-more-of-light-no-fire-by-now-but-sean-murray-is-just-having-too-much-fun-working-on-it-i-dont-think-people-realize-just-how-ambitious-and-crazy-it-2000722957",
@@ -8009,7 +8029,12 @@
       "timestamp": "1790791763.183459",
       "collectedAt": "2026-09-30T23:35:53.488Z",
       "messageText": "And generally: <https://thezvi.substack.com/>",
-      "meta": null
+      "meta": {
+        "title": "Don't Worry About the Vase | Zvi Mowshowitz | Substack",
+        "description": "A world made of gears. Doing both speed premium short term updates and long term world model building. Currently focused on weekly AI updates. Explorations include AI, policy, rationality, medicine and fertility, education and games. Click to read Don't Worry About the Vase, by Zvi Mowshowitz, a Sub",
+        "favicon": "https://substackcdn.com/icons/substack/icon.svg",
+        "image": "https://substackcdn.com/image/fetch/$s_!8FQ8!,w_400,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4e61e08-4086-4cba-a82c-d31d64270804_48x48.png"
+      }
     },
     {
       "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
@@ -8036,7 +8061,12 @@
       "timestamp": "1790791740.206839",
       "collectedAt": "2026-09-30T23:35:53.488Z",
       "messageText": "Some strong stuff:\n• <https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities|anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>\n• <https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen|thezvi.substack.com/p/o",
-      "meta": null
+      "meta": {
+        "title": "On Ezra Klein’s Podcast With Jensen Huang",
+        "description": "Jensen Huang accidentally called for shutting down OpenAI and intentionally called for spending vastly more on safety.",
+        "favicon": "https://substackcdn.com/icons/substack/icon.svg",
+        "image": "https://substackcdn.com/image/fetch/$s_!V-ry!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1419c412-d3f9-49db-b7f3-329eaa83c0d4_1416x690.png"
+      }
     },
     {
       "url": "https://www.instagram.com/reel/Dc7FWRDT_nV/?stkn=MXVlNnplbHBvdWdxcw==",
