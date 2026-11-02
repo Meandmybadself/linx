@@ -28,7 +28,7 @@ function main() {
   // Group links by date
   const grouped = groupByDate(uniqueLinks);
 
-  const html = buildHtml(grouped, uniqueLinks.length);
+  const html = buildHtml(grouped, uniqueLinks.length, getChannels(uniqueLinks));
 
   writeFileSync(join(OUT_DIR, "index.html"), html);
   writeFileSync(join(OUT_DIR, "CNAME"), "mnncrpls.meandmybadself.com\n");
@@ -57,6 +57,17 @@ function groupByDate(links) {
   return groups;
 }
 
+function getChannels(links) {
+  const counts = {};
+  for (const link of links) {
+    const name = link.channelName || "unknown";
+    counts[name] = (counts[name] || 0) + 1;
+  }
+  return Object.keys(counts)
+    .sort((a, b) => a.localeCompare(b))
+    .map((name) => ({ name, count: counts[name] }));
+}
+
 function escapeHtml(str) {
   // Decode first: scraped metadata may already be entity-encoded, and escaping
   // it again would render the raw entity ("can&#x27;t") on the page.
@@ -72,7 +83,7 @@ function truncateUrl(url, maxLen = 80) {
   return url.slice(0, maxLen - 1) + "\u2026";
 }
 
-function buildHtml(grouped, totalCount) {
+function buildHtml(grouped, totalCount, channels) {
   const dates = Object.keys(grouped);
 
   const linkSections = dates
@@ -90,7 +101,14 @@ function buildHtml(grouped, totalCount) {
           const desc = meta.description ? `\n          <span class="desc">${escapeHtml(meta.description)}</span>` : "";
           const favicon = meta.favicon ? `<img class="favicon" src="${escapeHtml(meta.favicon)}" alt="" onerror="this.style.display='none'"> ` : "";
 
-          return `        <li class="link-item">
+          const searchText = escapeHtml(
+            [meta.title, meta.description, link.url, link.userName, link.channelName]
+              .filter(Boolean)
+              .join(" ")
+              .toLowerCase()
+          );
+
+          return `        <li class="link-item" data-search="${searchText}" data-channel="${channel}">
           ${favicon}<a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">${title}</a>${desc}
           <span class="meta">${escapeHtml(displayUrl)}</span>
           <span class="meta">shared by <strong>${user}</strong> in <strong>#${channel}</strong></span>
@@ -173,6 +191,53 @@ function buildHtml(grouped, totalCount) {
       color: var(--text-dim);
       font-size: 0.8rem;
       margin-top: 0.25rem;
+    }
+
+    .controls {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .controls input[type="search"] {
+      flex: 1;
+      min-width: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.5rem 0.75rem;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.85rem;
+    }
+
+    .controls input[type="search"]::placeholder {
+      color: var(--text-dim);
+    }
+
+    .controls input[type="search"]:focus,
+    .controls select:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    .controls select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.5rem 0.75rem;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: var(--text-dim);
+      font-size: 0.85rem;
     }
 
     .day {
@@ -311,7 +376,19 @@ function buildHtml(grouped, totalCount) {
       <h1>MNNCRPLS <span>Linx</span></h1>
       <p class="subtitle">${totalCount} link${totalCount !== 1 ? "s" : ""} collected from Slack</p>
     </header>
-    <main>
+${
+  totalCount > 0
+    ? `    <div class="controls">
+      <input type="search" id="search" placeholder="Fuzzy search…" autocomplete="off" aria-label="Search links">
+      <select id="channel-filter" aria-label="Filter by channel">
+        <option value="">All channels</option>
+${channels.map((c) => `        <option value="${escapeHtml(c.name)}">#${escapeHtml(c.name)} (${c.count})</option>`).join("\n")}
+      </select>
+    </div>
+    <p class="no-results" id="no-results" hidden>No links match your filters.</p>
+`
+    : ""
+}    <main>
 ${
   dates.length > 0
     ? linkSections
@@ -327,6 +404,71 @@ ${
       <a href="https://join.slack.com/t/minnecrapolis/shared_invite/zt-c5egggfa-jbm1ep8dCF_5AFCK6F7muw">Join minnecrapolis</a> &middot; <a href="https://github.com/Meandmybadself/linx">Source</a> &middot; Updated hourly
     </footer>
   </div>
+  <script>
+    (function () {
+      var searchInput = document.getElementById("search");
+      var channelSelect = document.getElementById("channel-filter");
+      if (!searchInput || !channelSelect) return;
+
+      var items = Array.prototype.slice.call(document.querySelectorAll(".link-item"));
+      var days = Array.prototype.slice.call(document.querySelectorAll(".day"));
+      var noResults = document.getElementById("no-results");
+
+      // A token matches if it appears as a substring, or as a character
+      // subsequence of a single word (so "ytube" matches "youtube").
+      function tokenMatches(token, text, words) {
+        if (text.indexOf(token) !== -1) return true;
+        for (var w = 0; w < words.length; w++) {
+          var word = words[w];
+          var ti = 0;
+          for (var i = 0; i < word.length && ti < token.length; i++) {
+            if (word[i] === token[ti]) ti++;
+          }
+          if (ti === token.length) return true;
+        }
+        return false;
+      }
+
+      function fuzzyMatches(query, text, words) {
+        var tokens = query.split(/\s+/).filter(Boolean);
+        for (var i = 0; i < tokens.length; i++) {
+          if (!tokenMatches(tokens[i], text, words)) return false;
+        }
+        return true;
+      }
+
+      // Precompute word lists once
+      var wordCache = items.map(function (item) {
+        return (item.dataset.search || "").split(/[^a-z0-9]+/).filter(Boolean);
+      });
+
+      function applyFilters() {
+        var query = searchInput.value.trim().toLowerCase();
+        var channel = channelSelect.value;
+        var anyVisible = false;
+
+        items.forEach(function (item, idx) {
+          var show = true;
+          if (channel && item.dataset.channel !== channel) show = false;
+          if (show && query) {
+            show = fuzzyMatches(query, item.dataset.search || "", wordCache[idx]);
+          }
+          item.hidden = !show;
+          if (show) anyVisible = true;
+        });
+
+        days.forEach(function (day) {
+          var hasVisible = day.querySelector(".link-item:not([hidden])") !== null;
+          day.hidden = !hasVisible;
+        });
+
+        if (noResults) noResults.hidden = anyVisible;
+      }
+
+      searchInput.addEventListener("input", applyFilters);
+      channelSelect.addEventListener("change", applyFilters);
+    })();
+  </script>
   <script src="https://webrung.com/webrung.js"></script>
 </body>
 </html>
