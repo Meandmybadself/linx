@@ -9442,6 +9442,22 @@
       "collectedAt": "2026-11-03T02:50:45.533Z",
       "messageText": "<https://www.crowdsupply.com/certain-things/sprout-pi-mainboard?utm_source=Robin_Sloan_sent_me|https://www.crowdsupply.com/certain-things/sprout-pi-mainboard?utm_source=Robin_Sloan_sent_me> ",
       "meta": null
+    },
+    {
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1793724419.463289",
+      "collectedAt": "2026-11-03T18:19:19.244Z",
+      "messageText": "<https://github.com/wesbos/3d-model-anything|github.com/wesbos/3d-model-anything>",
+      "meta": {
+        "title": "GitHub - wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. - wesbos/3d-model-anything",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://opengraph.githubassets.com/5c3c75167c5e82265d761572d242397c274a2b18509683c8524e5e829ea6c2d6/wesbos/3d-model-anything"
+      }
     }
   ]
 }
