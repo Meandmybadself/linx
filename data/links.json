@@ -9415,6 +9415,33 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/e358493a/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://otape.org/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1793662732.492849",
+      "collectedAt": "2026-11-03T02:50:43.168Z",
+      "messageText": "\n<https://otape.org/>",
+      "meta": {
+        "title": "oTAPE · The open digital cassette format",
+        "description": "An open format for digital cassettes: two sides of fixed length, continuous recordings, artwork and cassette-style controls in one portable file.",
+        "favicon": "https://otape.org/assets/img/favicon.svg",
+        "image": "https://otape.org/assets/img/og.jpg"
+      }
+    },
+    {
+      "url": "https://www.crowdsupply.com/certain-things/sprout-pi-mainboard?utm_source=Robin_Sloan_sent_me",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1793659550.584059",
+      "collectedAt": "2026-11-03T02:50:45.533Z",
+      "messageText": "<https://www.crowdsupply.com/certain-things/sprout-pi-mainboard?utm_source=Robin_Sloan_sent_me|https://www.crowdsupply.com/certain-things/sprout-pi-mainboard?utm_source=Robin_Sloan_sent_me> ",
+      "meta": null
     }
   ]
 }
