@@ -9532,6 +9532,33 @@
         "favicon": "https://illos.dev/icon.svg",
         "image": "https://media.illos.dev/og/e57e128b/library.og.jpg"
       }
+    },
+    {
+      "url": "https://www.thestreet.com/retirement/mark-cuban-says-your-401k-is-part-of-the-healthcare-problem",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793826119.323429",
+      "collectedAt": "2026-11-04T21:10:32.055Z",
+      "messageText": "Damnit, Mark! Stop making sense!\n<https://www.thestreet.com/retirement/mark-cuban-says-your-401k-is-part-of-the-healthcare-problem|https://www.thestreet.com/retirement/mark-cuban-says-your-401k-is-part-of-the-healthcare-problem>",
+      "meta": null
+    },
+    {
+      "url": "https://jacobin.com/2026/11/mamdani-midterms-trump-affordability-socialists",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793813396.253819",
+      "collectedAt": "2026-11-04T21:10:32.055Z",
+      "messageText": "<https://jacobin.com/2026/11/mamdani-midterms-trump-affordability-socialists|jacobin.com/2026/11/mamdani-midterms-trump-affordability-socialists>",
+      "meta": {
+        "title": "Last Night’s Victories Were Made Possible by Zohran Mamdani",
+        "description": "Zohran Mamdani understood something no one else did: most Donald Trump voters had their reasons for going for Trump, and those reasons were economic. Mamdani saw that, and he saw a path to winning them back. He gave it a name: affordability.",
+        "favicon": "https://jacobin.com/static/img/logo/logo-favicon.png",
+        "image": "https://media.jacobin.com/images/2026/11/321526704025.jpg"
+      }
     }
   ]
 }
