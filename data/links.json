@@ -9485,6 +9485,37 @@
         "favicon": "https://rikiyat.github.io/favicon.ico",
         "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png"
       }
+    },
+    {
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1793767746.423539",
+      "collectedAt": "2026-11-04T05:45:26.465Z",
+      "messageText": "<https://mrdoob.github.io/codevember-2026/01/|mrdoob.github.io/codevember-2026/01>",
+      "meta": {
+        "title": "Codevember 2006 / 01 / Fold",
+        "description": null,
+        "favicon": "https://mrdoob.github.io/data:,"
+      }
+    },
+    {
+      "url": "https://illos.dev/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1793751551.941909",
+      "collectedAt": "2026-11-04T05:45:27.151Z",
+      "messageText": "<https://illos.dev/|illos.dev>",
+      "meta": {
+        "title": "Generate animated SVG illustrations that stay on-style.",
+        "description": "Animated SVG illustrations for product sites, and a skill that teaches Claude Code, Cursor and Codex to draw new ones in your style.",
+        "favicon": "https://illos.dev/icon.svg",
+        "image": "https://media.illos.dev/og/4085b9cd/home.og.jpg"
+      }
     }
   ]
 }
