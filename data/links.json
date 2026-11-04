@@ -9516,6 +9516,22 @@
         "favicon": "https://illos.dev/icon.svg",
         "image": "https://media.illos.dev/og/4085b9cd/home.og.jpg"
       }
+    },
+    {
+      "url": "https://illos.dev/library",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1793798668.847609",
+      "collectedAt": "2026-11-04T14:08:32.055Z",
+      "messageText": "2x hot <https://illos.dev/library|illos.dev/library>",
+      "meta": {
+        "title": "Library · Illos.dev",
+        "description": "158 animated product illustrations for websites, in Shader, HUD, Isometric and Interface. 65 are free to copy as a React component or SVG.",
+        "favicon": "https://illos.dev/icon.svg",
+        "image": "https://media.illos.dev/og/e57e128b/library.og.jpg"
+      }
     }
   ]
 }
