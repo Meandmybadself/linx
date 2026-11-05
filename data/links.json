@@ -9594,6 +9594,32 @@
         "description": "Amazon.com: Flat-D Flatulence Deodorizer - Disposable (30 Day Supply) : Health & Household",
         "favicon": "https://www.amazon.com/favicon.ico"
       }
+    },
+    {
+      "url": "https://sshhole.com/",
+      "userId": "U01JE9346SW",
+      "userName": "superluc",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1793893279.606699",
+      "collectedAt": "2026-11-05T18:37:32.396Z",
+      "messageText": "<https://sshhole.com/|sshhole.com>\nmy GOODness. Anyone running ssh on musl or alpine is uh …",
+      "meta": {
+        "title": "*sshole · sshhole.com",
+        "description": "openssh on musl linux has been letting people into password-less accounts since 2016.",
+        "favicon": "https://sshhole.com/favicon.ico"
+      }
+    },
+    {
+      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?gift=ySw2DbTf56HgXVGEytuWJTM_bD83aLjcQNln_Bj13pg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1793897453.844919",
+      "collectedAt": "2026-11-05T18:37:33.898Z",
+      "messageText": "<https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?gift=ySw2DbTf56HgXVGEytuWJTM_bD83aLjcQNln_Bj13pg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share|theatlantic.com/ideas/…/689301?gift=…&amp;…>",
+      "meta": null
     }
   ]
 }
