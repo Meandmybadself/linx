@@ -5359,7 +5359,11 @@
       "timestamp": "1784061349.276849",
       "collectedAt": "2026-07-14T22:03:10.830Z",
       "messageText": "anyone that has invested in EOSE have you seen: <https://investors.eose.com/news-releases/news-release-details/eos-energy-announces-commencement-rights-offering>",
-      "meta": null
+      "meta": {
+        "title": "Eos Energy Announces Commencement of Rights Offering | Eos Energy Enterprises, Inc.",
+        "description": "EDISON, N.J., July 02, 2026 (GLOBE NEWSWIRE) -- Eos Energy Enterprises, Inc. (NASDAQ: EOSE) (\"Eos\" or the “Company”), America’s leading innovator in designing, manufacturing, and providing zinc-based long duration energy storage (LDES) systems sourced and manufactured in the United States, today",
+        "favicon": "https://investors.eose.com/sites/g/files/knoqqb56166/files/eos_favicon_32x32.png"
+      }
     },
     {
       "url": "https://www.mnstatefair.org/new/food/",
@@ -9574,6 +9578,21 @@
         "description": "The homepage sells American heritage. The product page says “Imported.” How to easily spot fake heritage, and where to find goods still made in the USA.",
         "favicon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a72e3e01-a392-46dd-8bb9-dba20d0abace/thumb_favicon-48x48.png",
         "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4f0dd408-b1b7-412e-a2bd-bcd9d2093147/American_Heritage_Card.png?t=1793646414"
+      }
+    },
+    {
+      "url": "https://www.amazon.com/dp/B01FDXMSR6?plpRedirect=mhFallback&amp;ref=clp_hp_h_pc",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0750GGRY",
+      "channelName": "ideas",
+      "timestamp": "1793850362.039549",
+      "collectedAt": "2026-11-05T10:37:20.160Z",
+      "messageText": "<https://www.amazon.com/dp/B01FDXMSR6?plpRedirect=mhFallback&amp;ref=clp_hp_h_pc|amazon.com/dp/…?plpRedirect=mhFallback&amp;…>",
+      "meta": {
+        "title": "Amazon.com: Flat-D Flatulence Deodorizer - Disposable (30 Day Supply) : Health & Household",
+        "description": "Amazon.com: Flat-D Flatulence Deodorizer - Disposable (30 Day Supply) : Health & Household",
+        "favicon": "https://www.amazon.com/favicon.ico"
       }
     }
   ]
