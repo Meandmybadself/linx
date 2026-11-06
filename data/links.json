@@ -9620,6 +9620,38 @@
       "collectedAt": "2026-11-05T18:37:33.898Z",
       "messageText": "<https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?gift=ySw2DbTf56HgXVGEytuWJTM_bD83aLjcQNln_Bj13pg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share|theatlantic.com/ideas/…/689301?gift=…&amp;…>",
       "meta": null
+    },
+    {
+      "url": "https://cleanyour.tv/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1793920568.761529",
+      "collectedAt": "2026-11-05T23:59:31.329Z",
+      "messageText": "\n<https://cleanyour.tv/>",
+      "meta": {
+        "title": "CleanYourTV: remove ads and bloat from Android TV and Google TV",
+        "description": "Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.",
+        "favicon": "https://cleanyour.tv/icon.svg",
+        "image": "https://cleanyour.tv/docs/og.png"
+      }
+    },
+    {
+      "url": "https://github.com/saragordic/window-sweaters",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1793906431.720249",
+      "collectedAt": "2026-11-05T23:59:31.329Z",
+      "messageText": "<https://github.com/saragordic/window-sweaters|github.com/saragordic/window-sweaters>",
+      "meta": {
+        "title": "GitHub - saragordic/window-sweaters: A macOS menu-bar app that dresses your windows in knitted borders.",
+        "description": "A macOS menu-bar app that dresses your windows in knitted borders. - saragordic/window-sweaters",
+        "favicon": "https://github.githubassets.com/favicons/favicon",
+        "image": "https://repository-images.githubusercontent.com/1370747786/3a594398-957d-455e-a8cd-65e13e23e4b4"
+      }
     }
   ]
 }
