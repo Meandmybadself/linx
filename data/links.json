@@ -9769,6 +9769,37 @@
         "favicon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/893975042_1821051525685384_2203591623538051272_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PGcZPdMiSH8Q7kNvwF3QEqj&_nc_oc=Ado42iF4s1hKUTGauTv8dl8ilrcK_dGj42tSzkmh-_zmeWZzThIaxu2B3O17zC6K0U0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ULf88q9VZcNuzcdIQOYz7w&_nc_ss=7c689&oh=00_AQTY8q5kXI05DKUEPKVUwg6nxSwE-4weS6GXoxoW-2dRhQ&oe=6AF7FBDF"
       }
+    },
+    {
+      "url": "https://bsky.app/profile/damjef.bsky.social/post/3mzsgbnati22w",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1794259920.577319",
+      "collectedAt": "2026-11-10T03:20:07.554Z",
+      "messageText": "<https://bsky.app/profile/damjef.bsky.social/post/3mzsgbnati22w|https://bsky.app/profile/damjef.bsky.social/post/3mzsgbnati22w>",
+      "meta": {
+        "title": "David J (@damjef.bsky.social)",
+        "description": "“Office Safety”\n\nIf you don’t squeal with laughter five seconds into this you may be clinically dead.",
+        "favicon": "https://web-cdn.bsky.app/static/favicon-32x32.png",
+        "image": "https://video.bsky.app/watch/did%3Aplc%3Asihpw65g5f5ptzlsu4jybz2t/bafkreid32xqtll3erwp7xtiazml3hvsmrkynzpujurrggcty4vshovpvdi/thumbnail.jpg"
+      }
+    },
+    {
+      "url": "https://postalpro.usps.com/zcb",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03R9KA72",
+      "channelName": "code",
+      "timestamp": "1794264807.487589",
+      "collectedAt": "2026-11-10T03:20:07.917Z",
+      "messageText": "<https://postalpro.usps.com/zcb|postalpro.usps.com/zcb>\ncc: <@UJWP6EWUT>",
+      "meta": {
+        "title": "USPS® ZIP Code Boundaries | PostalPro",
+        "description": null,
+        "favicon": "https://postalpro.usps.com/themes/custom/rdi/favicon.ico"
+      }
     }
   ]
 }
