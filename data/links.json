@@ -9800,6 +9800,22 @@
         "description": null,
         "favicon": "https://postalpro.usps.com/themes/custom/rdi/favicon.ico"
       }
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/socket",
+      "userId": "U2JL7PCLT",
+      "userName": "disco",
+      "channelId": "C2ECLKBT2",
+      "channelName": "jorbs",
+      "timestamp": "1794332969.752299",
+      "collectedAt": "2026-11-10T20:22:33.297Z",
+      "messageText": "We’re hiring for a lot of positions, DM me if any of these appeal to you\n<https://jobs.ashbyhq.com/socket>",
+      "meta": {
+        "title": "Socket Jobs",
+        "description": "Socket Jobs",
+        "favicon": "https://cdn.ashbyprd.com/cdn_assets/e7daeedd9c801e7bab70cfdf95f52c6a0756dee1/favicon.svg",
+        "image": "https://app.ashbyhq.com/api/images/org-theme-social/a1e99752-fffd-415c-ab55-e28b4ba99921/7d72d052-3c02-4c15-82be-5c6ead5f436a/6f96f191-6422-44f7-89bb-b5fb43545d25.png"
+      }
     }
   ]
 }
