@@ -9816,6 +9816,22 @@
         "favicon": "https://cdn.ashbyprd.com/cdn_assets/e7daeedd9c801e7bab70cfdf95f52c6a0756dee1/favicon.svg",
         "image": "https://app.ashbyhq.com/api/images/org-theme-social/a1e99752-fffd-415c-ab55-e28b4ba99921/7d72d052-3c02-4c15-82be-5c6ead5f436a/6f96f191-6422-44f7-89bb-b5fb43545d25.png"
       }
+    },
+    {
+      "url": "https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram/",
+      "userId": "U066SSPD1",
+      "userName": "msonnicksen",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1794349040.705259",
+      "collectedAt": "2026-11-11T01:08:02.900Z",
+      "messageText": "<https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram/|https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram/>",
+      "meta": {
+        "title": "Microsoft VP Creates Open-Source GPU Task Manager That Shows Exactly What's Using Your VRAM",
+        "description": "Microsoft VP Scott Hanselman creates GPU Taskman, a free, open-source GPU monitoring utility that tracks VRAM usage, processes, and AI workloads.",
+        "favicon": "https://wccftech.com/icons/favicon-32x32.png",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-25.jpg"
+      }
     }
   ]
 }
