@@ -9832,6 +9832,38 @@
         "favicon": "https://wccftech.com/icons/favicon-32x32.png",
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-25.jpg"
       }
+    },
+    {
+      "url": "https://www.threads.com/share/BAShOOmDt7",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1794360321.837529",
+      "collectedAt": "2026-11-11T09:06:29.908Z",
+      "messageText": "<https://www.threads.com/share/BAShOOmDt7|https://www.threads.com/share/BAShOOmDt7> ",
+      "meta": {
+        "title": "Roman Sheremeta (@roman_economist) on Threads",
+        "description": "Very interesting infographic showing how the midterm election results would look like if only a specific category of people voted - men, women, Hispanic, black, white, educated, etc.",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
+        "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/899443819_18138048589660430_3046953561906406787_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjk5MTEzNzk4MjMwMjkxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WWKp5YwGEhoQ7kNvwFKVnWE&_nc_oc=Adq3hV88JSUy-DEZOB6v7O_xK38Ko7NNRNVT3x5XRUEJpcYWXXfTcIJETU4YSLFUUSQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=X7G91Rruu_lzwfHlLlVcBw&_nc_ss=7c289&oh=00_AQSskmuoz_nrmRgbTtd0b6dI8UH2Gr4kGh6woqBVHB4f_A&oe=6AFA0168"
+      }
+    },
+    {
+      "url": "https://theonion.com/jensen-huang-vents-about-investigation-to-new-russian-girlfriend/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1794365959.538309",
+      "collectedAt": "2026-11-11T09:06:30.643Z",
+      "messageText": "<https://theonion.com/jensen-huang-vents-about-investigation-to-new-russian-girlfriend/|theonion.com/jensen-huang-vents-about-investigation-to-new-russian-girlfriend>",
+      "meta": {
+        "title": "Jensen Huang Vents About Investigation To New Russian Girlfriend",
+        "description": "LOS ALTOS HILLS, CA—Ranting at length as he shared details about his stressful work life, NVIDIA CEO Jensen Huang reportedly vented to his new Russian girlfriend Tuesday about the ongoing corporate investigation into his conduct at the company. “I’m telling you, Svetlana, you have no idea the insane",
+        "favicon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32",
+        "image": "https://theonion.com/wp-content/uploads/2026/11/Jensen_Huang_Vents-NIB-PH.jpg"
+      }
     }
   ]
 }
