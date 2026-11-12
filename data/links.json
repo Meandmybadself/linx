@@ -7926,7 +7926,12 @@
       "timestamp": "1790714072.069609",
       "collectedAt": "2026-09-29T20:36:30.289Z",
       "messageText": "Boo.\n<https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html|nytimes.com/2026/…/nyc-second-home-tax-lawsuit.html>",
-      "meta": null
+      "meta": {
+        "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
+        "description": "A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani.",
+        "favicon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-BfpYO4zl.svg",
+        "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31met-tax-suit-hearing-loses-jbqm/31met-tax-suit-hearing-loses-jbqm-facebookJumbo.jpg"
+      }
     },
     {
       "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
@@ -8419,7 +8424,12 @@
       "timestamp": "1791459370.231349",
       "collectedAt": "2026-10-08T16:16:34.094Z",
       "messageText": "<https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html|nytimes.com/2026/…/execution-fort-hood-shooting.html>",
-      "meta": null
+      "meta": {
+        "title": "Army Sets Date for First Military Execution by Firing Squad Since 1945",
+        "description": "Maj. Nidal Malik Hasan, a former Army psychiatrist, will be shot to death on Dec. 3 at Fort Hood, where he killed 13 and wounded 32 in 2009.",
+        "favicon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-BfpYO4zl.svg",
+        "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-execution-vmfz/07dc-execution-vmfz-facebookJumbo.jpg"
+      }
     },
     {
       "url": "http://trumpaccount.com",
@@ -9921,7 +9931,43 @@
       "timestamp": "1794435484.421149",
       "collectedAt": "2026-11-12T00:21:30.847Z",
       "messageText": "<https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.bdtg.O80GXFsIBDtL&amp;smid=nytcore-ios-share|https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.bdtg.O80GXFsIBDtL&amp;",
-      "meta": null
+      "meta": {
+        "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+        "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+        "favicon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-BfpYO4zl.svg",
+        "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg"
+      }
+    },
+    {
+      "url": "https://nps-solovair.com/",
+      "userId": "UHV95CEHZ",
+      "userName": "chloe",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1794495158.398649",
+      "collectedAt": "2026-11-12T17:28:31.868Z",
+      "messageText": ":point_up: interesting fact about doc martens and enshittification: the English factory that originally made their boots is still operating <https://nps-solovair.com/|under a different brand name>, so you can still get the old higher-quality docs. DM and Solovair had a contract f",
+      "meta": {
+        "title": "NPS Solovair B2C",
+        "description": "NPS Solovair B2C",
+        "favicon": "https://nps-solovair.com//nps-solovair.com/cdn/shop/files/SHOPIFY_FAVICON.png?v=1789050354"
+      }
+    },
+    {
+      "url": "https://www.yahoo.com/news/us/articles/hegseth-honors-guard-scolded-him-162233370.html",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1794502948.618319",
+      "collectedAt": "2026-11-12T17:28:32.396Z",
+      "messageText": "<https://www.yahoo.com/news/us/articles/hegseth-honors-guard-scolded-him-162233370.html|yahoo.com/news/us/articles/hegseth-honors-guard-scolded-him…>",
+      "meta": {
+        "title": "Hegseth honors guard who scolded him for laughter at Tomb of Unknown Soldier with medal",
+        "description": "Pete Hegseth honored the guard who scolded him and a group of advisers a day earlier at the Tomb of the Unknown Soldier.",
+        "favicon": "https://www.yahoo.com/favicon.ico?b0867f93a36b360e",
+        "image": "https://s.yimg.com/lo/mysterio/api/fc31b4973cdb96dfad6882972d248eaec4fff0a979edb5e24f1a38bf2b496e8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Ffc5537137dc9df6bd76febff2882c762.jpg"
+      }
     }
   ]
 }
