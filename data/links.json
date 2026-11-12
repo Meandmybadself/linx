@@ -9895,6 +9895,33 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/the-jensen-huang-affair/id1528594034?i=1000800978985",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C083VJTGQ",
+      "channelName": "stocks",
+      "timestamp": "1794441061.737289",
+      "collectedAt": "2026-11-12T00:21:29.631Z",
+      "messageText": "Worth listening to: <https://podcasts.apple.com/us/podcast/the-jensen-huang-affair/id1528594034?i=1000800978985|podcasts.apple.com/us/podcast/the-jensen-huang-affair/id1528594034?i=1000800978985>",
+      "meta": {
+        "title": "The Jensen Huang Affair",
+        "description": "Podcast Episode · Hard Fork · November 10 · 31m",
+        "favicon": "https://podcasts.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/de/c5/20/dec52092-6be0-9007-875c-6aa8e690a905/mza_12490014444602578825.jpg/1200x1200bf-60.jpg"
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.bdtg.O80GXFsIBDtL&amp;smid=nytcore-ios-share",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1794435484.421149",
+      "collectedAt": "2026-11-12T00:21:30.847Z",
+      "messageText": "<https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.bdtg.O80GXFsIBDtL&amp;smid=nytcore-ios-share|https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.bdtg.O80GXFsIBDtL&amp;",
+      "meta": null
     }
   ]
 }
