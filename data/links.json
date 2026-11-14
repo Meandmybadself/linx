@@ -10011,6 +10011,22 @@
       "collectedAt": "2026-11-14T02:07:48.770Z",
       "messageText": "<https://www.reddit.com/r/delta/s/NkSzaivfGJ|https://www.reddit.com/r/delta/s/NkSzaivfGJ> ",
       "meta": null
+    },
+    {
+      "url": "https://aboard.com/lets-have-a-mouse-party/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C090PV8UA",
+      "channelName": "media",
+      "timestamp": "1794637186.824079",
+      "collectedAt": "2026-11-14T09:59:19.251Z",
+      "messageText": "\n<https://aboard.com/lets-have-a-mouse-party/>",
+      "meta": {
+        "title": "Let’s have a Mouse Party!",
+        "description": "A free, secure way to watch videos together on the web (no server needed).",
+        "favicon": "https://aboard.com/wp-content/uploads/2026/04/favicon-150x150.png",
+        "image": "https://aboard.com/wp-content/uploads/2026/11/mouseparty-TALL-1024x686.png"
+      }
     }
   ]
 }
