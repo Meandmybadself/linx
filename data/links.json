@@ -10027,6 +10027,21 @@
         "favicon": "https://aboard.com/wp-content/uploads/2026/04/favicon-150x150.png",
         "image": "https://aboard.com/wp-content/uploads/2026/11/mouseparty-TALL-1024x686.png"
       }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mamdanification",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1794843640.354529",
+      "collectedAt": "2026-11-16T20:10:12.245Z",
+      "messageText": "<https://en.wikipedia.org/wiki/Mamdanification|en.wikipedia.org/wiki/Mamdanification>",
+      "meta": {
+        "title": "Mamdanification - Wikipedia",
+        "description": null,
+        "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
+      }
     }
   ]
 }
