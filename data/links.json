@@ -10042,6 +10042,22 @@
         "description": null,
         "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico"
       }
+    },
+    {
+      "url": "https://x.com/AndrewCurran_/status/2122405479066599792?s=20",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1794861125.706909",
+      "collectedAt": "2026-11-17T03:34:48.925Z",
+      "messageText": "Heads up: <https://x.com/AndrewCurran_/status/2122405479066599792?s=20|x.com/AndrewCurran_/status/2122405479066599792?s=20>",
+      "meta": {
+        "title": "Andrew Curran (@AndrewCurran_) on X",
+        "description": "There is a developing situation with some U.S. banks. This is not yet confirmed as a cyberattack. But it does seem to be spreading. It started with Chase and Bank of America and now Wells Fargo, Zelle, Capital One, and U.S. Bank are also reporting issues. Logins are down on both web and app, and ev…",
+        "favicon": "https://x.com/favicon.ico",
+        "image": "https://pbs.twimg.com/media/HXRMiRpasAAJQUY?format=webp&name=large"
+      }
     }
   ]
 }
