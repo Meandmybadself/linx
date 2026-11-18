@@ -10154,6 +10154,22 @@
         "favicon": "https://fontsight.xyz/favicon.ico",
         "image": "https://fontsight.xyz/og.png"
       }
+    },
+    {
+      "url": "https://rubber-hose-ui.vercel.app/gallery/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C0341EMFK97",
+      "channelName": "art-n-design",
+      "timestamp": "1794971504.308849",
+      "collectedAt": "2026-11-18T03:30:20.996Z",
+      "messageText": "<https://rubber-hose-ui.vercel.app/gallery/|rubber-hose-ui.vercel.app/gallery>\n<@U053J0CM5>",
+      "meta": {
+        "title": "Rubber Hose UI",
+        "description": "Eleven ordinary UI controls as a 1930s rubber-hose cartoon. Every control is a character.",
+        "favicon": "https://rubber-hose-ui.vercel.app/favicon.ico",
+        "image": "title.jpg"
+      }
     }
   ]
 }
