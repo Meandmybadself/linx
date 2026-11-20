@@ -10361,6 +10361,22 @@
         "favicon": "https://www.human-md.ai/data:image/svg+xml,%3Csvg xmlns=",
         "image": "https://www.human-md.ai/og.png"
       }
+    },
+    {
+      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1795127730.136879",
+      "collectedAt": "2026-11-20T02:54:47.867Z",
+      "messageText": "<https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html|cnbc.com/2026/11/19/intuit-mailchimp-sale-bending…>",
+      "meta": {
+        "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+        "description": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+        "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+        "image": "https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&w=1920&h=1080"
+      }
     }
   ]
 }
