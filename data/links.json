@@ -10377,6 +10377,22 @@
         "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
         "image": "https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&w=1920&h=1080"
       }
+    },
+    {
+      "url": "https://thefirmwarehub.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1795196214.705819",
+      "collectedAt": "2026-11-20T19:51:13.287Z",
+      "messageText": "these are awesome: <https://thefirmwarehub.com/|thefirmwarehub.com>",
+      "meta": {
+        "title": "The Firmware Hub – open-source firmwares for the FM-1, and growing",
+        "description": "A growing collection of open-source firmwares, starting with the M-VAVE FM-1: always the newest release, one click each, and back. Make Firmware, Not War.",
+        "favicon": "https://thefirmwarehub.com/data:image/svg+xml,%3Csvg xmlns=",
+        "image": "https://thefirmwarehub.com/og.png"
+      }
     }
   ]
 }
