@@ -10393,6 +10393,17 @@
         "favicon": "https://thefirmwarehub.com/data:image/svg+xml,%3Csvg xmlns=",
         "image": "https://thefirmwarehub.com/og.png"
       }
+    },
+    {
+      "url": "https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/",
+      "userId": "U03B5CG4Y",
+      "userName": "iammoen",
+      "channelId": "C0FH73DGT",
+      "channelName": "jeffslist",
+      "timestamp": "1795373618.922929",
+      "collectedAt": "2026-11-22T19:18:22.779Z",
+      "messageText": "Selling a Raspberry pi 5 8gb board. I had bought it to power <https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/|this kickstarter> but they just announced “oh so we decided that instead of being powered by a raspi5 we are going to c",
+      "meta": null
     }
   ]
 }
