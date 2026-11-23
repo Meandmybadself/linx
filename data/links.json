@@ -10435,6 +10435,22 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "favicon": "https://www.youtube.com/s/desktop/95c3254f/img/favicon_32x32.png"
       }
+    },
+    {
+      "url": "https://socialyze.app",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1795406877.969819",
+      "collectedAt": "2026-11-23T08:47:09.728Z",
+      "messageText": "<https://socialyze.app|socialyze.app>",
+      "meta": {
+        "title": "Socialyze - Practice talking to people. Out loud.",
+        "description": "A 2-minute voice conversation with an AI who feels real, then an honest read of what happened: what landed, what cost you, and what you could have said. Practice, not therapy. Free in your browser.",
+        "favicon": "https://socialyze.app/favicon.svg",
+        "image": "https://socialyze.app/brand/share-card.png"
+      }
     }
   ]
 }
