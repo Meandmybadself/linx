@@ -10404,6 +10404,37 @@
       "collectedAt": "2026-11-22T19:18:22.779Z",
       "messageText": "Selling a Raspberry pi 5 8gb board. I had bought it to power <https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/|this kickstarter> but they just announced “oh so we decided that instead of being powered by a raspi5 we are going to c",
       "meta": null
+    },
+    {
+      "url": "https://music.apple.com/us/album/lucro-sucio-unfinished-business/6782105299",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1795383006.595559",
+      "collectedAt": "2026-11-23T00:40:55.020Z",
+      "messageText": "I got a couple really great live albums that are each pretty unique in their own way and coincidentally both pressed on red vinyl. First up, <https://music.apple.com/us/album/lucro-sucio-unfinished-business/6782105299|https://music.apple.com/us/album/lucro-sucio-unfinished-busine",
+      "meta": {
+        "title": "Lucro Sucio; Unfinished Business by The Mars Volta on Apple Music",
+        "description": "Album · 2026 · 13 Songs",
+        "favicon": "https://music.apple.com/assets/favicon/favicon-32.png",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/ae/f7/d3aef7a9-3cc9-8404-de78-b3b7edd8f626/196874417447.jpg/1200x630wp-60.jpg"
+      }
+    },
+    {
+      "url": "https://youtu.be/H44yMP7um5c",
+      "userId": "U04T8CDPR",
+      "userName": "jeffreyisham",
+      "channelId": "C07C8JRHS",
+      "channelName": "music",
+      "timestamp": "1795376373.767069",
+      "collectedAt": "2026-11-23T00:40:55.020Z",
+      "messageText": "<https://youtu.be/H44yMP7um5c|https://youtu.be/H44yMP7um5c> ",
+      "meta": {
+        "title": "- YouTube",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "favicon": "https://www.youtube.com/s/desktop/95c3254f/img/favicon_32x32.png"
+      }
     }
   ]
 }
