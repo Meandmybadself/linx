@@ -6971,7 +6971,12 @@
       "timestamp": "1788193155.473409",
       "collectedAt": "2026-08-31T21:52:07.510Z",
       "messageText": "<https://www.microcenter.com/site/content/bundle-and-save.aspx?bundle=intel|microcenter.com/site/content/bundle-and-save.aspx?bundle=intel>",
-      "meta": null
+      "meta": {
+        "title": "CPU and Motherboard Bundle Deals | AMD and Intel PC Bundles",
+        "description": "Save on AMD and Intel CPU, motherboard, and RAM bundles at Micro Center. Shop compatible PC part bundles online and pick up in store.",
+        "favicon": "https://www.microcenter.com/favicon.ico",
+        "image": "https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/bg.head01.gif"
+      }
     },
     {
       "url": "https://www.explorefall.com/",
@@ -10450,6 +10455,37 @@
         "description": "A 2-minute voice conversation with an AI who feels real, then an honest read of what happened: what landed, what cost you, and what you could have said. Practice, not therapy. Free in your browser.",
         "favicon": "https://socialyze.app/favicon.svg",
         "image": "https://socialyze.app/brand/share-card.png"
+      }
+    },
+    {
+      "url": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
+      "userId": "U364TS2VB",
+      "userName": "mikedrook",
+      "channelId": "C8H2GGT97",
+      "channelName": "gaming",
+      "timestamp": "1795449109.238699",
+      "collectedAt": "2026-11-23T21:03:09.396Z",
+      "messageText": "<https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186|kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles…>",
+      "meta": {
+        "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6's Towers Are: 'Oh My God Boys... Earthed Tower Legs With Saddles\"",
+        "description": "If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very",
+        "favicon": "https://kotaku.com/favicon.svg",
+        "image": "https://kotaku.com/app/uploads/2026/11/Gta-6-tower.jpg"
+      }
+    },
+    {
+      "url": "https://not-an-llm.com/meat-based-llm-proxies",
+      "userId": "U0544NBCK",
+      "userName": "dennis.lahay",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1795447105.221669",
+      "collectedAt": "2026-11-23T21:03:10.418Z",
+      "messageText": "<https://not-an-llm.com/meat-based-llm-proxies|not-an-llm.com/meat-based-llm-proxies>",
+      "meta": {
+        "title": "meat-based llm proxies · not-an-llm",
+        "description": null,
+        "favicon": "https://not-an-llm.com/data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20100%20100%27%3e%3ctext%20y=%27.9em%27%20font-size=%2790%27%3e%f0%9f%8d%96%3c/text%3e%3c/svg%3e"
       }
     }
   ]
