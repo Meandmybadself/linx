@@ -10487,6 +10487,22 @@
         "description": null,
         "favicon": "https://not-an-llm.com/data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20100%20100%27%3e%3ctext%20y=%27.9em%27%20font-size=%2790%27%3e%f0%9f%8d%96%3c/text%3e%3c/svg%3e"
       }
+    },
+    {
+      "url": "https://www.threads.com/@cdotfdotrandall/post/DgGVUSbkmoF",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C9MJT3MNJ",
+      "channelName": "politics",
+      "timestamp": "1795483741.521209",
+      "collectedAt": "2026-11-24T05:48:38.749Z",
+      "messageText": "<https://www.threads.com/@cdotfdotrandall/post/DgGVUSbkmoF|threads.com/@cdotfdotrandall/post/DgGVUSbkmoF>",
+      "meta": {
+        "title": "Chris Randall (@cdotfdotrandall) on Threads",
+        "description": "Dupont Circle Travel welcomes back founders Elizabeth and Philip Jennings",
+        "favicon": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
+        "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/924143518_17990612763115348_1467444752010896229_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAzNzAwNzg2OTE0MDQyOTMxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XrPz4e1NMB8Q7kNvwFV1Tqx&_nc_oc=AdozuX4JaE9oOssDKpm6FA0VGhQ4wXcT31obYBxP72E0C1COLEhmkUHeBq_RWbJp-Fo&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=m_uH5tsjlKo5xvFbsKrlMg&_nc_ss=7c389&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQFlviEtJvSvkUp2-f18h3eOZjJ9r8b7cqVYzwAkmf8bw&oe=6B0AE388"
+      }
     }
   ]
 }
