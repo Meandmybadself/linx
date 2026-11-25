@@ -10535,6 +10535,22 @@
         "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
         "image": "https://pbs.twimg.com/card_img/2125285260867014657/9Npuqehi?format=jpg&name=medium"
       }
+    },
+    {
+      "url": "https://openai.com/form/openworks-partner/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01711BNPRD",
+      "channelName": "ai",
+      "timestamp": "1795578004.557969",
+      "collectedAt": "2026-11-25T12:25:12.624Z",
+      "messageText": "I think this would be an interesting job: <https://openai.com/form/openworks-partner/>",
+      "meta": {
+        "title": "Become an OpenWorks partner",
+        "description": "Become an OpenWorks partner through OpenWorks.",
+        "favicon": "https://openai.com/favicon.svg",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/5C733J8RVX7JsCtZqVZnWA/2141154acad14442e507124e8b57fac3/openworks-social.png?w=1600&h=900&fit=fill"
+      }
     }
   ]
 }
