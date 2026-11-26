@@ -10567,6 +10567,22 @@
         "favicon": "https://openai.com/favicon.svg",
         "image": "https://images.ctfassets.net/kftzwdyauwt9/5C733J8RVX7JsCtZqVZnWA/2141154acad14442e507124e8b57fac3/openworks-social.png?w=1600&h=900&fit=fill"
       }
+    },
+    {
+      "url": "https://claydavis.meandmybadself.com/",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C03AQGA2F",
+      "channelName": "general",
+      "timestamp": "1795730354.882159",
+      "collectedAt": "2026-11-26T23:37:53.188Z",
+      "messageText": "Made something dumb – make sure you turn your speakers up:\n<https://claydavis.meandmybadself.com/|claydavis.meandmybadself.com>",
+      "meta": {
+        "title": "Shiiiiiiiiiiit. How long can you hold it?",
+        "description": "Mash A and B to keep Senator Clay Davis going. Play free in your browser, then dare your friends to beat your time.",
+        "favicon": "https://claydavis.meandmybadself.com/icon.png",
+        "image": "https://claydavis.meandmybadself.com/share.jpg"
+      }
     }
   ]
 }
