@@ -1694,7 +1694,11 @@
       "timestamp": "1776358285.482139",
       "collectedAt": "2026-04-16T17:36:22.701Z",
       "messageText": "<https://archive.ph/kuYqT>",
-      "meta": null
+      "meta": {
+        "title": "archive.ph",
+        "description": null,
+        "favicon": "https://archive.ph/favicon.ico"
+      }
     },
     {
       "url": "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html",
@@ -2805,7 +2809,11 @@
       "timestamp": "1778605946.066569",
       "collectedAt": "2026-05-12T17:46:19.173Z",
       "messageText": "Who could ever have predicted this?\n<https://fortune.com/2026/05/11/trump-mobile-gold-trump-phone-deposits-t1-device-fcc/> (<https://archive.is/iBpRP> - to get around paywall)",
-      "meta": null
+      "meta": {
+        "title": "archive.is",
+        "description": null,
+        "favicon": "https://archive.is/favicon.ico"
+      }
     },
     {
       "url": "https://www.epicfurious.com/",
@@ -2848,7 +2856,11 @@
       "timestamp": "1778790344.083569",
       "collectedAt": "2026-05-14T20:36:53.358Z",
       "messageText": "crossover with <#C083VJTGQ> and yesterday's chatter: part of the reason for today's spike in share price for RKLB, UFO, etc. is this announcement:\n\n<https://archive.ph/mJFdi>",
-      "meta": null
+      "meta": {
+        "title": "archive.ph",
+        "description": null,
+        "favicon": "https://archive.ph/favicon.ico"
+      }
     },
     {
       "url": "https://www.threads.com/@susanjohnson2.0/post/DYWMOUIjmhe",
@@ -3906,7 +3918,11 @@
       "timestamp": "1781036007.449629",
       "collectedAt": "2026-06-09T20:47:52.193Z",
       "messageText": "<https://archive.ph/ziAf7>",
-      "meta": null
+      "meta": {
+        "title": "archive.ph",
+        "description": null,
+        "favicon": "https://archive.ph/favicon.ico"
+      }
     },
     {
       "url": "https://thirdmanrecords.com/products/frozen-charlotte-third-man-exclusive-vinyl",
