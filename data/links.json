@@ -10583,6 +10583,38 @@
         "favicon": "https://claydavis.meandmybadself.com/icon.png",
         "image": "https://claydavis.meandmybadself.com/share.jpg"
       }
+    },
+    {
+      "url": "https://terraprinter.com/#lat=48.04989&amp;lon=-90.52257&amp;z=12.89&amp;p=50&amp;b=0&amp;tool=pan&amp;tm=single&amp;mr=2&amp;mc=2&amp;bm=esri&amp;sa=315&amp;sl=45&amp;hx=1&amp;flt=0&amp;tc=5b8a3a&amp;d=6&amp;sz=200&amp;ve=5.2&amp;bs=5&amp;slm=0&amp;rs=10&amp;sm=0&amp;st=1&amp;sh=1&amp;ec2=0&amp;sd=elevation&amp;bth=0&amp;pvb=1&amp;pb=0&amp;ts=realistic&amp;mcb=4&amp;mcn=120&amp;mcs=0.08&amp;mco=0.68&amp;mcw=0.88&amp;pzp=25&amp;pzg=0.24&amp;pze=classic&amp;pzl=grid&amp;tre=0&amp;lmk=1&amp;mbs=1.5&amp;trs=20&amp;trh=8&amp;frm=0&amp;frw=8&amp;frh=3&amp;lbl=0&amp;lbc=1&amp;con=0&amp;coi=50&amp;coh=0.7&amp;losm=012345&amp;pl=012345&amp;fc=ffffff%2C5cb3e8%2C7bb867%2C6b6f76%2C8a6342%2C2c2c2c&amp;fe2=1.0%2C1.0%2C1.0%2C1.0%2C1.0%2C1.0&amp;fw2=1.0%2C1.0%2C1.0&amp;surf=0&amp;scc=f5f9ff%2Ccfe6f2%2C2f6b34%2C7bb867%2C8c8378%2Ce7d9a8%2C5cb3e8&amp;sce=1111110&amp;scsrc=lc&amp;scn=6&amp;scrs=1&amp;scrd=38&amp;scmp=2.5&amp;scmx=4&amp;sel=rect%3A-90.54931%2C48.05905%2C-90.47031%2C48.03464&amp;pn=Poplar%20Lake",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C011ENT379C",
+      "channelName": "crafts-hobbies-projects",
+      "timestamp": "1795816803.791249",
+      "collectedAt": "2026-11-28T01:22:30.280Z",
+      "messageText": "saw this today: <https://terraprinter.com/#lat=48.04989&amp;lon=-90.52257&amp;z=12.89&amp;p=50&amp;b=0&amp;tool=pan&amp;tm=single&amp;mr=2&amp;mc=2&amp;bm=esri&amp;sa=315&amp;sl=45&amp;hx=1&amp;flt=0&amp;tc=5b8a3a&amp;d=6&amp;sz=200&amp;ve=5.2&amp;bs=5&amp;slm=0&amp;rs=10&amp;sm=",
+      "meta": {
+        "title": "TerraPrinter: Free 3D Map Generator – Any Place to STL & 3MF",
+        "description": "Capture real-world terrain with buildings, roads, and water on an interactive globe and export a printable 3D model. All in your browser.",
+        "favicon": "https://terraprinter.com/favicon/favicon-32x32.png",
+        "image": "https://terraprinter.com/og/terraprinter.jpg?v=tile"
+      }
+    },
+    {
+      "url": "https://loftie.com/products/loftie?srsltid=AY6E962mIwCm_8uRQcXvm78d8pMQMDgTK6rWYlBe7CiJJLzXqwbFZFXD",
+      "userId": "U03AQGA1Z",
+      "userName": "meandmybadself",
+      "channelId": "C01C8NJ9BEY",
+      "channelName": "shopping-sickness",
+      "timestamp": "1795806742.665669",
+      "collectedAt": "2026-11-28T01:22:30.776Z",
+      "messageText": "<https://loftie.com/products/loftie?srsltid=AY6E962mIwCm_8uRQcXvm78d8pMQMDgTK6rWYlBe7CiJJLzXqwbFZFXD|cute alarm clock> ",
+      "meta": {
+        "title": "Loftie Clock",
+        "description": "Shop the Loftie Alarm Clock, made to help you break up with your phone and get more sleep. With a dimmable display, nightlight, two-phase alarm, and more.",
+        "favicon": "https://loftie.com//loftie.com/cdn/shop/files/Frame_4_3a2c4c60-4498-4e81-8167-721bd4ae1632_96x96.png?v=1652278327",
+        "image": "https://loftie.com/cdn/shop/files/Black_2928ab08-cec5-4819-a602-a2c31771f81d_1200x1200_crop_center.jpg?v=1774903752"
+      }
     }
   ]
 }
